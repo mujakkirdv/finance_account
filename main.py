@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # ================= SETTINGS =================
-EXCEL_FILE = "data/accounts.xlsx"
+EXCEL_FILE = "accounts.xlsx"
 
 # ================= LOAD DATA =================
 
@@ -2188,4 +2188,5 @@ elif choice == "Settings":
 
 
 else:
+
     st.warning("Please upload a valid CSV file to view the financial analysis.")
