@@ -376,15 +376,15 @@ if 'bank_name' in df_filtered.columns and len(df_filtered) > 0:
             bank_transactions = df_filtered[df_filtered['bank_name'].notna() & (df_filtered['bank_name'] != '')]
             if len(bank_transactions) > 0:
                 # Select relevant columns
-                bank_cols = ['date', 'bank_name', 'bank_deposit', 'bank_withdrawal', 'voucher_no', 'account_head']
+                bank_cols = ['transaction_date', 'bank_name', 'bank_deposit', 'bank_withdrawal', 'voucher_no', 'account_head']
                 available_bank_cols = [col for col in bank_cols if col in bank_transactions.columns]
                 
                 bank_details = bank_transactions[available_bank_cols].copy()
-                bank_details = bank_details.sort_values('date', ascending=False)
+                bank_details = bank_details.sort_values('transaction_date', ascending=False)
                 
                 # Format the dataframe
-                if 'date' in bank_details.columns:
-                    bank_details['date'] = bank_details['date'].dt.strftime('%Y-%m-%d')
+                if 'transaction_date' in bank_details.columns:
+                    bank_details['transaction_date'] = bank_details['transaction_date'].dt.strftime('%Y-%m-%d')
                 
                 st.dataframe(bank_details, use_container_width=True)
                 
