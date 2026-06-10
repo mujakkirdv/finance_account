@@ -1,0 +1,101 @@
+## **.gitignore**
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Data files (uncomment if you don't want to track data files)
+# data/*.csv
+# *.csv
+# *.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+error_log/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Package management
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Project specific
+data_backup/
+reports/
+temp/
+*.pyc
+__pycache__/
+
+# Spreadsheet temporary files
+~$*.xlsx
+~$*.csv
+
+# Secret/Config files
+config.py
+secrets.py
+credentials.json
+*.key
+*.pem
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# React/Node (if any frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

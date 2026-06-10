@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,voucher_no,account_head,account_type,category,sub_category,party_name,payment_method,bank_name,reference,debit,credit,amount,remarks,created_by
+1,2024-10-18,VCH-000001,Packing Materials,Expense,COGS,Banking,XYZ Ltd.,Cheque,Dutch Bangla Bank,REF-7221-XYtV,22428.93,0.0,22428.93,Fly early morning voice so network few interview.,Finance Manager
+2,2025-08-25,VCH-000002,Product Sales,Revenue,Sales,Expense,Tech Solutions,Bank Transfer,Bkash,REF-2399-muNi,0.0,5839.69,5839.69,Thus try threat movie.,Admin
+3,2025-06-22,VCH-000003,Administrative Expenses,Expense,OPEX,Operations,XYZ Ltd.,Cash,Bkash,REF-0849-djVe,14334.64,0.0,14334.64,Huge sister tree girl social police.,Accounts Officer
+4,2025-08-06,VCH-000004,Loan From Managing Director,Liability,Loan,Expense,XYZ Ltd.,Cash,Dutch Bangla Bank,REF-5424-GlvF,98163.97,0.0,98163.97,Study big page single staff manage reduce.,Managing Director
+5,2025-10-15,VCH-000005,Managing Director Personal Expense,Equity,Drawings,Operations,Global Enterprises,Cheque,Nagad,REF-8008-FqBH,54387.19,0.0,54387.19,Field vote food second girl write.,Finance Manager
+6,2026-01-17,VCH-000006,Selling & Distribution Expenses,Expense,OPEX,Banking,Global Enterprises,Bkash,Dutch Bangla Bank,REF-3103-FXxa,74823.71,0.0,74823.71,Box thank could different.,Admin
+7,2026-04-13,VCH-000007,Selling & Distribution Expenses,Expense,OPEX,Operations,Prime Services,Cash,Sonali Bank,REF-9067-nFVG,98035.69,0.0,98035.69,On hotel but camera garden fill.,Managing Director
+8,2025-02-21,VCH-000008,Cashout Charge,Expense,Bank Charge,Expense,ABC Corporation,Cheque,Nagad,REF-3108-uvkm,91711.21,0.0,91711.21,Score offer understand policy sure media.,Accounts Officer
+9,2026-03-24,VCH-000009,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,ABC Corporation,Bank Transfer,Dutch Bangla Bank,REF-1500-vIyx,93149.38,0.0,93149.38,Increase rise prove.,Admin
+10,2025-03-06,VCH-000010,Selling & Distribution Expenses,Expense,OPEX,COGS,Tech Solutions,Bkash,City Bank,REF-4695-pXHL,66882.82,0.0,66882.82,Realize simply late drop around pull cause able.,Accounts Officer
+11,2024-12-14,VCH-000011,Investment Payment,Equity,Capital,Expense,Tech Solutions,Cheque,Dutch Bangla Bank,REF-3775-ENMQ,47061.16,0.0,47061.16,Support have maintain Mrs.,Accounts Officer
+12,2024-09-23,VCH-000012,Depreciation & Amortization,Expense,Non-Cash,Sales,Innovate Ltd.,Cash,Sonali Bank,REF-9562-wPCw,55255.76,0.0,55255.76,Term father class he process leader billion third.,Finance Manager
+13,2026-04-30,VCH-000013,Financial Expenses,Expense,Finance,Sales,Green Energy Co.,Cheque,Rupali Bank,REF-3022-DcQk,76209.24,0.0,76209.24,Effort education none arm bag.,Admin
+14,2024-08-28,VCH-000014,Loan From Managing Director,Liability,Loan,Expense,Innovate Ltd.,Bkash,Dutch Bangla Bank,REF-8447-rhQE,48818.63,0.0,48818.63,So forget stop our cover bed.,Admin
+15,2025-05-18,VCH-000015,Financial Expenses,Expense,Finance,Sales,Prime Services,Bkash,City Bank,REF-6508-ZCuR,80048.58,0.0,80048.58,Finally management majority.,Accounts Officer
+16,2025-11-04,VCH-000016,Cashout Charge,Expense,Bank Charge,Expense,ABC Corporation,Cash,Rupali Bank,REF-5432-UXhe,40871.47,0.0,40871.47,Marriage other help design bad.,Admin
+17,2024-11-12,VCH-000017,Miscellaneous Expenses,Expense,Other,Capital,Prime Services,Cheque,Dutch Bangla Bank,REF-5054-EWaX,57568.99,0.0,57568.99,Job tree skin under these someone represent.,Admin
+18,2025-12-26,VCH-000018,Financial Expenses,Expense,Finance,Banking,ABC Corporation,Bank Transfer,Bkash,REF-4606-echO,27817.98,0.0,27817.98,Office accept better civil character house.,Accounts Officer
+19,2024-08-05,VCH-000019,Depreciation & Amortization,Expense,Non-Cash,Expense,Innovate Ltd.,Nagad,Bkash,REF-0538-uzMP,42443.49,0.0,42443.49,Rule all information article care.,Finance Manager
+20,2024-06-19,VCH-000020,Managing Director Personal Expense,Equity,Drawings,Capital,XYZ Ltd.,Bkash,Sonali Bank,REF-5388-oHxN,68212.35,0.0,68212.35,Skill central whatever situation like bill including.,Admin
+21,2024-11-21,VCH-000021,Administrative Expenses,Expense,OPEX,Sales,XYZ Ltd.,Cash,Janata Bank,REF-1541-tJNL,26461.49,0.0,26461.49,Always science wear final.,Finance Manager
+22,2025-10-08,VCH-000022,Cashout Charge,Expense,Bank Charge,Capital,Tech Solutions,Nagad,Sonali Bank,REF-4091-wDmb,76326.02,0.0,76326.02,Develop moment often daughter happen mention hundred half.,Finance Manager
+23,2025-06-19,VCH-000023,Salaries & Employee Benefits,Expense,OPEX,Sales,Global Enterprises,Bank Transfer,Nagad,REF-2114-aWEb,20875.67,0.0,20875.67,One return each.,Accounts Officer
+24,2024-06-26,VCH-000024,Product Sales,Revenue,Sales,Expense,Green Energy Co.,Cash,Sonali Bank,REF-4890-kHOR,0.0,86024.7,86024.7,Understand nation bad remain sister tax.,Admin
+25,2025-01-14,VCH-000025,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Innovate Ltd.,Cash,Sonali Bank,REF-3173-kTNc,72573.84,0.0,72573.84,Leg decide movie actually young good court.,Accounts Officer
+26,2025-11-30,VCH-000026,Selling & Distribution Expenses,Expense,OPEX,Expense,Prime Services,Cheque,Sonali Bank,REF-1198-NrXR,72746.04,0.0,72746.04,Only fact alone easy thousand better director.,Accounts Officer
+27,2024-06-14,VCH-000027,Cashout Charge,Expense,Bank Charge,Banking,Innovate Ltd.,Bkash,Janata Bank,REF-0406-lBgo,2864.83,0.0,2864.83,Reality learn direction along science article election place.,Finance Manager
+28,2024-06-16,VCH-000028,Financial Expenses,Expense,Finance,COGS,Global Enterprises,Cheque,City Bank,REF-1352-YQzt,17483.22,0.0,17483.22,A vote office although just too agreement.,Admin
+29,2025-05-05,VCH-000029,Miscellaneous Expenses,Expense,Other,Sales,ABC Corporation,Nagad,Sonali Bank,REF-5988-KFwv,68240.37,0.0,68240.37,Thought happy back deep service quickly culture.,Managing Director
+30,2025-09-13,VCH-000030,Salaries & Employee Benefits,Expense,OPEX,COGS,ABC Corporation,Cash,Sonali Bank,REF-1483-tROB,97407.21,0.0,97407.21,Health almost international listen rock near still walk.,Admin
+31,2025-02-07,VCH-000031,Investment Payment,Equity,Capital,Expense,ABC Corporation,Bkash,Janata Bank,REF-1776-qwCs,6479.2,0.0,6479.2,Place describe campaign class already.,Admin
+32,2025-09-11,VCH-000032,Financial Expenses,Expense,Finance,Expense,Innovate Ltd.,Nagad,Sonali Bank,REF-8049-arDJ,68230.74,0.0,68230.74,Tell door option fine create.,Admin
+33,2024-08-15,VCH-000033,Managing Director Personal Expense,Equity,Drawings,Banking,Green Energy Co.,Cheque,Janata Bank,REF-3791-MXtn,59688.72,0.0,59688.72,Some art serious attorney.,Admin
+34,2025-12-23,VCH-000034,Marketing & Sales Expenses,Expense,OPEX,COGS,XYZ Ltd.,Bank Transfer,Janata Bank,REF-7590-iwvT,56163.93,0.0,56163.93,Best agreement something want themselves.,Finance Manager
+35,2024-10-18,VCH-000035,Cashout Charge,Expense,Bank Charge,Expense,Tech Solutions,Cash,Sonali Bank,REF-0976-qJvV,21509.83,0.0,21509.83,Note painting trip glass oil home simple.,Admin
+36,2025-07-13,VCH-000036,Selling & Distribution Expenses,Expense,OPEX,Capital,Innovate Ltd.,Cash,BRAC Bank,REF-3809-RIbW,60162.72,0.0,60162.72,Daughter owner eye cultural.,Managing Director
+37,2024-09-26,VCH-000037,Salaries & Employee Benefits,Expense,OPEX,COGS,Innovate Ltd.,Bkash,Bkash,REF-3146-vtsk,58345.25,0.0,58345.25,Community like draw campaign improve eye pretty collection.,Managing Director
+38,2024-09-18,VCH-000038,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,ABC Corporation,Bkash,Rupali Bank,REF-1963-EYnf,31053.17,0.0,31053.17,Might very task table effort.,Finance Manager
+39,2024-12-04,VCH-000039,Financial Expenses,Expense,Finance,Banking,XYZ Ltd.,Cash,Sonali Bank,REF-5490-WQil,75602.39,0.0,75602.39,Western use effect whatever window wonder every enjoy.,Accounts Officer
+40,2024-11-28,VCH-000040,Product Sales,Revenue,Sales,Capital,Prime Services,Cash,City Bank,REF-5255-Wtcz,0.0,90335.64,90335.64,Worry middle continue young open late.,Finance Manager
+41,2024-07-28,VCH-000041,Managing Director Personal Expense,Equity,Drawings,Capital,XYZ Ltd.,Nagad,City Bank,REF-7226-VeiR,89616.63,0.0,89616.63,Quite when reflect realize program shoulder raise.,Accounts Officer
+42,2024-09-23,VCH-000042,Administrative Expenses,Expense,OPEX,Sales,Green Energy Co.,Bank Transfer,Bkash,REF-0063-oKTu,5568.05,0.0,5568.05,Lawyer make admit something painting option eat how.,Accounts Officer
+43,2025-08-16,VCH-000043,Cashout Charge,Expense,Bank Charge,Capital,ABC Corporation,Bkash,Nagad,REF-2941-rnGH,62646.93,0.0,62646.93,Project movie career others partner water.,Managing Director
+44,2024-10-06,VCH-000044,Financial Expenses,Expense,Finance,COGS,ABC Corporation,Cheque,Bkash,REF-9274-wNUk,59091.42,0.0,59091.42,Student machine energy class.,Accounts Officer
+45,2024-07-04,VCH-000045,Salaries & Employee Benefits,Expense,OPEX,Capital,Global Enterprises,Cash,Nagad,REF-5229-KsLI,12781.57,0.0,12781.57,Factor travel must policy alone.,Finance Manager
+46,2026-03-08,VCH-000046,Selling & Distribution Expenses,Expense,OPEX,COGS,Prime Services,Nagad,Janata Bank,REF-3868-SkJx,64735.65,0.0,64735.65,Modern president Congress TV listen subject social visit.,Finance Manager
+47,2024-06-22,VCH-000047,Depreciation & Amortization,Expense,Non-Cash,Operations,Prime Services,Bkash,Janata Bank,REF-4454-RiYh,66165.25,0.0,66165.25,Energy example wish arm me into.,Admin
+48,2024-11-04,VCH-000048,Marketing & Sales Expenses,Expense,OPEX,Banking,Tech Solutions,Cheque,BRAC Bank,REF-4245-wWIh,15840.17,0.0,15840.17,Leave operation other.,Managing Director
+49,2026-04-01,VCH-000049,Product Sales,Revenue,Sales,Banking,Prime Services,Cash,Rupali Bank,REF-6704-wHIn,0.0,2781.9,2781.9,So everybody hair mention paper local they model.,Accounts Officer
+50,2025-05-20,VCH-000050,Miscellaneous Expenses,Expense,Other,Capital,Global Enterprises,Cheque,Janata Bank,REF-6051-wwVB,4009.51,0.0,4009.51,Poor cultural hit official.,Accounts Officer
+51,2026-05-29,VCH-000051,Administrative Expenses,Expense,OPEX,Operations,Innovate Ltd.,Nagad,Dutch Bangla Bank,REF-0551-pnuD,44737.5,0.0,44737.5,Today sort environment throw sister meet that own.,Managing Director
+52,2024-10-26,VCH-000052,Cashout Charge,Expense,Bank Charge,Sales,Tech Solutions,Cash,Janata Bank,REF-4234-BSrf,84006.28,0.0,84006.28,Man response class same.,Accounts Officer
+53,2025-12-31,VCH-000053,Administrative Expenses,Expense,OPEX,Banking,Innovate Ltd.,Bank Transfer,City Bank,REF-3591-umlg,11547.91,0.0,11547.91,Personal perform defense late president woman.,Admin
+54,2024-08-14,VCH-000054,Selling & Distribution Expenses,Expense,OPEX,Banking,Green Energy Co.,Cheque,Nagad,REF-2187-IJgj,9930.96,0.0,9930.96,Morning forward himself.,Accounts Officer
+55,2026-01-16,VCH-000055,Depreciation & Amortization,Expense,Non-Cash,Sales,Green Energy Co.,Cash,Dutch Bangla Bank,REF-0768-MCnT,32967.46,0.0,32967.46,Whether my ball.,Finance Manager
+56,2025-07-04,VCH-000056,Administrative Expenses,Expense,OPEX,COGS,Global Enterprises,Bank Transfer,Dutch Bangla Bank,REF-9806-qGEh,20229.15,0.0,20229.15,Decision various dog today both every.,Accounts Officer
+57,2025-01-02,VCH-000057,Managing Director Personal Expense,Equity,Drawings,Operations,ABC Corporation,Bkash,City Bank,REF-3154-CWqf,86528.42,0.0,86528.42,Organization debate fight hair.,Admin
+58,2024-11-27,VCH-000058,Marketing & Sales Expenses,Expense,OPEX,Operations,Green Energy Co.,Bkash,Nagad,REF-3469-MTvW,78913.87,0.0,78913.87,Purpose wall either statement.,Admin
+59,2025-10-21,VCH-000059,Packing Materials,Expense,COGS,COGS,Green Energy Co.,Cheque,Rupali Bank,REF-8539-HPad,78125.58,0.0,78125.58,Economic scene owner hundred item simply.,Admin
+60,2025-09-14,VCH-000060,Salaries & Employee Benefits,Expense,OPEX,Sales,Prime Services,Bank Transfer,BRAC Bank,REF-6191-fePo,45322.38,0.0,45322.38,Rock change fact.,Managing Director
+61,2025-04-11,VCH-000061,Loan From Managing Director,Liability,Loan,Sales,ABC Corporation,Bkash,Janata Bank,REF-5360-rhla,19960.08,0.0,19960.08,Side surface floor name.,Admin
+62,2024-07-17,VCH-000062,Administrative Expenses,Expense,OPEX,Sales,Prime Services,Bank Transfer,Bkash,REF-0729-QDmb,80955.97,0.0,80955.97,Present on turn partner sense debate.,Admin
+63,2024-08-28,VCH-000063,Packing Materials,Expense,COGS,Sales,ABC Corporation,Bkash,Nagad,REF-2083-gPSz,86626.31,0.0,86626.31,Scene forward information.,Managing Director
+64,2025-09-12,VCH-000064,Investment Payment,Equity,Capital,Operations,Global Enterprises,Cheque,Bkash,REF-0139-obtg,38642.6,0.0,38642.6,Decade name idea job might.,Accounts Officer
+65,2025-03-24,VCH-000065,Loan From Managing Director,Liability,Loan,Operations,Prime Services,Bank Transfer,Dutch Bangla Bank,REF-7582-dsLJ,60520.7,0.0,60520.7,Cultural myself huge.,Admin
+66,2026-01-23,VCH-000066,Loan From Managing Director,Liability,Loan,Banking,XYZ Ltd.,Bank Transfer,Nagad,REF-9549-SKJF,70265.45,0.0,70265.45,Matter likely energy spend attorney imagine discover.,Managing Director
+67,2025-06-12,VCH-000067,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,XYZ Ltd.,Bank Transfer,Nagad,REF-5974-kmNw,5471.52,0.0,5471.52,Wall local part contain pattern reality particular within.,Accounts Officer
+68,2025-01-04,VCH-000068,Financial Expenses,Expense,Finance,Expense,Prime Services,Bkash,BRAC Bank,REF-6746-qNCM,3206.31,0.0,3206.31,Threat apply around health news.,Finance Manager
+69,2024-12-05,VCH-000069,Product Sales,Revenue,Sales,COGS,XYZ Ltd.,Cash,Sonali Bank,REF-6032-mjTo,0.0,49375.07,49375.07,Technology seven appear seven act.,Managing Director
+70,2025-05-15,VCH-000070,Managing Director Personal Expense,Equity,Drawings,Expense,Global Enterprises,Bkash,Sonali Bank,REF-6481-VVDI,85578.22,0.0,85578.22,End bill leg with population shake.,Managing Director
+71,2025-12-12,VCH-000071,Depreciation & Amortization,Expense,Non-Cash,Operations,Green Energy Co.,Bank Transfer,Sonali Bank,REF-7422-FbqY,65527.14,0.0,65527.14,Level it five leave rest.,Finance Manager
+72,2025-08-21,VCH-000072,Managing Director Personal Expense,Equity,Drawings,Expense,Global Enterprises,Bank Transfer,Bkash,REF-8058-htPN,73290.02,0.0,73290.02,Even government decision follow.,Accounts Officer
+73,2025-11-21,VCH-000073,Loan From Managing Director,Liability,Loan,COGS,Prime Services,Bank Transfer,Rupali Bank,REF-3405-SAMz,82880.65,0.0,82880.65,View rich position training.,Finance Manager
+74,2025-12-26,VCH-000074,Administrative Expenses,Expense,OPEX,Sales,Prime Services,Cheque,Bkash,REF-1003-fZtN,9769.34,0.0,9769.34,Late why before what share environmental soon.,Finance Manager
+75,2024-08-16,VCH-000075,Managing Director Personal Expense,Equity,Drawings,Sales,XYZ Ltd.,Nagad,Dutch Bangla Bank,REF-2250-bkih,37531.74,0.0,37531.74,Film American where focus story.,Accounts Officer
+76,2025-09-05,VCH-000076,Packing Materials,Expense,COGS,Operations,Green Energy Co.,Bkash,Nagad,REF-6167-nPLR,68454.87,0.0,68454.87,Population may writer fire growth recently.,Finance Manager
+77,2025-07-28,VCH-000077,Depreciation & Amortization,Expense,Non-Cash,Capital,ABC Corporation,Cheque,Janata Bank,REF-5887-uDMo,48637.22,0.0,48637.22,Moment soon although rest activity candidate various.,Accounts Officer
+78,2026-02-08,VCH-000078,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Global Enterprises,Cash,Sonali Bank,REF-5774-aaxa,60366.77,0.0,60366.77,Early opportunity my cover religious ready their.,Managing Director
+79,2025-09-16,VCH-000079,Miscellaneous Expenses,Expense,Other,Expense,Tech Solutions,Cash,City Bank,REF-0529-JxPk,1681.77,0.0,1681.77,Machine create when organization attack.,Accounts Officer
+80,2026-03-21,VCH-000080,Product Sales,Revenue,Sales,Capital,Innovate Ltd.,Cheque,Nagad,REF-1187-ORbh,0.0,42922.79,42922.79,Success society budget attack with high such.,Accounts Officer
+81,2024-09-09,VCH-000081,Packing Materials,Expense,COGS,Banking,ABC Corporation,Bank Transfer,Bkash,REF-4797-FNVd,38152.54,0.0,38152.54,Current offer base movie across under I.,Admin
+82,2025-10-20,VCH-000082,Salaries & Employee Benefits,Expense,OPEX,Operations,Prime Services,Bank Transfer,Rupali Bank,REF-0474-bzil,89980.99,0.0,89980.99,Shake skill political simple fill.,Accounts Officer
+83,2026-02-01,VCH-000083,Packing Materials,Expense,COGS,Capital,Innovate Ltd.,Nagad,BRAC Bank,REF-5619-UgrP,50416.38,0.0,50416.38,Fly wall same much sure order adult professional.,Finance Manager
+84,2024-12-08,VCH-000084,Investment Payment,Equity,Capital,COGS,Prime Services,Cash,Nagad,REF-2070-fVGu,6577.27,0.0,6577.27,Low fish leg.,Managing Director
+85,2024-08-01,VCH-000085,Investment Payment,Equity,Capital,Expense,ABC Corporation,Cheque,Bkash,REF-4427-QYCX,84184.01,0.0,84184.01,Dog condition certainly nearly current.,Finance Manager
+86,2025-02-11,VCH-000086,Loan From Managing Director,Liability,Loan,Capital,XYZ Ltd.,Cheque,City Bank,REF-7510-XMjX,77335.73,0.0,77335.73,Economy general window speak happen market.,Finance Manager
+87,2025-07-26,VCH-000087,Managing Director Personal Expense,Equity,Drawings,Banking,Innovate Ltd.,Cash,Janata Bank,REF-9267-DZdh,65413.99,0.0,65413.99,Key investment generation summer.,Managing Director
+88,2026-03-15,VCH-000088,Salaries & Employee Benefits,Expense,OPEX,Sales,XYZ Ltd.,Cash,Bkash,REF-5887-KWwB,14886.6,0.0,14886.6,Require discuss machine her.,Admin
+89,2026-02-17,VCH-000089,Selling & Distribution Expenses,Expense,OPEX,Sales,Green Energy Co.,Cash,Sonali Bank,REF-2335-UOif,30285.63,0.0,30285.63,Out certain clear land tough center.,Managing Director
+90,2025-03-24,VCH-000090,Packing Materials,Expense,COGS,Expense,Green Energy Co.,Cheque,Janata Bank,REF-4389-jcqH,2568.19,0.0,2568.19,Sense laugh although majority.,Accounts Officer
+91,2025-04-19,VCH-000091,Marketing & Sales Expenses,Expense,OPEX,COGS,Innovate Ltd.,Cash,Dutch Bangla Bank,REF-3692-ZOMD,2282.73,0.0,2282.73,Player model kid learn near manage according.,Accounts Officer
+92,2024-10-23,VCH-000092,Depreciation & Amortization,Expense,Non-Cash,Expense,Green Energy Co.,Cash,Nagad,REF-8080-Hrmp,3376.29,0.0,3376.29,Avoid poor sister population.,Accounts Officer
+93,2025-03-19,VCH-000093,Product Sales,Revenue,Sales,COGS,Prime Services,Cash,Dutch Bangla Bank,REF-8019-EkQV,0.0,33299.51,33299.51,Manager stop group series.,Accounts Officer
+94,2025-07-25,VCH-000094,Financial Expenses,Expense,Finance,Capital,Prime Services,Bank Transfer,Bkash,REF-5632-gOLI,67867.15,0.0,67867.15,Activity analysis people indicate rise join here.,Admin
+95,2026-03-30,VCH-000095,Miscellaneous Expenses,Expense,Other,Sales,Prime Services,Nagad,Dutch Bangla Bank,REF-3875-UEYU,42644.82,0.0,42644.82,Car leader personal wind instead painting.,Managing Director
+96,2024-06-29,VCH-000096,Administrative Expenses,Expense,OPEX,Operations,Tech Solutions,Bkash,Sonali Bank,REF-5253-TguA,22225.24,0.0,22225.24,Quite prevent option watch be natural particularly sure.,Finance Manager
+97,2025-09-21,VCH-000097,Selling & Distribution Expenses,Expense,OPEX,Expense,Prime Services,Bank Transfer,City Bank,REF-8972-ApNN,38567.64,0.0,38567.64,Hour outside least gas edge someone exactly.,Managing Director
+98,2025-01-03,VCH-000098,Selling & Distribution Expenses,Expense,OPEX,Expense,Prime Services,Bkash,Janata Bank,REF-5482-Ozkt,47378.35,0.0,47378.35,Raise usually first set meeting the discussion.,Admin
+99,2025-12-24,VCH-000099,Cashout Charge,Expense,Bank Charge,Expense,ABC Corporation,Nagad,Janata Bank,REF-6918-YzDz,89740.74,0.0,89740.74,Under then spring wall wonder.,Admin
+100,2025-06-04,VCH-000100,Cashout Charge,Expense,Bank Charge,Sales,XYZ Ltd.,Bkash,Janata Bank,REF-9348-VOsV,26495.44,0.0,26495.44,Watch perhaps city detail act sister agency.,Managing Director
+101,2024-11-09,VCH-000101,Selling & Distribution Expenses,Expense,OPEX,Banking,ABC Corporation,Cash,BRAC Bank,REF-8172-IBsS,89633.07,0.0,89633.07,All positive bad election sell piece people.,Managing Director
+102,2025-05-17,VCH-000102,Salaries & Employee Benefits,Expense,OPEX,Operations,XYZ Ltd.,Bkash,Dutch Bangla Bank,REF-4408-peTs,86196.6,0.0,86196.6,Top measure American pretty probably family interview.,Admin
+103,2024-10-08,VCH-000103,Investment Payment,Equity,Capital,Capital,XYZ Ltd.,Cash,Nagad,REF-9664-ItGu,46424.49,0.0,46424.49,Pass remain ever generation.,Admin
+104,2025-11-20,VCH-000104,Product Sales,Revenue,Sales,Operations,Green Energy Co.,Nagad,Rupali Bank,REF-4529-xFVe,0.0,91706.45,91706.45,Star student risk media alone section.,Finance Manager
+105,2025-10-04,VCH-000105,Salaries & Employee Benefits,Expense,OPEX,Sales,Global Enterprises,Bkash,BRAC Bank,REF-8060-TcAL,10851.89,0.0,10851.89,Current follow almost particularly issue sometimes play.,Finance Manager
+106,2025-12-15,VCH-000106,Administrative Expenses,Expense,OPEX,Banking,ABC Corporation,Nagad,Dutch Bangla Bank,REF-9761-lwau,52240.83,0.0,52240.83,Body whose air almost seem.,Finance Manager
+107,2026-05-13,VCH-000107,Administrative Expenses,Expense,OPEX,Operations,Tech Solutions,Cheque,Bkash,REF-4297-kVtP,88900.6,0.0,88900.6,Too support boy his let.,Finance Manager
+108,2025-12-15,VCH-000108,Investment Payment,Equity,Capital,Capital,ABC Corporation,Bank Transfer,Bkash,REF-5447-OIxk,37921.09,0.0,37921.09,Perform director democratic make.,Accounts Officer
+109,2025-06-28,VCH-000109,Loan From Managing Director,Liability,Loan,Sales,Global Enterprises,Bkash,BRAC Bank,REF-9308-IOaP,95376.87,0.0,95376.87,To campaign discover collection important mean.,Accounts Officer
+110,2026-03-11,VCH-000110,Managing Director Personal Expense,Equity,Drawings,COGS,ABC Corporation,Nagad,Bkash,REF-7509-nSda,49689.81,0.0,49689.81,Away economy accept there.,Managing Director
+111,2025-04-15,VCH-000111,Packing Materials,Expense,COGS,COGS,Tech Solutions,Cash,BRAC Bank,REF-3072-ZQJB,5680.88,0.0,5680.88,Type discover often thousand minute.,Finance Manager
+112,2025-12-16,VCH-000112,Depreciation & Amortization,Expense,Non-Cash,COGS,Tech Solutions,Cheque,Dutch Bangla Bank,REF-2456-Vzkn,85533.57,0.0,85533.57,Letter teach blue success might fill.,Accounts Officer
+113,2026-05-31,VCH-000113,Miscellaneous Expenses,Expense,Other,COGS,Green Energy Co.,Nagad,City Bank,REF-4952-SiLW,19763.74,0.0,19763.74,Use heart against American.,Admin
+114,2025-12-10,VCH-000114,Cashout Charge,Expense,Bank Charge,COGS,Prime Services,Cash,BRAC Bank,REF-3824-HzIO,26518.69,0.0,26518.69,During particular town always.,Accounts Officer
+115,2025-09-05,VCH-000115,Managing Director Personal Expense,Equity,Drawings,Sales,Innovate Ltd.,Nagad,Sonali Bank,REF-7687-ueNW,2285.23,0.0,2285.23,Room own play that radio professional.,Finance Manager
+116,2025-12-15,VCH-000116,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Prime Services,Cheque,Janata Bank,REF-7892-gSAU,89917.68,0.0,89917.68,Tree focus particularly trouble age short country.,Finance Manager
+117,2025-10-14,VCH-000117,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,ABC Corporation,Cash,Dutch Bangla Bank,REF-6886-ZKDc,44774.33,0.0,44774.33,Worker evening record idea.,Finance Manager
+118,2024-06-20,VCH-000118,Selling & Distribution Expenses,Expense,OPEX,Capital,Global Enterprises,Bank Transfer,BRAC Bank,REF-7515-deom,95901.35,0.0,95901.35,Yet occur increase former have central threat.,Managing Director
+119,2025-09-17,VCH-000119,Selling & Distribution Expenses,Expense,OPEX,Operations,ABC Corporation,Cheque,Dutch Bangla Bank,REF-7726-Wlwv,15077.25,0.0,15077.25,Sea together early line yeah.,Finance Manager
+120,2024-12-24,VCH-000120,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Prime Services,Bank Transfer,Sonali Bank,REF-4488-taGM,95392.48,0.0,95392.48,Add if voice beautiful.,Accounts Officer
+121,2025-11-19,VCH-000121,Managing Director Personal Expense,Equity,Drawings,Operations,XYZ Ltd.,Cash,Nagad,REF-3375-gALd,96727.37,0.0,96727.37,Campaign tree some themselves.,Finance Manager
+122,2025-02-16,VCH-000122,Marketing & Sales Expenses,Expense,OPEX,Sales,Tech Solutions,Bkash,Rupali Bank,REF-6773-BBDi,72049.79,0.0,72049.79,Which interest cut.,Finance Manager
+123,2025-08-21,VCH-000123,Salaries & Employee Benefits,Expense,OPEX,Banking,ABC Corporation,Cash,Janata Bank,REF-2606-ZNJk,55434.53,0.0,55434.53,Player across become positive.,Accounts Officer
+124,2025-11-05,VCH-000124,Selling & Distribution Expenses,Expense,OPEX,Operations,XYZ Ltd.,Nagad,Bkash,REF-1523-DCxM,34686.04,0.0,34686.04,Shoulder rich table treatment either despite.,Accounts Officer
+125,2024-09-22,VCH-000125,Salaries & Employee Benefits,Expense,OPEX,Expense,XYZ Ltd.,Cheque,Bkash,REF-7256-rBjL,16464.06,0.0,16464.06,Season suffer phone much when television.,Admin
+126,2026-05-05,VCH-000126,Depreciation & Amortization,Expense,Non-Cash,COGS,XYZ Ltd.,Nagad,Rupali Bank,REF-0574-JmAW,16090.27,0.0,16090.27,Official forward food.,Admin
+127,2025-03-18,VCH-000127,Selling & Distribution Expenses,Expense,OPEX,Capital,Global Enterprises,Cash,Bkash,REF-3650-LvmY,55639.36,0.0,55639.36,Amount right stay little nice.,Admin
+128,2026-01-07,VCH-000128,Loan From Managing Director,Liability,Loan,COGS,Innovate Ltd.,Bkash,BRAC Bank,REF-1727-NiSC,25072.84,0.0,25072.84,Behavior man though next time human pretty draw.,Finance Manager
+129,2025-07-20,VCH-000129,Loan From Managing Director,Liability,Loan,COGS,XYZ Ltd.,Cash,BRAC Bank,REF-4104-GwxF,46522.01,0.0,46522.01,Carry these along want.,Admin
+130,2024-08-31,VCH-000130,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Green Energy Co.,Cash,Dutch Bangla Bank,REF-0372-ysMS,88033.74,0.0,88033.74,Guy degree process full current.,Admin
+131,2025-06-05,VCH-000131,Salaries & Employee Benefits,Expense,OPEX,COGS,Green Energy Co.,Bank Transfer,Bkash,REF-4924-iYLn,71913.76,0.0,71913.76,Week case speak.,Admin
+132,2026-02-23,VCH-000132,Product Sales,Revenue,Sales,Expense,Global Enterprises,Cheque,BRAC Bank,REF-1341-teYA,0.0,99938.95,99938.95,Design finally however produce kind.,Managing Director
+133,2025-10-20,VCH-000133,Packing Materials,Expense,COGS,Sales,Tech Solutions,Cash,Dutch Bangla Bank,REF-1716-gLik,3263.87,0.0,3263.87,Back city speech sign prove piece brother.,Admin
+134,2024-08-13,VCH-000134,Marketing & Sales Expenses,Expense,OPEX,Capital,Prime Services,Bank Transfer,Rupali Bank,REF-0183-wYGE,2426.78,0.0,2426.78,Exactly letter option pick quickly live.,Accounts Officer
+135,2025-12-23,VCH-000135,Packing Materials,Expense,COGS,Operations,Prime Services,Cheque,Dutch Bangla Bank,REF-4541-OxNw,6434.53,0.0,6434.53,Me keep stay attention fall major arrive budget.,Managing Director
+136,2025-05-18,VCH-000136,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Global Enterprises,Nagad,BRAC Bank,REF-3387-rMyq,62535.16,0.0,62535.16,Executive right black involve during.,Accounts Officer
+137,2025-06-05,VCH-000137,Product Sales,Revenue,Sales,Sales,Prime Services,Cheque,City Bank,REF-5623-pVTd,0.0,70229.09,70229.09,Family direction fall trial.,Accounts Officer
+138,2026-01-03,VCH-000138,Financial Expenses,Expense,Finance,Operations,Prime Services,Nagad,Janata Bank,REF-4205-sGgR,54296.57,0.0,54296.57,Risk level blue full statement cell.,Managing Director
+139,2024-10-01,VCH-000139,Miscellaneous Expenses,Expense,Other,Capital,Innovate Ltd.,Nagad,Dutch Bangla Bank,REF-8495-hlzg,51491.53,0.0,51491.53,Apply my both several main probably always.,Managing Director
+140,2024-08-03,VCH-000140,Product Sales,Revenue,Sales,Operations,Tech Solutions,Cash,City Bank,REF-0526-CWek,0.0,92774.67,92774.67,Name deep physical prevent.,Accounts Officer
+141,2025-07-27,VCH-000141,Marketing & Sales Expenses,Expense,OPEX,Capital,Green Energy Co.,Cheque,Rupali Bank,REF-7346-MVCH,27668.18,0.0,27668.18,Group hour pattern every response campaign affect.,Managing Director
+142,2025-03-22,VCH-000142,Depreciation & Amortization,Expense,Non-Cash,COGS,Global Enterprises,Nagad,Nagad,REF-9800-pMVz,15161.15,0.0,15161.15,Pressure teacher management act.,Admin
+143,2026-01-16,VCH-000143,Salaries & Employee Benefits,Expense,OPEX,Sales,Prime Services,Cheque,BRAC Bank,REF-5602-aJsy,70510.07,0.0,70510.07,Single contain price toward three husband room area.,Finance Manager
+144,2026-05-28,VCH-000144,Product Sales,Revenue,Sales,Capital,XYZ Ltd.,Cash,Janata Bank,REF-4225-IkNS,0.0,49545.11,49545.11,Particular realize way.,Finance Manager
+145,2025-12-31,VCH-000145,Cashout Charge,Expense,Bank Charge,Sales,XYZ Ltd.,Bank Transfer,Rupali Bank,REF-2537-gJvQ,6326.36,0.0,6326.36,Democrat realize close movement.,Finance Manager
+146,2026-03-08,VCH-000146,Cashout Charge,Expense,Bank Charge,Expense,ABC Corporation,Cash,Sonali Bank,REF-4154-AshZ,42467.08,0.0,42467.08,Really order employee student top young maintain.,Managing Director
+147,2025-09-09,VCH-000147,Salaries & Employee Benefits,Expense,OPEX,Banking,Global Enterprises,Nagad,Nagad,REF-5411-PCeF,69210.81,0.0,69210.81,Part cultural get only speak vote.,Finance Manager
+148,2025-09-24,VCH-000148,Managing Director Personal Expense,Equity,Drawings,Banking,Innovate Ltd.,Cheque,Rupali Bank,REF-9287-eycX,677.66,0.0,677.66,Enough discover we medical.,Admin
+149,2025-11-23,VCH-000149,Loan From Managing Director,Liability,Loan,COGS,XYZ Ltd.,Cash,Sonali Bank,REF-4613-BOGm,60518.37,0.0,60518.37,Fund land style water particularly state discussion old.,Finance Manager
+150,2025-02-12,VCH-000150,Financial Expenses,Expense,Finance,Expense,Global Enterprises,Nagad,City Bank,REF-6552-exhh,84665.19,0.0,84665.19,American just interesting natural.,Finance Manager
+151,2025-08-15,VCH-000151,Loan From Managing Director,Liability,Loan,Capital,Innovate Ltd.,Cash,City Bank,REF-5136-HcVI,68667.94,0.0,68667.94,Ten determine stock too.,Admin
+152,2025-09-23,VCH-000152,Miscellaneous Expenses,Expense,Other,Expense,XYZ Ltd.,Cash,Nagad,REF-2488-Obka,72594.56,0.0,72594.56,Raise power test number anything.,Finance Manager
+153,2025-05-11,VCH-000153,Miscellaneous Expenses,Expense,Other,Expense,Innovate Ltd.,Cash,Nagad,REF-0548-lIvF,68945.68,0.0,68945.68,Ok pretty big.,Accounts Officer
+154,2024-07-24,VCH-000154,Managing Director Personal Expense,Equity,Drawings,Sales,Tech Solutions,Cash,Janata Bank,REF-6470-vhia,55713.32,0.0,55713.32,About note chance entire expect guess.,Finance Manager
+155,2025-01-11,VCH-000155,Miscellaneous Expenses,Expense,Other,Capital,Prime Services,Nagad,BRAC Bank,REF-0569-mLIx,51066.0,0.0,51066.0,Claim ability world rise idea.,Managing Director
+156,2025-05-22,VCH-000156,Salaries & Employee Benefits,Expense,OPEX,Operations,Global Enterprises,Cheque,Dutch Bangla Bank,REF-3734-ouzq,52681.77,0.0,52681.77,Form seat care look room.,Managing Director
+157,2025-07-16,VCH-000157,Financial Expenses,Expense,Finance,Capital,ABC Corporation,Bkash,Nagad,REF-8883-ifgb,38357.95,0.0,38357.95,Action cover food should professor.,Managing Director
+158,2025-06-01,VCH-000158,Loan From Managing Director,Liability,Loan,Sales,Tech Solutions,Nagad,Sonali Bank,REF-8630-BzjB,14788.6,0.0,14788.6,Anything agree house identify cut.,Finance Manager
+159,2025-10-23,VCH-000159,Administrative Expenses,Expense,OPEX,Sales,Green Energy Co.,Bank Transfer,Janata Bank,REF-3300-imxX,2237.34,0.0,2237.34,Send own former support tree.,Admin
+160,2025-08-31,VCH-000160,Marketing & Sales Expenses,Expense,OPEX,Operations,Tech Solutions,Nagad,Rupali Bank,REF-2576-PUDj,25269.28,0.0,25269.28,Wrong yourself others kind dinner fish head.,Admin
+161,2025-07-02,VCH-000161,Financial Expenses,Expense,Finance,Capital,XYZ Ltd.,Cheque,BRAC Bank,REF-1727-GFhq,2121.25,0.0,2121.25,Wait age that left.,Managing Director
+162,2024-10-26,VCH-000162,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Prime Services,Nagad,Sonali Bank,REF-4774-lMSM,26173.19,0.0,26173.19,Personal me past music partner investment.,Admin
+163,2025-04-09,VCH-000163,Marketing & Sales Expenses,Expense,OPEX,Sales,Prime Services,Bank Transfer,Dutch Bangla Bank,REF-5144-iXjd,48612.75,0.0,48612.75,Wife happen how around bring dark.,Managing Director
+164,2026-01-10,VCH-000164,Selling & Distribution Expenses,Expense,OPEX,Operations,ABC Corporation,Cash,Dutch Bangla Bank,REF-4852-HPHW,58179.86,0.0,58179.86,Lead realize ability with popular likely.,Admin
+165,2026-01-15,VCH-000165,Loan From Managing Director,Liability,Loan,COGS,Green Energy Co.,Bank Transfer,Nagad,REF-3141-UwjN,55440.25,0.0,55440.25,Thus serve good ready.,Finance Manager
+166,2026-02-09,VCH-000166,Packing Materials,Expense,COGS,Banking,Innovate Ltd.,Bkash,Dutch Bangla Bank,REF-6295-Tykf,79467.26,0.0,79467.26,Story bank become space.,Managing Director
+167,2025-11-09,VCH-000167,Cashout Charge,Expense,Bank Charge,Capital,Global Enterprises,Bank Transfer,Nagad,REF-9869-JuFj,6236.0,0.0,6236.0,Break brother significant color indeed soon have.,Finance Manager
+168,2025-02-19,VCH-000168,Managing Director Personal Expense,Equity,Drawings,Capital,Innovate Ltd.,Cheque,City Bank,REF-3698-FmhB,39853.52,0.0,39853.52,Well security quite south control example.,Managing Director
+169,2024-06-26,VCH-000169,Administrative Expenses,Expense,OPEX,Banking,ABC Corporation,Bkash,Nagad,REF-7574-nOgq,95904.24,0.0,95904.24,Table second wish investment country travel nice.,Admin
+170,2025-12-03,VCH-000170,Administrative Expenses,Expense,OPEX,Operations,Global Enterprises,Bkash,Dutch Bangla Bank,REF-6123-YGKD,69014.05,0.0,69014.05,Smile green kitchen compare staff.,Accounts Officer
+171,2024-10-05,VCH-000171,Cashout Charge,Expense,Bank Charge,Capital,Innovate Ltd.,Cash,BRAC Bank,REF-9972-HMbr,17878.77,0.0,17878.77,Option language administration big citizen remember.,Admin
+172,2025-05-20,VCH-000172,Marketing & Sales Expenses,Expense,OPEX,Operations,Prime Services,Cheque,Bkash,REF-0741-xIzK,31399.4,0.0,31399.4,Reveal budget table politics test.,Accounts Officer
+173,2025-08-10,VCH-000173,Packing Materials,Expense,COGS,Capital,XYZ Ltd.,Cash,BRAC Bank,REF-3161-gVQx,65545.62,0.0,65545.62,Nor staff court policy key.,Accounts Officer
+174,2025-04-24,VCH-000174,Administrative Expenses,Expense,OPEX,Expense,Green Energy Co.,Cash,Nagad,REF-6790-EvjB,6759.93,0.0,6759.93,Can important first.,Managing Director
+175,2025-06-19,VCH-000175,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Innovate Ltd.,Cheque,BRAC Bank,REF-6421-MVjb,17898.57,0.0,17898.57,Visit her happen.,Finance Manager
+176,2026-02-22,VCH-000176,Managing Director Personal Expense,Equity,Drawings,Sales,Tech Solutions,Nagad,Rupali Bank,REF-2784-koyh,74559.26,0.0,74559.26,Election behavior where interest.,Finance Manager
+177,2025-10-29,VCH-000177,Product Sales,Revenue,Sales,COGS,Green Energy Co.,Nagad,BRAC Bank,REF-0216-MexN,0.0,92820.53,92820.53,Gun exactly serve democratic specific ever left class.,Finance Manager
+178,2024-09-22,VCH-000178,Administrative Expenses,Expense,OPEX,Sales,Tech Solutions,Cash,Bkash,REF-6565-VzOB,6873.68,0.0,6873.68,Stock arm ago stock somebody.,Finance Manager
+179,2025-07-26,VCH-000179,Packing Materials,Expense,COGS,Sales,ABC Corporation,Cash,Rupali Bank,REF-2809-VlHf,57242.62,0.0,57242.62,Learn whether key customer the bag listen west.,Finance Manager
+180,2025-06-24,VCH-000180,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,XYZ Ltd.,Cheque,Nagad,REF-4401-hvTZ,65986.97,0.0,65986.97,Just small against early group behind.,Accounts Officer
+181,2025-07-10,VCH-000181,Financial Expenses,Expense,Finance,Expense,Innovate Ltd.,Cash,BRAC Bank,REF-2776-pXtw,14884.6,0.0,14884.6,Wind analysis happen stock move product manager.,Admin
+182,2024-08-30,VCH-000182,Depreciation & Amortization,Expense,Non-Cash,COGS,ABC Corporation,Cash,City Bank,REF-5483-XZSD,91889.09,0.0,91889.09,Marriage discuss always first indeed late season.,Finance Manager
+183,2026-01-26,VCH-000183,Financial Expenses,Expense,Finance,COGS,Prime Services,Bkash,Dutch Bangla Bank,REF-3282-MDkj,86564.46,0.0,86564.46,Home minute until door risk what.,Finance Manager
+184,2026-05-02,VCH-000184,Administrative Expenses,Expense,OPEX,COGS,XYZ Ltd.,Cheque,City Bank,REF-7916-OjGT,73148.68,0.0,73148.68,Action wind study oil front I.,Finance Manager
+185,2025-05-14,VCH-000185,Miscellaneous Expenses,Expense,Other,Capital,Global Enterprises,Cheque,BRAC Bank,REF-1494-UUoC,74591.12,0.0,74591.12,Indeed attention about blood.,Finance Manager
+186,2025-07-24,VCH-000186,Packing Materials,Expense,COGS,COGS,ABC Corporation,Bkash,Janata Bank,REF-1585-Elsn,8131.98,0.0,8131.98,Fast politics possible bed.,Admin
+187,2024-11-21,VCH-000187,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Tech Solutions,Bkash,Nagad,REF-1397-cqgU,84665.16,0.0,84665.16,Card concern ready.,Accounts Officer
+188,2026-04-10,VCH-000188,Cashout Charge,Expense,Bank Charge,Banking,XYZ Ltd.,Nagad,Bkash,REF-0185-EPgI,96905.35,0.0,96905.35,Impact federal fill leg gas.,Admin
+189,2025-09-28,VCH-000189,Salaries & Employee Benefits,Expense,OPEX,Expense,Prime Services,Bank Transfer,Rupali Bank,REF-2909-bGqn,31234.79,0.0,31234.79,Of minute recently evidence believe drug federal real.,Admin
+190,2025-01-07,VCH-000190,Cashout Charge,Expense,Bank Charge,Banking,Prime Services,Bkash,Bkash,REF-3137-sOUX,24399.53,0.0,24399.53,Scientist whom down type.,Accounts Officer
+191,2024-09-15,VCH-000191,Financial Expenses,Expense,Finance,Sales,Global Enterprises,Nagad,Dutch Bangla Bank,REF-6250-QIHQ,46404.46,0.0,46404.46,Now note young per.,Managing Director
+192,2025-01-06,VCH-000192,Miscellaneous Expenses,Expense,Other,Capital,Prime Services,Cash,BRAC Bank,REF-3454-gGKG,26698.86,0.0,26698.86,Season until election cut necessary class institution.,Accounts Officer
+193,2025-02-28,VCH-000193,Administrative Expenses,Expense,OPEX,Operations,Global Enterprises,Nagad,Sonali Bank,REF-3218-cmvR,80517.61,0.0,80517.61,Treat memory spend show miss light.,Accounts Officer
+194,2026-03-10,VCH-000194,Marketing & Sales Expenses,Expense,OPEX,Capital,Innovate Ltd.,Bkash,Janata Bank,REF-9690-Fpjc,2549.05,0.0,2549.05,Forward thousand natural area after herself despite.,Finance Manager
+195,2025-04-09,VCH-000195,Miscellaneous Expenses,Expense,Other,Operations,Prime Services,Bkash,Nagad,REF-2092-SUZd,26553.83,0.0,26553.83,Relationship argue situation remain.,Accounts Officer
+196,2025-06-06,VCH-000196,Managing Director Personal Expense,Equity,Drawings,Banking,Global Enterprises,Bank Transfer,Sonali Bank,REF-7042-cAWU,31139.08,0.0,31139.08,Total not garden on west believe appear fire.,Managing Director
+197,2025-09-11,VCH-000197,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-0121-BldX,75163.01,0.0,75163.01,Candidate smile painting herself particular those able.,Finance Manager
+198,2026-03-18,VCH-000198,Managing Director Personal Expense,Equity,Drawings,COGS,ABC Corporation,Bkash,Nagad,REF-1082-lDlF,68309.48,0.0,68309.48,Down among change capital.,Finance Manager
+199,2024-11-23,VCH-000199,Product Sales,Revenue,Sales,Banking,XYZ Ltd.,Nagad,Bkash,REF-9123-gitJ,0.0,47203.29,47203.29,Picture sing find politics class.,Admin
+200,2024-08-18,VCH-000200,Administrative Expenses,Expense,OPEX,Expense,Innovate Ltd.,Nagad,Janata Bank,REF-4341-nBth,10245.35,0.0,10245.35,Week conference firm between player.,Admin
+201,2026-03-16,VCH-000201,Salaries & Employee Benefits,Expense,OPEX,COGS,Prime Services,Bkash,Nagad,REF-8158-DSpB,28534.87,0.0,28534.87,Early grow yet product.,Admin
+202,2025-10-28,VCH-000202,Investment Payment,Equity,Capital,Capital,ABC Corporation,Nagad,Rupali Bank,REF-1713-WZkz,32771.77,0.0,32771.77,Create of defense can beat still.,Accounts Officer
+203,2025-10-09,VCH-000203,Salaries & Employee Benefits,Expense,OPEX,Banking,Tech Solutions,Cheque,BRAC Bank,REF-0683-HsoD,15090.8,0.0,15090.8,Newspaper them record month try.,Managing Director
+204,2026-04-26,VCH-000204,Salaries & Employee Benefits,Expense,OPEX,Expense,ABC Corporation,Bkash,City Bank,REF-6793-TUns,43529.06,0.0,43529.06,Institution week someone once similar cut.,Admin
+205,2024-08-28,VCH-000205,Miscellaneous Expenses,Expense,Other,Operations,Global Enterprises,Cash,City Bank,REF-2427-EEQQ,36099.74,0.0,36099.74,Time could policy his call hour argue.,Managing Director
+206,2024-10-10,VCH-000206,Administrative Expenses,Expense,OPEX,Operations,ABC Corporation,Bkash,Bkash,REF-2807-NLQA,33839.73,0.0,33839.73,Easy positive soon.,Accounts Officer
+207,2026-03-28,VCH-000207,Product Sales,Revenue,Sales,Banking,XYZ Ltd.,Cheque,Sonali Bank,REF-7928-qvRE,0.0,57567.42,57567.42,Week letter weight case.,Accounts Officer
+208,2025-02-22,VCH-000208,Miscellaneous Expenses,Expense,Other,COGS,Global Enterprises,Cheque,Sonali Bank,REF-1461-ialq,13910.12,0.0,13910.12,Hour phone end wonder if.,Accounts Officer
+209,2025-04-01,VCH-000209,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,ABC Corporation,Nagad,Nagad,REF-3750-XUGr,7858.47,0.0,7858.47,Cut hope speech between find on movie.,Admin
+210,2025-07-08,VCH-000210,Marketing & Sales Expenses,Expense,OPEX,Banking,Prime Services,Bank Transfer,Dutch Bangla Bank,REF-5512-VuhP,76908.77,0.0,76908.77,Article right whole star can couple.,Admin
+211,2024-12-21,VCH-000211,Cashout Charge,Expense,Bank Charge,COGS,Green Energy Co.,Cheque,Nagad,REF-2644-HHIa,53729.07,0.0,53729.07,Yet realize enough.,Accounts Officer
+212,2025-09-24,VCH-000212,Miscellaneous Expenses,Expense,Other,Banking,Innovate Ltd.,Bkash,Dutch Bangla Bank,REF-7040-XRBG,99199.74,0.0,99199.74,Citizen prove group.,Managing Director
+213,2025-04-24,VCH-000213,Salaries & Employee Benefits,Expense,OPEX,Sales,Green Energy Co.,Cheque,Dutch Bangla Bank,REF-0341-AVth,87326.17,0.0,87326.17,Health voice institution until meeting.,Accounts Officer
+214,2025-07-22,VCH-000214,Packing Materials,Expense,COGS,COGS,Prime Services,Cheque,Nagad,REF-8820-wQrk,48562.27,0.0,48562.27,Ago cut democratic protect bar.,Admin
+215,2025-03-27,VCH-000215,Managing Director Personal Expense,Equity,Drawings,Expense,Innovate Ltd.,Bank Transfer,Nagad,REF-2909-qiRS,33271.39,0.0,33271.39,System main everyone tax.,Admin
+216,2024-07-11,VCH-000216,Investment Payment,Equity,Capital,Expense,Green Energy Co.,Bank Transfer,Sonali Bank,REF-9989-wwaO,18843.45,0.0,18843.45,Final year her expert entire bad full.,Accounts Officer
+217,2025-07-25,VCH-000217,Financial Expenses,Expense,Finance,COGS,XYZ Ltd.,Nagad,City Bank,REF-5500-uvgi,7590.02,0.0,7590.02,Speech large a country.,Managing Director
+218,2024-06-23,VCH-000218,Loan From Managing Director,Liability,Loan,Expense,Prime Services,Cash,Sonali Bank,REF-0319-lcZV,7253.84,0.0,7253.84,Down shoulder range treat approach environmental seek.,Accounts Officer
+219,2026-04-02,VCH-000219,Miscellaneous Expenses,Expense,Other,Expense,Green Energy Co.,Bkash,BRAC Bank,REF-7586-eumT,92794.17,0.0,92794.17,Pull produce sister strategy director.,Admin
+220,2025-08-25,VCH-000220,Miscellaneous Expenses,Expense,Other,Sales,Tech Solutions,Cash,Dutch Bangla Bank,REF-5433-yCzL,94429.62,0.0,94429.62,Own accept policy these last.,Managing Director
+221,2024-07-11,VCH-000221,Miscellaneous Expenses,Expense,Other,Banking,ABC Corporation,Nagad,City Bank,REF-9935-pdqR,771.76,0.0,771.76,Performance measure system project record camera.,Managing Director
+222,2025-05-23,VCH-000222,Loan From Managing Director,Liability,Loan,Expense,Innovate Ltd.,Cheque,Bkash,REF-0757-GooP,67191.44,0.0,67191.44,South spring voice lot same.,Managing Director
+223,2025-07-30,VCH-000223,Administrative Expenses,Expense,OPEX,Operations,Tech Solutions,Cash,Janata Bank,REF-9545-cgyd,51910.18,0.0,51910.18,Analysis major woman alone degree that right.,Admin
+224,2026-06-07,VCH-000224,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Green Energy Co.,Cash,Janata Bank,REF-0913-KUcd,87292.41,0.0,87292.41,Ability Mrs audience night.,Finance Manager
+225,2025-06-19,VCH-000225,Cashout Charge,Expense,Bank Charge,Capital,ABC Corporation,Bkash,Bkash,REF-4487-DgXG,5371.45,0.0,5371.45,Movement media political use enter prove.,Accounts Officer
+226,2026-04-30,VCH-000226,Managing Director Personal Expense,Equity,Drawings,Banking,ABC Corporation,Cash,Nagad,REF-3199-UfJq,68404.01,0.0,68404.01,Industry laugh population care speech green.,Accounts Officer
+227,2026-04-02,VCH-000227,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Green Energy Co.,Cheque,Janata Bank,REF-6982-SjHq,19199.75,0.0,19199.75,Detail little product day center a.,Accounts Officer
+228,2025-11-05,VCH-000228,Marketing & Sales Expenses,Expense,OPEX,COGS,Global Enterprises,Bkash,Rupali Bank,REF-3480-qDga,62124.52,0.0,62124.52,Investment evidence deal work administration plant way.,Finance Manager
+229,2025-07-29,VCH-000229,Packing Materials,Expense,COGS,Expense,Green Energy Co.,Nagad,Sonali Bank,REF-4453-gQkU,12465.44,0.0,12465.44,Actually fill those identify collection.,Managing Director
+230,2025-03-09,VCH-000230,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Global Enterprises,Nagad,BRAC Bank,REF-2068-hdRc,39540.91,0.0,39540.91,This hot benefit data yet.,Managing Director
+231,2026-04-06,VCH-000231,Selling & Distribution Expenses,Expense,OPEX,Capital,ABC Corporation,Cash,Dutch Bangla Bank,REF-3589-Fgqu,64071.78,0.0,64071.78,Result painting control hold price ask crime.,Accounts Officer
+232,2025-12-22,VCH-000232,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Innovate Ltd.,Cash,Bkash,REF-5195-azLe,93181.87,0.0,93181.87,Soon defense success produce.,Managing Director
+233,2024-06-21,VCH-000233,Marketing & Sales Expenses,Expense,OPEX,Expense,XYZ Ltd.,Cash,Dutch Bangla Bank,REF-4520-xZsr,91291.03,0.0,91291.03,Car success body area few decide.,Admin
+234,2025-02-13,VCH-000234,Financial Expenses,Expense,Finance,Capital,Global Enterprises,Nagad,Rupali Bank,REF-3763-ZNyB,79757.3,0.0,79757.3,Market station main price suggest cell.,Admin
+235,2024-11-23,VCH-000235,Investment Payment,Equity,Capital,Capital,Tech Solutions,Bank Transfer,Nagad,REF-4980-gPoJ,41108.25,0.0,41108.25,Huge myself situation who meeting summer.,Managing Director
+236,2025-12-12,VCH-000236,Packing Materials,Expense,COGS,Operations,Green Energy Co.,Nagad,Janata Bank,REF-7492-sNud,99800.16,0.0,99800.16,Explain member life.,Finance Manager
+237,2025-01-31,VCH-000237,Depreciation & Amortization,Expense,Non-Cash,COGS,XYZ Ltd.,Cash,BRAC Bank,REF-1057-EDTz,63085.18,0.0,63085.18,View manager agent increase staff.,Managing Director
+238,2026-03-29,VCH-000238,Selling & Distribution Expenses,Expense,OPEX,Sales,Prime Services,Cheque,BRAC Bank,REF-3015-lqwq,79921.48,0.0,79921.48,Office check best deep society tell seven.,Finance Manager
+239,2025-03-17,VCH-000239,Managing Director Personal Expense,Equity,Drawings,Expense,ABC Corporation,Cash,BRAC Bank,REF-4653-KjRZ,60093.06,0.0,60093.06,Discover here sometimes without any for.,Finance Manager
+240,2024-12-08,VCH-000240,Financial Expenses,Expense,Finance,Sales,Innovate Ltd.,Nagad,City Bank,REF-2779-buWk,40122.29,0.0,40122.29,Available material answer in short threat.,Admin
+241,2025-01-19,VCH-000241,Investment Payment,Equity,Capital,Expense,Global Enterprises,Bank Transfer,Janata Bank,REF-0845-zFji,65094.62,0.0,65094.62,Protect blue vote result much option.,Accounts Officer
+242,2025-06-23,VCH-000242,Financial Expenses,Expense,Finance,Expense,Prime Services,Cheque,Janata Bank,REF-4923-fUHs,88093.92,0.0,88093.92,Recently source one similar government event.,Finance Manager
+243,2026-05-06,VCH-000243,Depreciation & Amortization,Expense,Non-Cash,Capital,ABC Corporation,Bank Transfer,City Bank,REF-1804-VazA,47639.41,0.0,47639.41,Approach forget professional professional four anyone page.,Admin
+244,2026-06-06,VCH-000244,Financial Expenses,Expense,Finance,Capital,ABC Corporation,Nagad,Bkash,REF-2550-sFeL,55011.59,0.0,55011.59,Character idea result black.,Admin
+245,2024-09-19,VCH-000245,Salaries & Employee Benefits,Expense,OPEX,COGS,Green Energy Co.,Bank Transfer,Rupali Bank,REF-3786-xwge,23140.96,0.0,23140.96,Ground condition daughter much.,Managing Director
+246,2025-01-22,VCH-000246,Depreciation & Amortization,Expense,Non-Cash,Sales,Green Energy Co.,Bkash,City Bank,REF-5704-DsyD,99883.71,0.0,99883.71,Lose adult win seek agree what.,Finance Manager
+247,2025-01-04,VCH-000247,Managing Director Personal Expense,Equity,Drawings,Operations,Green Energy Co.,Nagad,Sonali Bank,REF-5519-WiWY,69906.44,0.0,69906.44,Police forward daughter.,Accounts Officer
+248,2026-01-14,VCH-000248,Product Sales,Revenue,Sales,Expense,Innovate Ltd.,Cheque,City Bank,REF-3317-HzyN,0.0,64078.83,64078.83,Look leave yard born suffer teacher term.,Finance Manager
+249,2025-12-14,VCH-000249,Loan From Managing Director,Liability,Loan,Sales,Global Enterprises,Cash,Bkash,REF-6894-arYp,65286.48,0.0,65286.48,Discuss seem beyond cell exist black step.,Accounts Officer
+250,2025-03-05,VCH-000250,Depreciation & Amortization,Expense,Non-Cash,Operations,Tech Solutions,Cash,City Bank,REF-0005-YXWb,29693.81,0.0,29693.81,Hour choice write.,Accounts Officer
+251,2024-07-31,VCH-000251,Marketing & Sales Expenses,Expense,OPEX,Operations,ABC Corporation,Bank Transfer,City Bank,REF-3599-ZOgH,79795.88,0.0,79795.88,Option mean cost enjoy.,Managing Director
+252,2025-12-04,VCH-000252,Financial Expenses,Expense,Finance,Expense,Tech Solutions,Bank Transfer,Janata Bank,REF-4867-vJfy,2662.31,0.0,2662.31,Ahead little bit real guy suffer.,Finance Manager
+253,2024-06-26,VCH-000253,Selling & Distribution Expenses,Expense,OPEX,Capital,Tech Solutions,Nagad,Nagad,REF-6996-kgRc,69077.81,0.0,69077.81,Person next audience court especially land.,Accounts Officer
+254,2025-08-20,VCH-000254,Administrative Expenses,Expense,OPEX,Expense,Prime Services,Cheque,Dutch Bangla Bank,REF-9542-MQRo,19917.07,0.0,19917.07,Nation new son white family strong.,Accounts Officer
+255,2024-09-21,VCH-000255,Product Sales,Revenue,Sales,Expense,XYZ Ltd.,Bank Transfer,City Bank,REF-2983-fWyD,0.0,98230.82,98230.82,Many clear economy simply.,Accounts Officer
+256,2025-10-29,VCH-000256,Managing Director Personal Expense,Equity,Drawings,COGS,Global Enterprises,Bank Transfer,Sonali Bank,REF-0857-FimF,31195.88,0.0,31195.88,Reflect tax effect charge conference.,Accounts Officer
+257,2024-10-29,VCH-000257,Selling & Distribution Expenses,Expense,OPEX,Capital,XYZ Ltd.,Bkash,Rupali Bank,REF-4768-kXEs,57684.26,0.0,57684.26,North building young him goal often under choice.,Accounts Officer
+258,2025-07-18,VCH-000258,Loan From Managing Director,Liability,Loan,COGS,Innovate Ltd.,Cash,Dutch Bangla Bank,REF-5753-fYEo,34400.81,0.0,34400.81,Large seven view middle weight.,Admin
+259,2025-10-18,VCH-000259,Administrative Expenses,Expense,OPEX,Capital,Tech Solutions,Cash,Dutch Bangla Bank,REF-2663-mtXa,16742.73,0.0,16742.73,Us product growth reduce memory.,Managing Director
+260,2025-04-17,VCH-000260,Managing Director Personal Expense,Equity,Drawings,Operations,Innovate Ltd.,Nagad,Dutch Bangla Bank,REF-7744-IQmY,45866.47,0.0,45866.47,Out necessary meet eye before system course.,Admin
+261,2025-10-11,VCH-000261,Salaries & Employee Benefits,Expense,OPEX,Sales,Green Energy Co.,Cash,Nagad,REF-2899-ILMp,21086.09,0.0,21086.09,Day sing with him.,Admin
+262,2026-02-12,VCH-000262,Packing Materials,Expense,COGS,Operations,XYZ Ltd.,Bank Transfer,Rupali Bank,REF-4184-eQwD,91629.68,0.0,91629.68,Star reach behind international pay.,Accounts Officer
+263,2025-08-14,VCH-000263,Product Sales,Revenue,Sales,Expense,Green Energy Co.,Bkash,Janata Bank,REF-7987-kXgS,0.0,26226.42,26226.42,Occur media necessary citizen cut you.,Managing Director
+264,2026-03-17,VCH-000264,Loan From Managing Director,Liability,Loan,COGS,ABC Corporation,Nagad,City Bank,REF-9980-wCvB,20627.84,0.0,20627.84,Recently model glass hotel.,Admin
+265,2025-11-26,VCH-000265,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Prime Services,Cash,Nagad,REF-5544-KyJN,93650.86,0.0,93650.86,Expert you carry day he price.,Finance Manager
+266,2026-04-09,VCH-000266,Selling & Distribution Expenses,Expense,OPEX,Capital,Global Enterprises,Bank Transfer,Nagad,REF-0483-fRAh,65901.37,0.0,65901.37,Sort really religious way compare arm product.,Admin
+267,2025-06-07,VCH-000267,Packing Materials,Expense,COGS,Expense,ABC Corporation,Cash,Nagad,REF-5032-fXIf,27518.09,0.0,27518.09,Your daughter which theory girl.,Accounts Officer
+268,2025-08-30,VCH-000268,Marketing & Sales Expenses,Expense,OPEX,Banking,Prime Services,Nagad,Sonali Bank,REF-9501-hwNf,9505.56,0.0,9505.56,Camera sit occur wide up.,Finance Manager
+269,2025-11-08,VCH-000269,Loan From Managing Director,Liability,Loan,Sales,XYZ Ltd.,Bank Transfer,Dutch Bangla Bank,REF-0348-jpcz,79566.69,0.0,79566.69,Ask hair stock.,Admin
+270,2025-05-31,VCH-000270,Financial Expenses,Expense,Finance,Banking,Prime Services,Nagad,Janata Bank,REF-0253-JTqz,61178.96,0.0,61178.96,Individual old start discover law shake.,Accounts Officer
+271,2025-01-23,VCH-000271,Miscellaneous Expenses,Expense,Other,Sales,Innovate Ltd.,Cash,Bkash,REF-1301-BEvp,35565.42,0.0,35565.42,Receive speak student under.,Accounts Officer
+272,2025-08-28,VCH-000272,Packing Materials,Expense,COGS,Expense,ABC Corporation,Bkash,Janata Bank,REF-5616-olOj,65299.71,0.0,65299.71,Be draw room green.,Admin
+273,2025-02-10,VCH-000273,Product Sales,Revenue,Sales,Capital,Green Energy Co.,Bank Transfer,Nagad,REF-8873-teoD,0.0,3018.85,3018.85,Early air medical medical alone speech style local.,Admin
+274,2024-09-03,VCH-000274,Loan From Managing Director,Liability,Loan,Capital,Tech Solutions,Nagad,Bkash,REF-1120-OATy,34413.46,0.0,34413.46,Somebody contain future think wear value executive.,Accounts Officer
+275,2026-03-10,VCH-000275,Miscellaneous Expenses,Expense,Other,Sales,Global Enterprises,Cheque,Sonali Bank,REF-4183-YWfD,99871.07,0.0,99871.07,Attack give too indicate.,Finance Manager
+276,2025-10-23,VCH-000276,Financial Expenses,Expense,Finance,Operations,Global Enterprises,Bank Transfer,Dutch Bangla Bank,REF-7331-tLLn,98949.05,0.0,98949.05,Place property front professor spring.,Admin
+277,2025-11-12,VCH-000277,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Global Enterprises,Cash,Nagad,REF-9651-OPbz,74823.65,0.0,74823.65,Explain treat positive administration product.,Admin
+278,2025-01-03,VCH-000278,Investment Payment,Equity,Capital,Sales,Global Enterprises,Cheque,Nagad,REF-8411-hZob,25753.22,0.0,25753.22,Participant strong reveal account.,Admin
+279,2025-07-08,VCH-000279,Salaries & Employee Benefits,Expense,OPEX,Sales,Green Energy Co.,Bank Transfer,Bkash,REF-7090-gFzN,94077.38,0.0,94077.38,Fish white this end draw.,Accounts Officer
+280,2025-06-30,VCH-000280,Packing Materials,Expense,COGS,COGS,Prime Services,Nagad,Rupali Bank,REF-7095-QAfr,6988.22,0.0,6988.22,Financial much know.,Admin
+281,2025-01-15,VCH-000281,Packing Materials,Expense,COGS,Operations,Innovate Ltd.,Cheque,City Bank,REF-4540-pZWi,93481.05,0.0,93481.05,Away likely Mr.,Admin
+282,2026-03-23,VCH-000282,Financial Expenses,Expense,Finance,Sales,Global Enterprises,Nagad,Sonali Bank,REF-7598-SHag,2739.31,0.0,2739.31,Expert recognize compare change media.,Managing Director
+283,2025-01-30,VCH-000283,Financial Expenses,Expense,Finance,Sales,Innovate Ltd.,Bkash,Nagad,REF-9645-ffQw,50825.39,0.0,50825.39,Sport south senior pretty water course environmental.,Admin
+284,2026-05-24,VCH-000284,Cashout Charge,Expense,Bank Charge,Operations,Prime Services,Cash,Sonali Bank,REF-1806-EPPo,43348.28,0.0,43348.28,Knowledge every area arrive top although.,Managing Director
+285,2026-03-30,VCH-000285,Packing Materials,Expense,COGS,COGS,Tech Solutions,Bank Transfer,Sonali Bank,REF-2153-BrMv,16321.57,0.0,16321.57,Later understand everyone Republican development hot financial.,Admin
+286,2025-12-08,VCH-000286,Administrative Expenses,Expense,OPEX,Capital,Global Enterprises,Bkash,Nagad,REF-1692-vbiQ,34665.8,0.0,34665.8,Peace keep federal huge.,Finance Manager
+287,2024-10-29,VCH-000287,Depreciation & Amortization,Expense,Non-Cash,Sales,Innovate Ltd.,Bkash,Bkash,REF-2688-cxKm,78823.07,0.0,78823.07,General adult knowledge collection once fill there.,Finance Manager
+288,2024-11-09,VCH-000288,Miscellaneous Expenses,Expense,Other,COGS,ABC Corporation,Nagad,Bkash,REF-5233-pSzT,9349.84,0.0,9349.84,Everybody place over system stand.,Managing Director
+289,2026-01-15,VCH-000289,Salaries & Employee Benefits,Expense,OPEX,Capital,Tech Solutions,Nagad,Sonali Bank,REF-5959-WwoE,90649.48,0.0,90649.48,Data way seven indeed degree.,Accounts Officer
+290,2025-05-19,VCH-000290,Packing Materials,Expense,COGS,Sales,Innovate Ltd.,Bank Transfer,Janata Bank,REF-2646-LxDr,62506.34,0.0,62506.34,Air too concern for put every.,Accounts Officer
+291,2025-09-12,VCH-000291,Cashout Charge,Expense,Bank Charge,Expense,ABC Corporation,Cash,Dutch Bangla Bank,REF-1106-DkJX,2412.71,0.0,2412.71,Throw ten you get interest.,Accounts Officer
+292,2025-11-06,VCH-000292,Administrative Expenses,Expense,OPEX,Banking,XYZ Ltd.,Bkash,Rupali Bank,REF-2138-XThv,11260.2,0.0,11260.2,Without production true wish party say sister responsibility.,Accounts Officer
+293,2025-07-03,VCH-000293,Managing Director Personal Expense,Equity,Drawings,Operations,ABC Corporation,Bank Transfer,Janata Bank,REF-3686-qsav,74797.09,0.0,74797.09,Great boy phone detail speech watch.,Managing Director
+294,2024-09-08,VCH-000294,Packing Materials,Expense,COGS,Sales,Tech Solutions,Bkash,Sonali Bank,REF-3941-rgRM,23310.97,0.0,23310.97,Test worker stay gas.,Managing Director
+295,2025-10-25,VCH-000295,Loan From Managing Director,Liability,Loan,COGS,Innovate Ltd.,Bank Transfer,Sonali Bank,REF-7271-iaQA,65184.2,0.0,65184.2,Top really rich even three ready no reveal.,Managing Director
+296,2025-11-19,VCH-000296,Packing Materials,Expense,COGS,Capital,Tech Solutions,Bank Transfer,Rupali Bank,REF-7736-TDHr,26875.94,0.0,26875.94,Smile owner since friend factor eye.,Accounts Officer
+297,2025-04-25,VCH-000297,Salaries & Employee Benefits,Expense,OPEX,COGS,XYZ Ltd.,Cheque,City Bank,REF-9154-hVIT,25791.82,0.0,25791.82,Drug state guy glass almost realize which.,Finance Manager
+298,2025-01-16,VCH-000298,Depreciation & Amortization,Expense,Non-Cash,Capital,Global Enterprises,Cash,City Bank,REF-2836-bRDl,4316.64,0.0,4316.64,Agent operation effort I example.,Managing Director
+299,2025-04-30,VCH-000299,Cashout Charge,Expense,Bank Charge,Operations,Innovate Ltd.,Bkash,Janata Bank,REF-6228-RvXL,22094.62,0.0,22094.62,Hold character point box.,Managing Director
+300,2025-11-18,VCH-000300,Administrative Expenses,Expense,OPEX,Operations,Green Energy Co.,Nagad,Sonali Bank,REF-5082-ULdb,86058.97,0.0,86058.97,Ball six task involve.,Accounts Officer
+301,2024-06-27,VCH-000301,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Tech Solutions,Nagad,Rupali Bank,REF-5224-pFis,93375.54,0.0,93375.54,Sea Mrs force population career bag star majority.,Finance Manager
+302,2025-02-07,VCH-000302,Marketing & Sales Expenses,Expense,OPEX,Sales,ABC Corporation,Cash,Dutch Bangla Bank,REF-0175-sqfl,18297.93,0.0,18297.93,Situation at watch I.,Accounts Officer
+303,2026-02-25,VCH-000303,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Green Energy Co.,Cash,Bkash,REF-8509-fRGq,20185.41,0.0,20185.41,On show out citizen floor enjoy TV fill.,Admin
+304,2026-04-19,VCH-000304,Packing Materials,Expense,COGS,Sales,Innovate Ltd.,Bank Transfer,BRAC Bank,REF-8626-cSru,67203.55,0.0,67203.55,Commercial whose others nice pass across involve.,Accounts Officer
+305,2026-01-02,VCH-000305,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Global Enterprises,Nagad,City Bank,REF-0606-Ttnh,69128.81,0.0,69128.81,Expect source focus.,Managing Director
+306,2025-09-14,VCH-000306,Loan From Managing Director,Liability,Loan,Operations,Green Energy Co.,Nagad,Nagad,REF-2090-iVGk,44568.38,0.0,44568.38,Event stock response including put.,Managing Director
+307,2025-08-04,VCH-000307,Packing Materials,Expense,COGS,COGS,Prime Services,Nagad,City Bank,REF-4818-qSVO,38768.24,0.0,38768.24,Yard room first kid.,Managing Director
+308,2026-03-04,VCH-000308,Loan From Managing Director,Liability,Loan,Banking,Tech Solutions,Bkash,BRAC Bank,REF-7140-AwUk,28182.41,0.0,28182.41,Spend reason stay suggest.,Accounts Officer
+309,2024-12-26,VCH-000309,Administrative Expenses,Expense,OPEX,Operations,Prime Services,Cash,BRAC Bank,REF-0915-pByl,78633.64,0.0,78633.64,Per next drug authority image society mission.,Admin
+310,2026-05-27,VCH-000310,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Tech Solutions,Nagad,BRAC Bank,REF-0698-kzVM,41807.83,0.0,41807.83,Owner mean strategy.,Managing Director
+311,2025-06-17,VCH-000311,Managing Director Personal Expense,Equity,Drawings,COGS,Innovate Ltd.,Nagad,Sonali Bank,REF-8552-usmX,77628.19,0.0,77628.19,Center friend pass.,Finance Manager
+312,2025-09-28,VCH-000312,Investment Payment,Equity,Capital,Capital,Green Energy Co.,Nagad,Nagad,REF-2776-Xuvw,76895.17,0.0,76895.17,Agree in collection soon admit many Mr how.,Finance Manager
+313,2024-07-01,VCH-000313,Selling & Distribution Expenses,Expense,OPEX,Operations,Innovate Ltd.,Cheque,City Bank,REF-0382-PcRr,7674.64,0.0,7674.64,Special community mouth this offer.,Managing Director
+314,2024-09-21,VCH-000314,Investment Payment,Equity,Capital,COGS,Prime Services,Bkash,BRAC Bank,REF-2317-mDpB,42358.71,0.0,42358.71,Phone month social.,Accounts Officer
+315,2024-08-21,VCH-000315,Financial Expenses,Expense,Finance,COGS,Global Enterprises,Cash,Dutch Bangla Bank,REF-0951-LYIC,86298.28,0.0,86298.28,Mean bed ability thus reach.,Admin
+316,2026-01-29,VCH-000316,Product Sales,Revenue,Sales,Banking,Prime Services,Bkash,Janata Bank,REF-2862-sRvl,0.0,21153.94,21153.94,Writer against until ten yet.,Finance Manager
+317,2026-06-03,VCH-000317,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,ABC Corporation,Bank Transfer,Nagad,REF-5124-rJST,98245.23,0.0,98245.23,Free full agreement.,Finance Manager
+318,2026-05-24,VCH-000318,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Green Energy Co.,Cash,Janata Bank,REF-2939-plsE,95860.9,0.0,95860.9,Attorney subject among difference.,Finance Manager
+319,2026-02-01,VCH-000319,Salaries & Employee Benefits,Expense,OPEX,Sales,Prime Services,Cash,Rupali Bank,REF-8969-lTKc,11209.41,0.0,11209.41,Detail employee bag push local director career.,Admin
+320,2025-05-17,VCH-000320,Loan From Managing Director,Liability,Loan,Sales,ABC Corporation,Cheque,Sonali Bank,REF-8627-OGvh,33196.53,0.0,33196.53,Thank article evidence sell score response.,Accounts Officer
+321,2025-08-21,VCH-000321,Packing Materials,Expense,COGS,Expense,ABC Corporation,Cash,Rupali Bank,REF-1348-XYDS,57848.92,0.0,57848.92,House only two physical field head religious.,Accounts Officer
+322,2026-01-12,VCH-000322,Administrative Expenses,Expense,OPEX,Capital,Prime Services,Nagad,BRAC Bank,REF-2810-NoAG,98091.52,0.0,98091.52,Money source decision I able.,Admin
+323,2024-10-04,VCH-000323,Marketing & Sales Expenses,Expense,OPEX,Expense,Global Enterprises,Bank Transfer,City Bank,REF-1649-BICT,31866.91,0.0,31866.91,Science occur record would very how organization.,Managing Director
+324,2026-05-20,VCH-000324,Depreciation & Amortization,Expense,Non-Cash,Expense,Global Enterprises,Bank Transfer,Bkash,REF-9992-pVco,19351.11,0.0,19351.11,Throughout no clearly indeed.,Finance Manager
+325,2026-04-29,VCH-000325,Selling & Distribution Expenses,Expense,OPEX,Expense,ABC Corporation,Nagad,Dutch Bangla Bank,REF-6058-JHaK,7572.24,0.0,7572.24,Artist according different scientist certainly.,Finance Manager
+326,2026-06-08,VCH-000326,Packing Materials,Expense,COGS,Operations,XYZ Ltd.,Nagad,City Bank,REF-7971-ASOU,30357.31,0.0,30357.31,Certain allow compare.,Managing Director
+327,2024-08-06,VCH-000327,Depreciation & Amortization,Expense,Non-Cash,Sales,ABC Corporation,Bkash,Dutch Bangla Bank,REF-7323-ycPw,86372.06,0.0,86372.06,Difference responsibility degree half price probably of.,Admin
+328,2024-10-26,VCH-000328,Managing Director Personal Expense,Equity,Drawings,Banking,ABC Corporation,Nagad,Dutch Bangla Bank,REF-3840-Zrtk,5632.22,0.0,5632.22,Pick into make policy call rule not professional.,Finance Manager
+329,2024-12-05,VCH-000329,Administrative Expenses,Expense,OPEX,Capital,Global Enterprises,Cheque,City Bank,REF-8591-BZjJ,56550.98,0.0,56550.98,Job site happy something television relate.,Accounts Officer
+330,2026-05-22,VCH-000330,Miscellaneous Expenses,Expense,Other,Expense,Innovate Ltd.,Cash,City Bank,REF-7666-SiJx,24104.64,0.0,24104.64,Scene sit might expect pay your.,Finance Manager
+331,2024-06-14,VCH-000331,Cashout Charge,Expense,Bank Charge,Capital,ABC Corporation,Bank Transfer,Sonali Bank,REF-0506-uuGR,76295.86,0.0,76295.86,Call international officer both.,Managing Director
+332,2026-05-03,VCH-000332,Selling & Distribution Expenses,Expense,OPEX,Capital,Global Enterprises,Bkash,City Bank,REF-2825-Wayr,36041.72,0.0,36041.72,Kitchen woman information meet ground cold instead.,Accounts Officer
+333,2025-11-14,VCH-000333,Depreciation & Amortization,Expense,Non-Cash,Operations,Tech Solutions,Cash,Sonali Bank,REF-0916-xyPj,93567.83,0.0,93567.83,Minute work middle term its.,Managing Director
+334,2024-08-04,VCH-000334,Investment Payment,Equity,Capital,Sales,XYZ Ltd.,Cash,Dutch Bangla Bank,REF-1270-ErVT,42435.85,0.0,42435.85,Tough organization remember them.,Accounts Officer
+335,2025-05-24,VCH-000335,Salaries & Employee Benefits,Expense,OPEX,COGS,Global Enterprises,Nagad,Sonali Bank,REF-8702-uPcx,46074.48,0.0,46074.48,Expert firm international must.,Managing Director
+336,2026-04-04,VCH-000336,Depreciation & Amortization,Expense,Non-Cash,COGS,Global Enterprises,Bkash,Rupali Bank,REF-4667-RWDn,58296.53,0.0,58296.53,Let everybody company lose save set.,Admin
+337,2025-05-23,VCH-000337,Administrative Expenses,Expense,OPEX,Sales,ABC Corporation,Bank Transfer,BRAC Bank,REF-3068-RJix,86553.47,0.0,86553.47,Once police first candidate their recognize.,Managing Director
+338,2025-03-28,VCH-000338,Investment Payment,Equity,Capital,Capital,Prime Services,Bank Transfer,Janata Bank,REF-3844-fPjR,89816.84,0.0,89816.84,Tend activity pattern page star before same.,Managing Director
+339,2025-09-14,VCH-000339,Packing Materials,Expense,COGS,Expense,XYZ Ltd.,Cheque,Sonali Bank,REF-6132-CWqj,80091.51,0.0,80091.51,Skin modern stay walk sign.,Admin
+340,2026-04-14,VCH-000340,Product Sales,Revenue,Sales,Banking,Green Energy Co.,Bkash,City Bank,REF-1959-HRjt,0.0,39100.98,39100.98,Treat approach wall believe career artist traditional table.,Finance Manager
+341,2025-05-12,VCH-000341,Investment Payment,Equity,Capital,Sales,XYZ Ltd.,Cheque,Janata Bank,REF-8613-afzd,40066.08,0.0,40066.08,Police watch camera perhaps president follow.,Finance Manager
+342,2024-08-27,VCH-000342,Selling & Distribution Expenses,Expense,OPEX,COGS,XYZ Ltd.,Bank Transfer,Nagad,REF-6839-Uorf,62404.39,0.0,62404.39,Data parent hour election.,Finance Manager
+343,2024-08-03,VCH-000343,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Global Enterprises,Bank Transfer,BRAC Bank,REF-6918-UNnR,83393.27,0.0,83393.27,Machine example draw.,Admin
+344,2025-05-14,VCH-000344,Financial Expenses,Expense,Finance,COGS,ABC Corporation,Bkash,Janata Bank,REF-7433-SYir,10349.53,0.0,10349.53,Own from analysis spend professor somebody.,Admin
+345,2025-09-07,VCH-000345,Marketing & Sales Expenses,Expense,OPEX,Sales,Global Enterprises,Cheque,Janata Bank,REF-9313-WQZD,84008.07,0.0,84008.07,Act if stage open relate.,Managing Director
+346,2025-07-05,VCH-000346,Financial Expenses,Expense,Finance,Expense,XYZ Ltd.,Cash,Nagad,REF-5325-LiGg,96620.25,0.0,96620.25,Community study lose training hundred.,Accounts Officer
+347,2025-04-23,VCH-000347,Managing Director Personal Expense,Equity,Drawings,Sales,Global Enterprises,Nagad,Bkash,REF-8150-CxSq,41152.44,0.0,41152.44,Amount force law represent really officer.,Admin
+348,2024-10-18,VCH-000348,Selling & Distribution Expenses,Expense,OPEX,Operations,ABC Corporation,Bkash,Rupali Bank,REF-9264-xQOm,85959.78,0.0,85959.78,When parent teacher money.,Managing Director
+349,2026-06-08,VCH-000349,Administrative Expenses,Expense,OPEX,COGS,Tech Solutions,Bank Transfer,Dutch Bangla Bank,REF-0448-takv,93730.11,0.0,93730.11,Short old finally without great mother.,Finance Manager
+350,2026-03-17,VCH-000350,Managing Director Personal Expense,Equity,Drawings,Banking,Tech Solutions,Nagad,Janata Bank,REF-9999-chcN,44762.61,0.0,44762.61,Which produce service defense visit head as method.,Finance Manager
+351,2024-06-08,VCH-000351,Salaries & Employee Benefits,Expense,OPEX,Expense,Global Enterprises,Cash,Dutch Bangla Bank,REF-0950-SOQG,858.37,0.0,858.37,Four care behind production never wear management.,Admin
+352,2025-01-30,VCH-000352,Depreciation & Amortization,Expense,Non-Cash,Operations,ABC Corporation,Bank Transfer,Rupali Bank,REF-8365-lrCh,44144.49,0.0,44144.49,Off similar region third.,Finance Manager
+353,2025-02-07,VCH-000353,Miscellaneous Expenses,Expense,Other,COGS,XYZ Ltd.,Bkash,Sonali Bank,REF-7677-ZxVi,70212.47,0.0,70212.47,Could size tax government.,Accounts Officer
+354,2024-08-07,VCH-000354,Loan From Managing Director,Liability,Loan,Banking,ABC Corporation,Bank Transfer,Bkash,REF-2127-VqfK,938.1,0.0,938.1,Ever she feeling play.,Admin
+355,2026-03-03,VCH-000355,Selling & Distribution Expenses,Expense,OPEX,Sales,Prime Services,Cash,Nagad,REF-2926-RzQe,31327.33,0.0,31327.33,School management evidence realize player laugh point.,Finance Manager
+356,2025-06-14,VCH-000356,Cashout Charge,Expense,Bank Charge,Expense,Green Energy Co.,Cash,Janata Bank,REF-1057-FWOV,87406.33,0.0,87406.33,Shoulder resource house out assume.,Managing Director
+357,2024-07-03,VCH-000357,Cashout Charge,Expense,Bank Charge,Expense,Prime Services,Cheque,Nagad,REF-8472-rHVe,95894.4,0.0,95894.4,Mother career response listen television call.,Managing Director
+358,2025-12-09,VCH-000358,Marketing & Sales Expenses,Expense,OPEX,Banking,ABC Corporation,Cheque,Bkash,REF-6632-MwhF,57523.45,0.0,57523.45,Standard six respond small interest.,Admin
+359,2024-12-03,VCH-000359,Salaries & Employee Benefits,Expense,OPEX,Banking,Innovate Ltd.,Cash,City Bank,REF-5069-OrFP,4263.01,0.0,4263.01,Community less cover bad rise road instead local.,Finance Manager
+360,2025-03-11,VCH-000360,Investment Payment,Equity,Capital,Banking,Tech Solutions,Nagad,Bkash,REF-7639-aIWJ,17536.55,0.0,17536.55,Eye spring simple lead impact population.,Managing Director
+361,2024-06-11,VCH-000361,Investment Payment,Equity,Capital,Expense,XYZ Ltd.,Cheque,BRAC Bank,REF-6196-KhFh,31836.81,0.0,31836.81,Fear blood drop yet.,Finance Manager
+362,2025-09-24,VCH-000362,Financial Expenses,Expense,Finance,Banking,Green Energy Co.,Bkash,Dutch Bangla Bank,REF-1144-fcOx,89718.93,0.0,89718.93,Notice risk provide easy.,Finance Manager
+363,2024-12-28,VCH-000363,Packing Materials,Expense,COGS,Banking,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-5756-WVzW,64487.97,0.0,64487.97,Collection several development attack he.,Admin
+364,2025-03-10,VCH-000364,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,XYZ Ltd.,Bkash,Nagad,REF-6457-nauP,60054.39,0.0,60054.39,Available fight structure explain.,Accounts Officer
+365,2026-03-07,VCH-000365,Miscellaneous Expenses,Expense,Other,Expense,Green Energy Co.,Cheque,BRAC Bank,REF-7299-Wflr,74908.53,0.0,74908.53,Worry purpose before take fall Congress tree.,Finance Manager
+366,2024-11-29,VCH-000366,Depreciation & Amortization,Expense,Non-Cash,Banking,Global Enterprises,Bkash,City Bank,REF-8986-GQDb,16427.4,0.0,16427.4,Trip third build.,Managing Director
+367,2024-06-15,VCH-000367,Investment Payment,Equity,Capital,Capital,XYZ Ltd.,Cash,Sonali Bank,REF-7698-awem,8099.66,0.0,8099.66,Management important mind foot produce.,Admin
+368,2026-03-15,VCH-000368,Selling & Distribution Expenses,Expense,OPEX,Capital,Tech Solutions,Bkash,BRAC Bank,REF-3421-phkc,60250.5,0.0,60250.5,Their office stand.,Finance Manager
+369,2025-06-04,VCH-000369,Administrative Expenses,Expense,OPEX,Capital,Green Energy Co.,Cheque,Nagad,REF-5526-HpGU,83516.97,0.0,83516.97,Reflect experience test building.,Accounts Officer
+370,2025-02-03,VCH-000370,Marketing & Sales Expenses,Expense,OPEX,COGS,Innovate Ltd.,Cash,Nagad,REF-2218-TKfh,98800.84,0.0,98800.84,Growth family east positive.,Managing Director
+371,2025-12-30,VCH-000371,Product Sales,Revenue,Sales,Capital,ABC Corporation,Bkash,Rupali Bank,REF-7545-Ewpd,0.0,74724.24,74724.24,This generation relate.,Accounts Officer
+372,2026-05-03,VCH-000372,Loan From Managing Director,Liability,Loan,COGS,Global Enterprises,Bkash,Nagad,REF-7760-eTHL,11665.53,0.0,11665.53,Government owner president relate.,Accounts Officer
+373,2025-03-18,VCH-000373,Loan From Managing Director,Liability,Loan,Operations,Green Energy Co.,Cheque,Nagad,REF-6660-avdK,68985.82,0.0,68985.82,Sea series treat reflect year social.,Finance Manager
+374,2025-05-24,VCH-000374,Loan From Managing Director,Liability,Loan,Capital,Green Energy Co.,Cash,Dutch Bangla Bank,REF-4203-kyfR,41491.47,0.0,41491.47,Wish policy respond task hair bar.,Admin
+375,2025-03-04,VCH-000375,Salaries & Employee Benefits,Expense,OPEX,Expense,XYZ Ltd.,Bkash,BRAC Bank,REF-0421-RYZG,92320.38,0.0,92320.38,Grow condition language by maintain show.,Finance Manager
+376,2025-03-18,VCH-000376,Cashout Charge,Expense,Bank Charge,COGS,Tech Solutions,Cash,BRAC Bank,REF-5215-XzoO,36765.04,0.0,36765.04,Determine hand memory particularly.,Managing Director
+377,2025-11-05,VCH-000377,Cashout Charge,Expense,Bank Charge,Operations,Tech Solutions,Cash,Dutch Bangla Bank,REF-8118-UnoI,88304.36,0.0,88304.36,Head meet appear especially once top.,Managing Director
+378,2026-02-04,VCH-000378,Financial Expenses,Expense,Finance,COGS,Innovate Ltd.,Bank Transfer,Sonali Bank,REF-0183-KajB,53703.32,0.0,53703.32,Share green business peace money project tax draw.,Finance Manager
+379,2025-02-02,VCH-000379,Salaries & Employee Benefits,Expense,OPEX,COGS,Innovate Ltd.,Bkash,City Bank,REF-4296-YbLi,8767.87,0.0,8767.87,Second threat wife national able order western reflect.,Finance Manager
+380,2026-06-05,VCH-000380,Miscellaneous Expenses,Expense,Other,Capital,Global Enterprises,Nagad,Sonali Bank,REF-0370-nvaR,98753.45,0.0,98753.45,Administration detail school.,Admin
+381,2024-11-19,VCH-000381,Loan From Managing Director,Liability,Loan,Operations,XYZ Ltd.,Cheque,Dutch Bangla Bank,REF-5835-GDRz,49787.65,0.0,49787.65,Pressure so down miss much.,Finance Manager
+382,2024-08-28,VCH-000382,Financial Expenses,Expense,Finance,Expense,ABC Corporation,Cash,BRAC Bank,REF-9290-wscd,12896.92,0.0,12896.92,Second since citizen name bit senior.,Admin
+383,2024-08-18,VCH-000383,Managing Director Personal Expense,Equity,Drawings,COGS,Tech Solutions,Bkash,Dutch Bangla Bank,REF-0401-UxHm,75804.8,0.0,75804.8,Study quickly law officer join scene continue.,Accounts Officer
+384,2025-01-29,VCH-000384,Investment Payment,Equity,Capital,Sales,Innovate Ltd.,Cash,Janata Bank,REF-0712-aDzE,28788.83,0.0,28788.83,Tonight identify magazine go talk available watch.,Accounts Officer
+385,2026-01-30,VCH-000385,Salaries & Employee Benefits,Expense,OPEX,Operations,Tech Solutions,Bank Transfer,Janata Bank,REF-1781-aCxl,69881.47,0.0,69881.47,Rise rather institution start kitchen them.,Finance Manager
+386,2025-10-10,VCH-000386,Salaries & Employee Benefits,Expense,OPEX,Capital,XYZ Ltd.,Cheque,City Bank,REF-3828-UBCx,72293.99,0.0,72293.99,Include deep stock recognize possible business attack amount.,Accounts Officer
+387,2024-10-13,VCH-000387,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Bank Transfer,Janata Bank,REF-5698-lwAP,69666.36,0.0,69666.36,Art power suggest season lawyer.,Admin
+388,2025-07-12,VCH-000388,Salaries & Employee Benefits,Expense,OPEX,Capital,Prime Services,Nagad,Janata Bank,REF-7824-oMdr,46956.94,0.0,46956.94,Entire voice career sing sea court kind every.,Admin
+389,2025-04-30,VCH-000389,Depreciation & Amortization,Expense,Non-Cash,Expense,Innovate Ltd.,Cash,BRAC Bank,REF-2327-CJGu,73988.57,0.0,73988.57,Fish determine amount save born.,Admin
+390,2025-10-19,VCH-000390,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,XYZ Ltd.,Nagad,City Bank,REF-4256-nOqg,70243.82,0.0,70243.82,Choose pick lot American would adult.,Accounts Officer
+391,2024-06-30,VCH-000391,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Prime Services,Bank Transfer,Nagad,REF-1038-Dcvl,43798.58,0.0,43798.58,Available then others score modern trip he.,Managing Director
+392,2025-08-10,VCH-000392,Cashout Charge,Expense,Bank Charge,Sales,Prime Services,Cash,Dutch Bangla Bank,REF-4614-TqtR,39254.34,0.0,39254.34,Picture new soon.,Admin
+393,2026-01-07,VCH-000393,Investment Payment,Equity,Capital,Operations,Innovate Ltd.,Cash,Janata Bank,REF-0643-bzyI,54985.88,0.0,54985.88,Seven fund plan line edge without each use.,Admin
+394,2025-05-27,VCH-000394,Salaries & Employee Benefits,Expense,OPEX,Capital,Green Energy Co.,Nagad,Janata Bank,REF-8667-nboV,51687.71,0.0,51687.71,View baby green daughter.,Accounts Officer
+395,2025-10-14,VCH-000395,Cashout Charge,Expense,Bank Charge,Capital,Tech Solutions,Bank Transfer,Dutch Bangla Bank,REF-5890-MzKD,14470.67,0.0,14470.67,If organization fund hit himself attention.,Admin
+396,2025-01-17,VCH-000396,Administrative Expenses,Expense,OPEX,Banking,XYZ Ltd.,Cash,City Bank,REF-5590-TDqK,5922.64,0.0,5922.64,Full professional sure other wide magazine.,Managing Director
+397,2024-09-12,VCH-000397,Cashout Charge,Expense,Bank Charge,Sales,Tech Solutions,Nagad,Nagad,REF-7935-eNys,86094.13,0.0,86094.13,Meeting industry president media truth behind always.,Admin
+398,2024-10-16,VCH-000398,Investment Payment,Equity,Capital,Sales,Innovate Ltd.,Cash,Sonali Bank,REF-6892-FUjg,33598.02,0.0,33598.02,Catch next inside opportunity sell age wall small.,Accounts Officer
+399,2026-02-02,VCH-000399,Depreciation & Amortization,Expense,Non-Cash,Operations,Tech Solutions,Cheque,Bkash,REF-4108-yyYH,13893.02,0.0,13893.02,Loss fact catch.,Finance Manager
+400,2025-01-16,VCH-000400,Product Sales,Revenue,Sales,Operations,ABC Corporation,Bkash,Rupali Bank,REF-2963-yTgY,0.0,20138.91,20138.91,Discover she role describe close space.,Admin
+401,2024-09-28,VCH-000401,Miscellaneous Expenses,Expense,Other,Banking,Green Energy Co.,Nagad,BRAC Bank,REF-8948-Pvpc,36154.92,0.0,36154.92,Degree Congress force whom dog send.,Finance Manager
+402,2025-07-12,VCH-000402,Miscellaneous Expenses,Expense,Other,Capital,Prime Services,Nagad,BRAC Bank,REF-4928-zaRO,81607.64,0.0,81607.64,Base seek particular data first.,Admin
+403,2026-01-01,VCH-000403,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Global Enterprises,Bank Transfer,City Bank,REF-9272-ZLky,88516.95,0.0,88516.95,Response herself ability wish late financial office.,Managing Director
+404,2026-04-04,VCH-000404,Product Sales,Revenue,Sales,COGS,XYZ Ltd.,Nagad,Nagad,REF-0429-dXZW,0.0,62946.8,62946.8,Already life assume very.,Managing Director
+405,2025-09-19,VCH-000405,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Tech Solutions,Bank Transfer,Janata Bank,REF-9935-zFCS,38831.64,0.0,38831.64,Night yes modern prepare about financial.,Finance Manager
+406,2026-05-17,VCH-000406,Miscellaneous Expenses,Expense,Other,Expense,Green Energy Co.,Bank Transfer,Rupali Bank,REF-5677-xmWa,17377.58,0.0,17377.58,Southern marriage I around rest treat official.,Managing Director
+407,2024-07-04,VCH-000407,Selling & Distribution Expenses,Expense,OPEX,Banking,Global Enterprises,Cash,Janata Bank,REF-2823-dXHd,62539.85,0.0,62539.85,Since our risk article manage institution size.,Finance Manager
+408,2026-04-20,VCH-000408,Investment Payment,Equity,Capital,Sales,Green Energy Co.,Cash,City Bank,REF-8097-pqNc,7746.67,0.0,7746.67,Can manager age health land.,Managing Director
+409,2025-08-31,VCH-000409,Financial Expenses,Expense,Finance,Expense,Prime Services,Cheque,Janata Bank,REF-5343-VZsg,27373.3,0.0,27373.3,Blue turn important.,Finance Manager
+410,2026-02-23,VCH-000410,Packing Materials,Expense,COGS,Expense,Green Energy Co.,Cash,Dutch Bangla Bank,REF-5732-LPiz,87132.31,0.0,87132.31,Design whether allow talk our carry.,Admin
+411,2024-12-26,VCH-000411,Product Sales,Revenue,Sales,Expense,Prime Services,Cash,Rupali Bank,REF-5582-OoHf,0.0,14317.58,14317.58,Exactly up whose have whose various.,Admin
+412,2025-08-18,VCH-000412,Marketing & Sales Expenses,Expense,OPEX,Operations,ABC Corporation,Cash,City Bank,REF-3314-IAdd,38909.05,0.0,38909.05,Look special nation front put value.,Finance Manager
+413,2025-02-11,VCH-000413,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Global Enterprises,Cheque,City Bank,REF-1059-sRMm,39698.13,0.0,39698.13,Down thought military whose at.,Managing Director
+414,2025-05-03,VCH-000414,Marketing & Sales Expenses,Expense,OPEX,Banking,Tech Solutions,Bkash,Rupali Bank,REF-7932-URbd,80158.59,0.0,80158.59,Wear city box two bill.,Accounts Officer
+415,2025-08-15,VCH-000415,Administrative Expenses,Expense,OPEX,Capital,Prime Services,Cheque,BRAC Bank,REF-9023-SZRM,41206.78,0.0,41206.78,Already yard forget.,Finance Manager
+416,2025-12-17,VCH-000416,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Tech Solutions,Nagad,BRAC Bank,REF-1163-vqjy,24846.05,0.0,24846.05,Exactly will project I draw assume determine again.,Admin
+417,2025-11-04,VCH-000417,Packing Materials,Expense,COGS,Sales,Prime Services,Bank Transfer,BRAC Bank,REF-2447-XPFx,80693.74,0.0,80693.74,Relationship information movie along represent TV.,Admin
+418,2025-01-10,VCH-000418,Managing Director Personal Expense,Equity,Drawings,COGS,Tech Solutions,Bkash,Dutch Bangla Bank,REF-7503-aXCe,46339.99,0.0,46339.99,Somebody student space standard.,Managing Director
+419,2024-08-22,VCH-000419,Selling & Distribution Expenses,Expense,OPEX,Capital,Tech Solutions,Bank Transfer,Nagad,REF-4422-BilN,32099.74,0.0,32099.74,Particularly star edge can PM ago.,Admin
+420,2024-11-08,VCH-000420,Loan From Managing Director,Liability,Loan,COGS,Tech Solutions,Bank Transfer,BRAC Bank,REF-9520-RkQv,90648.02,0.0,90648.02,Floor like image the.,Admin
+421,2026-02-26,VCH-000421,Depreciation & Amortization,Expense,Non-Cash,Banking,Global Enterprises,Cheque,City Bank,REF-8854-CLVX,12490.81,0.0,12490.81,Past when study success every him.,Managing Director
+422,2024-07-11,VCH-000422,Miscellaneous Expenses,Expense,Other,COGS,Tech Solutions,Cheque,BRAC Bank,REF-0631-FOET,31708.2,0.0,31708.2,Give by note lead player.,Admin
+423,2024-10-24,VCH-000423,Cashout Charge,Expense,Bank Charge,Banking,Prime Services,Bank Transfer,Nagad,REF-8764-ZJSh,75685.58,0.0,75685.58,Success through respond peace rock middle law.,Managing Director
+424,2025-06-08,VCH-000424,Loan From Managing Director,Liability,Loan,Operations,ABC Corporation,Nagad,Rupali Bank,REF-3427-aQll,83808.92,0.0,83808.92,Too not majority trial them.,Accounts Officer
+425,2026-04-21,VCH-000425,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Prime Services,Cash,Rupali Bank,REF-0220-PxDx,71661.58,0.0,71661.58,Future decade money method.,Finance Manager
+426,2025-07-05,VCH-000426,Marketing & Sales Expenses,Expense,OPEX,COGS,Innovate Ltd.,Bank Transfer,Janata Bank,REF-2983-XPzV,24661.44,0.0,24661.44,Key watch spring much stage their assume.,Accounts Officer
+427,2025-03-10,VCH-000427,Product Sales,Revenue,Sales,Operations,Green Energy Co.,Nagad,BRAC Bank,REF-5595-GPdi,0.0,43362.95,43362.95,Sign dark him turn call go talk.,Admin
+428,2024-09-30,VCH-000428,Selling & Distribution Expenses,Expense,OPEX,Operations,Green Energy Co.,Cheque,Janata Bank,REF-1058-nebo,11175.74,0.0,11175.74,Difficult expect south next.,Admin
+429,2026-03-01,VCH-000429,Miscellaneous Expenses,Expense,Other,Expense,Innovate Ltd.,Cheque,Bkash,REF-6447-KDbt,81881.25,0.0,81881.25,Draw partner trial.,Admin
+430,2024-10-21,VCH-000430,Managing Director Personal Expense,Equity,Drawings,Capital,XYZ Ltd.,Bkash,Nagad,REF-5057-qzLy,24030.82,0.0,24030.82,Because collection think reduce.,Admin
+431,2024-08-24,VCH-000431,Salaries & Employee Benefits,Expense,OPEX,Operations,XYZ Ltd.,Nagad,Dutch Bangla Bank,REF-0219-STsW,5454.69,0.0,5454.69,To less listen everything south yes education.,Accounts Officer
+432,2025-04-08,VCH-000432,Miscellaneous Expenses,Expense,Other,Operations,Green Energy Co.,Cash,Nagad,REF-8859-ebBz,54282.05,0.0,54282.05,All happy growth first.,Managing Director
+433,2025-03-30,VCH-000433,Salaries & Employee Benefits,Expense,OPEX,Capital,Tech Solutions,Bkash,Sonali Bank,REF-2876-fHKA,35340.78,0.0,35340.78,Most effect case find bar go.,Finance Manager
+434,2026-04-28,VCH-000434,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Cheque,Nagad,REF-7316-SdGM,54619.18,0.0,54619.18,Around base read increase wide.,Accounts Officer
+435,2024-11-13,VCH-000435,Marketing & Sales Expenses,Expense,OPEX,COGS,Green Energy Co.,Bank Transfer,Rupali Bank,REF-7552-dtoM,48716.93,0.0,48716.93,Eight certain senior nice.,Managing Director
+436,2025-01-21,VCH-000436,Product Sales,Revenue,Sales,COGS,Tech Solutions,Cash,Nagad,REF-0999-vXhG,0.0,66668.76,66668.76,Two star fly relate number.,Finance Manager
+437,2024-10-11,VCH-000437,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Innovate Ltd.,Bank Transfer,Sonali Bank,REF-0142-vQwG,30407.58,0.0,30407.58,Should can eight cold pressure surface.,Admin
+438,2025-04-11,VCH-000438,Managing Director Personal Expense,Equity,Drawings,Capital,Global Enterprises,Bkash,Nagad,REF-1754-lxIN,70486.46,0.0,70486.46,Same one coach also.,Accounts Officer
+439,2025-03-13,VCH-000439,Marketing & Sales Expenses,Expense,OPEX,COGS,Prime Services,Nagad,Bkash,REF-7510-qReW,44850.45,0.0,44850.45,Whom week figure sign together.,Accounts Officer
+440,2025-09-27,VCH-000440,Miscellaneous Expenses,Expense,Other,Banking,Green Energy Co.,Nagad,City Bank,REF-8621-QdJu,40791.4,0.0,40791.4,Find discuss federal.,Managing Director
+441,2025-10-21,VCH-000441,Salaries & Employee Benefits,Expense,OPEX,Sales,Innovate Ltd.,Cash,Dutch Bangla Bank,REF-6649-onNR,98393.64,0.0,98393.64,Heavy court every reach involve now state.,Admin
+442,2024-11-23,VCH-000442,Depreciation & Amortization,Expense,Non-Cash,COGS,ABC Corporation,Bkash,Janata Bank,REF-5752-rdbK,18159.95,0.0,18159.95,Most this note within listen.,Admin
+443,2025-03-22,VCH-000443,Salaries & Employee Benefits,Expense,OPEX,Expense,Innovate Ltd.,Bank Transfer,BRAC Bank,REF-7981-hKAd,5444.03,0.0,5444.03,Carry guess brother act feeling interesting throughout.,Accounts Officer
+444,2024-06-22,VCH-000444,Administrative Expenses,Expense,OPEX,Banking,Green Energy Co.,Bank Transfer,Bkash,REF-4251-PMsz,72819.13,0.0,72819.13,Ground administration meeting purpose seem.,Managing Director
+445,2026-03-04,VCH-000445,Miscellaneous Expenses,Expense,Other,Banking,Tech Solutions,Nagad,Sonali Bank,REF-4289-StLL,44353.48,0.0,44353.48,Save me green past face common thank as.,Admin
+446,2026-03-20,VCH-000446,Depreciation & Amortization,Expense,Non-Cash,Banking,XYZ Ltd.,Bkash,City Bank,REF-1841-vIFH,37063.03,0.0,37063.03,Late peace small.,Managing Director
+447,2025-02-18,VCH-000447,Managing Director Personal Expense,Equity,Drawings,Banking,Tech Solutions,Bkash,Janata Bank,REF-9253-wRzv,40942.86,0.0,40942.86,Choose occur tree in.,Admin
+448,2026-02-09,VCH-000448,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,ABC Corporation,Bank Transfer,Rupali Bank,REF-0717-qYAA,45709.01,0.0,45709.01,Local manage institution force people.,Accounts Officer
+449,2025-01-10,VCH-000449,Loan From Managing Director,Liability,Loan,Capital,ABC Corporation,Cash,BRAC Bank,REF-6524-vZLJ,62096.04,0.0,62096.04,Knowledge nothing simple claim fight.,Managing Director
+450,2024-09-24,VCH-000450,Salaries & Employee Benefits,Expense,OPEX,Sales,ABC Corporation,Nagad,Rupali Bank,REF-5114-dAIt,95537.99,0.0,95537.99,National activity team hot.,Accounts Officer
+451,2024-09-17,VCH-000451,Depreciation & Amortization,Expense,Non-Cash,COGS,ABC Corporation,Bkash,Nagad,REF-3767-klHP,3590.5,0.0,3590.5,Paper process husband after help attorney although.,Managing Director
+452,2025-01-06,VCH-000452,Marketing & Sales Expenses,Expense,OPEX,Banking,Global Enterprises,Cash,BRAC Bank,REF-7368-PTJj,71853.53,0.0,71853.53,At move science close defense.,Managing Director
+453,2024-12-03,VCH-000453,Salaries & Employee Benefits,Expense,OPEX,COGS,Innovate Ltd.,Bank Transfer,Rupali Bank,REF-2577-qjXv,6673.13,0.0,6673.13,Many present across hair author prevent own.,Accounts Officer
+454,2025-01-10,VCH-000454,Selling & Distribution Expenses,Expense,OPEX,Banking,Tech Solutions,Bank Transfer,Rupali Bank,REF-7535-DCYE,91659.57,0.0,91659.57,Federal how force occur small notice hotel thousand.,Finance Manager
+455,2025-08-18,VCH-000455,Depreciation & Amortization,Expense,Non-Cash,Banking,XYZ Ltd.,Nagad,Nagad,REF-6156-Psaz,27288.21,0.0,27288.21,Eight money natural either face.,Finance Manager
+456,2025-06-05,VCH-000456,Marketing & Sales Expenses,Expense,OPEX,Capital,Prime Services,Nagad,Dutch Bangla Bank,REF-6786-FzIB,41981.41,0.0,41981.41,Language risk be artist human them sign.,Finance Manager
+457,2025-10-13,VCH-000457,Cashout Charge,Expense,Bank Charge,Operations,Innovate Ltd.,Nagad,Nagad,REF-0447-dJbO,49050.26,0.0,49050.26,Million realize young step artist.,Managing Director
+458,2026-02-06,VCH-000458,Loan From Managing Director,Liability,Loan,Banking,XYZ Ltd.,Cheque,Rupali Bank,REF-8496-FkXi,57705.34,0.0,57705.34,Step themselves push spring moment station ahead large.,Finance Manager
+459,2024-10-27,VCH-000459,Miscellaneous Expenses,Expense,Other,Banking,XYZ Ltd.,Bkash,City Bank,REF-9136-EwEK,86785.39,0.0,86785.39,Commercial ever social tough standard.,Admin
+460,2024-07-20,VCH-000460,Financial Expenses,Expense,Finance,Capital,Global Enterprises,Bkash,BRAC Bank,REF-5945-bWvy,56182.69,0.0,56182.69,Race less cup.,Accounts Officer
+461,2024-12-28,VCH-000461,Administrative Expenses,Expense,OPEX,Banking,Innovate Ltd.,Bkash,Dutch Bangla Bank,REF-0225-gYUw,68075.07,0.0,68075.07,Professional well realize hard mention difficult gun.,Managing Director
+462,2025-06-30,VCH-000462,Loan From Managing Director,Liability,Loan,COGS,Innovate Ltd.,Bkash,Dutch Bangla Bank,REF-7044-MgDh,67304.99,0.0,67304.99,Player offer eight fact.,Admin
+463,2025-09-09,VCH-000463,Miscellaneous Expenses,Expense,Other,COGS,Innovate Ltd.,Bank Transfer,BRAC Bank,REF-3243-lhXV,83581.81,0.0,83581.81,Suddenly institution top peace fine dinner voice.,Finance Manager
+464,2024-06-15,VCH-000464,Investment Payment,Equity,Capital,Capital,Green Energy Co.,Bkash,BRAC Bank,REF-1517-zmah,64768.23,0.0,64768.23,Officer very pressure adult little gun next.,Admin
+465,2026-01-06,VCH-000465,Miscellaneous Expenses,Expense,Other,COGS,Tech Solutions,Nagad,Nagad,REF-7417-RBir,41952.93,0.0,41952.93,Head send beyond daughter thought third.,Managing Director
+466,2025-10-21,VCH-000466,Loan From Managing Director,Liability,Loan,Operations,ABC Corporation,Cheque,Nagad,REF-6256-vpWP,73930.9,0.0,73930.9,Over hour close citizen list prevent return owner.,Finance Manager
+467,2024-10-13,VCH-000467,Administrative Expenses,Expense,OPEX,Banking,Innovate Ltd.,Cheque,Nagad,REF-9880-aMRf,50647.52,0.0,50647.52,Subject approach student hospital rest shoulder indeed.,Admin
+468,2024-06-17,VCH-000468,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Green Energy Co.,Cash,Nagad,REF-3103-yOiz,57144.18,0.0,57144.18,Policy pull create.,Accounts Officer
+469,2024-10-28,VCH-000469,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Prime Services,Bkash,Bkash,REF-4494-kgtm,55119.53,0.0,55119.53,Government have growth morning bill.,Managing Director
+470,2024-06-25,VCH-000470,Product Sales,Revenue,Sales,Sales,Green Energy Co.,Cash,City Bank,REF-4805-cizx,0.0,77327.09,77327.09,Tough require election indeed.,Managing Director
+471,2025-05-11,VCH-000471,Selling & Distribution Expenses,Expense,OPEX,Expense,ABC Corporation,Bank Transfer,Nagad,REF-6121-bYAU,9303.11,0.0,9303.11,Official not attack knowledge Republican.,Accounts Officer
+472,2024-12-15,VCH-000472,Product Sales,Revenue,Sales,Capital,XYZ Ltd.,Cash,Janata Bank,REF-0000-WAiH,0.0,66988.83,66988.83,Scientist media yard song animal according next.,Admin
+473,2026-05-23,VCH-000473,Administrative Expenses,Expense,OPEX,COGS,Prime Services,Bank Transfer,City Bank,REF-6741-RCxU,74192.25,0.0,74192.25,Today pattern mouth just detail.,Admin
+474,2026-02-14,VCH-000474,Depreciation & Amortization,Expense,Non-Cash,Banking,Green Energy Co.,Bkash,BRAC Bank,REF-6603-xhrn,41074.61,0.0,41074.61,Leg up life approach.,Admin
+475,2025-01-10,VCH-000475,Managing Director Personal Expense,Equity,Drawings,Sales,ABC Corporation,Cheque,Nagad,REF-0687-ZqHn,87666.55,0.0,87666.55,Think attack book still officer effect.,Managing Director
+476,2024-11-14,VCH-000476,Miscellaneous Expenses,Expense,Other,Expense,Tech Solutions,Bkash,City Bank,REF-9338-fBeZ,48070.72,0.0,48070.72,Radio control dinner various morning none information although.,Finance Manager
+477,2025-04-09,VCH-000477,Investment Payment,Equity,Capital,Sales,Prime Services,Cheque,Nagad,REF-1555-xEVt,78069.53,0.0,78069.53,Walk build trouble reach strategy group knowledge.,Admin
+478,2025-01-25,VCH-000478,Administrative Expenses,Expense,OPEX,Expense,ABC Corporation,Bkash,Nagad,REF-9627-wBza,87885.66,0.0,87885.66,Economic work common life street crime couple.,Finance Manager
+479,2026-04-25,VCH-000479,Salaries & Employee Benefits,Expense,OPEX,Expense,XYZ Ltd.,Cheque,Janata Bank,REF-7461-PuWI,48583.13,0.0,48583.13,International what two south show away.,Accounts Officer
+480,2025-07-21,VCH-000480,Product Sales,Revenue,Sales,COGS,Global Enterprises,Bkash,Sonali Bank,REF-0117-NwzJ,0.0,87614.69,87614.69,Performance decide theory worker theory.,Accounts Officer
+481,2025-03-28,VCH-000481,Depreciation & Amortization,Expense,Non-Cash,COGS,Tech Solutions,Bank Transfer,Bkash,REF-7160-mxFN,72559.85,0.0,72559.85,Hundred vote consider condition information he other.,Accounts Officer
+482,2024-08-19,VCH-000482,Administrative Expenses,Expense,OPEX,Operations,Prime Services,Bank Transfer,Bkash,REF-7738-KjDz,9231.77,0.0,9231.77,Natural make on.,Managing Director
+483,2026-03-03,VCH-000483,Investment Payment,Equity,Capital,Sales,XYZ Ltd.,Cheque,Janata Bank,REF-1287-fkkL,20457.41,0.0,20457.41,Enough now certainly too media whether win between.,Admin
+484,2024-12-03,VCH-000484,Packing Materials,Expense,COGS,COGS,Innovate Ltd.,Cash,Nagad,REF-6370-Tosm,68746.37,0.0,68746.37,Reach add customer service.,Accounts Officer
+485,2024-09-25,VCH-000485,Packing Materials,Expense,COGS,Expense,Innovate Ltd.,Bank Transfer,Dutch Bangla Bank,REF-2150-aTCt,4837.43,0.0,4837.43,By far lose kitchen look view.,Accounts Officer
+486,2026-03-25,VCH-000486,Miscellaneous Expenses,Expense,Other,Capital,Innovate Ltd.,Cash,Sonali Bank,REF-5860-eKtr,84692.41,0.0,84692.41,Share woman away future.,Finance Manager
+487,2025-05-31,VCH-000487,Product Sales,Revenue,Sales,Capital,Tech Solutions,Cheque,BRAC Bank,REF-9179-okIj,0.0,87702.02,87702.02,Happen movie hard shoulder join likely positive could.,Managing Director
+488,2025-10-14,VCH-000488,Investment Payment,Equity,Capital,Operations,Tech Solutions,Cheque,Janata Bank,REF-2481-dEmL,8017.36,0.0,8017.36,Position art remember give increase meeting cut.,Admin
+489,2024-12-22,VCH-000489,Miscellaneous Expenses,Expense,Other,Expense,Global Enterprises,Nagad,Bkash,REF-9993-ySiV,19184.97,0.0,19184.97,Second experience activity.,Accounts Officer
+490,2026-03-22,VCH-000490,Packing Materials,Expense,COGS,Capital,Innovate Ltd.,Cheque,BRAC Bank,REF-4460-lHxq,71110.37,0.0,71110.37,Sing ago whose individual star middle.,Managing Director
+491,2025-02-18,VCH-000491,Loan From Managing Director,Liability,Loan,Sales,Green Energy Co.,Nagad,BRAC Bank,REF-6270-KuJi,86987.49,0.0,86987.49,Dog successful few crime effort eye.,Admin
+492,2025-10-30,VCH-000492,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,XYZ Ltd.,Bank Transfer,Dutch Bangla Bank,REF-0043-MzBn,22276.24,0.0,22276.24,Civil defense may cup scientist money.,Finance Manager
+493,2024-12-26,VCH-000493,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-8951-FAhg,35873.33,0.0,35873.33,Change energy office he.,Managing Director
+494,2025-05-27,VCH-000494,Product Sales,Revenue,Sales,Banking,Innovate Ltd.,Cheque,Rupali Bank,REF-3506-BOUq,0.0,98426.16,98426.16,Them appear position have real benefit land.,Managing Director
+495,2026-04-12,VCH-000495,Selling & Distribution Expenses,Expense,OPEX,COGS,XYZ Ltd.,Bank Transfer,Janata Bank,REF-8445-gJDB,55742.64,0.0,55742.64,Well write free response.,Managing Director
+496,2025-02-07,VCH-000496,Salaries & Employee Benefits,Expense,OPEX,Sales,Green Energy Co.,Cheque,Dutch Bangla Bank,REF-9266-bfZh,38300.81,0.0,38300.81,Design dream single simple from.,Admin
+497,2025-10-30,VCH-000497,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Tech Solutions,Bkash,Bkash,REF-6201-pDAy,3949.24,0.0,3949.24,Store positive major maybe across child.,Finance Manager
+498,2025-12-30,VCH-000498,Selling & Distribution Expenses,Expense,OPEX,Sales,Tech Solutions,Cheque,BRAC Bank,REF-8657-DFhx,79218.57,0.0,79218.57,Future outside sometimes dinner ok.,Managing Director
+499,2025-02-11,VCH-000499,Packing Materials,Expense,COGS,Sales,ABC Corporation,Bkash,Nagad,REF-0708-oHyQ,95760.92,0.0,95760.92,Name federal might situation or later night.,Managing Director
+500,2025-10-26,VCH-000500,Cashout Charge,Expense,Bank Charge,Sales,Tech Solutions,Cash,Nagad,REF-5851-EBJi,17408.41,0.0,17408.41,Along well she visit magazine glass manager.,Accounts Officer
+501,2026-02-22,VCH-000501,Loan From Managing Director,Liability,Loan,Expense,XYZ Ltd.,Nagad,Rupali Bank,REF-6816-eajI,86515.03,0.0,86515.03,Tax say also change week get.,Admin
+502,2024-10-13,VCH-000502,Salaries & Employee Benefits,Expense,OPEX,Operations,ABC Corporation,Cheque,Sonali Bank,REF-7866-wPyE,61196.46,0.0,61196.46,Add message those concern.,Admin
+503,2024-09-09,VCH-000503,Selling & Distribution Expenses,Expense,OPEX,Sales,Innovate Ltd.,Cheque,BRAC Bank,REF-3388-oMrO,58678.96,0.0,58678.96,Give know short present customer.,Managing Director
+504,2026-02-09,VCH-000504,Miscellaneous Expenses,Expense,Other,Banking,Global Enterprises,Cheque,Bkash,REF-1818-xsmz,29790.45,0.0,29790.45,Yes thank yet character great.,Admin
+505,2024-10-19,VCH-000505,Salaries & Employee Benefits,Expense,OPEX,Sales,Tech Solutions,Nagad,Bkash,REF-7015-lnsg,70020.56,0.0,70020.56,Turn defense ever.,Admin
+506,2026-04-23,VCH-000506,Loan From Managing Director,Liability,Loan,Sales,Green Energy Co.,Bkash,Dutch Bangla Bank,REF-0663-rNpl,94099.37,0.0,94099.37,Eye sound garden woman investment.,Finance Manager
+507,2025-03-04,VCH-000507,Financial Expenses,Expense,Finance,Banking,ABC Corporation,Cash,Bkash,REF-3066-YffE,72465.04,0.0,72465.04,Create exactly wind amount.,Accounts Officer
+508,2025-02-17,VCH-000508,Managing Director Personal Expense,Equity,Drawings,COGS,Prime Services,Cash,BRAC Bank,REF-1311-ReTd,13899.93,0.0,13899.93,Individual treatment hard.,Admin
+509,2025-11-06,VCH-000509,Administrative Expenses,Expense,OPEX,Sales,Green Energy Co.,Bkash,Janata Bank,REF-6800-oiUI,44411.92,0.0,44411.92,Green professor health oil.,Accounts Officer
+510,2026-05-14,VCH-000510,Marketing & Sales Expenses,Expense,OPEX,Capital,Prime Services,Bank Transfer,Bkash,REF-7277-EsjS,34891.18,0.0,34891.18,Continue price speak culture lay you wish.,Managing Director
+511,2026-05-25,VCH-000511,Managing Director Personal Expense,Equity,Drawings,Operations,Global Enterprises,Cash,Janata Bank,REF-0956-uZtk,6209.18,0.0,6209.18,Local service world reach.,Managing Director
+512,2025-06-08,VCH-000512,Managing Director Personal Expense,Equity,Drawings,COGS,Innovate Ltd.,Nagad,Sonali Bank,REF-7025-wgph,37142.12,0.0,37142.12,Owner property fill reach election against thank.,Admin
+513,2024-11-14,VCH-000513,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Green Energy Co.,Bank Transfer,Nagad,REF-2111-BhWf,62687.97,0.0,62687.97,This dinner tend west.,Managing Director
+514,2025-02-22,VCH-000514,Salaries & Employee Benefits,Expense,OPEX,Expense,Prime Services,Bank Transfer,Rupali Bank,REF-8181-Tnrt,18967.46,0.0,18967.46,Skin media election yet.,Managing Director
+515,2025-12-21,VCH-000515,Salaries & Employee Benefits,Expense,OPEX,COGS,Global Enterprises,Nagad,Janata Bank,REF-9625-CyQJ,81319.63,0.0,81319.63,Dark chair red knowledge new.,Finance Manager
+516,2024-11-17,VCH-000516,Loan From Managing Director,Liability,Loan,Banking,Green Energy Co.,Nagad,Dutch Bangla Bank,REF-2023-FVcc,5563.29,0.0,5563.29,Social family responsibility head field north easy.,Managing Director
+517,2025-03-18,VCH-000517,Investment Payment,Equity,Capital,Banking,Innovate Ltd.,Bkash,Bkash,REF-6086-nmEt,82576.49,0.0,82576.49,Sing college thus.,Managing Director
+518,2026-03-06,VCH-000518,Miscellaneous Expenses,Expense,Other,Sales,ABC Corporation,Cheque,City Bank,REF-4853-wyvL,88143.78,0.0,88143.78,Trial moment note me senior themselves party rock.,Admin
+519,2025-07-04,VCH-000519,Selling & Distribution Expenses,Expense,OPEX,Expense,Prime Services,Cash,Sonali Bank,REF-0184-yUVq,2199.97,0.0,2199.97,Lay control usually single.,Accounts Officer
+520,2025-12-22,VCH-000520,Miscellaneous Expenses,Expense,Other,Operations,ABC Corporation,Bkash,Bkash,REF-3305-bFiY,91816.21,0.0,91816.21,Watch market suddenly foot.,Accounts Officer
+521,2025-01-09,VCH-000521,Managing Director Personal Expense,Equity,Drawings,Banking,ABC Corporation,Bank Transfer,Nagad,REF-2629-qotf,5946.69,0.0,5946.69,Perform miss bag.,Admin
+522,2025-09-24,VCH-000522,Salaries & Employee Benefits,Expense,OPEX,Capital,Tech Solutions,Bank Transfer,City Bank,REF-2031-Icet,33765.28,0.0,33765.28,Democratic down watch one consumer discuss.,Finance Manager
+523,2025-11-07,VCH-000523,Investment Payment,Equity,Capital,Sales,Innovate Ltd.,Cheque,City Bank,REF-3709-QnvZ,29934.9,0.0,29934.9,Follow morning so reflect time.,Admin
+524,2026-03-19,VCH-000524,Salaries & Employee Benefits,Expense,OPEX,Capital,Prime Services,Cheque,BRAC Bank,REF-6303-oGev,89198.82,0.0,89198.82,Include let military.,Finance Manager
+525,2026-02-13,VCH-000525,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Global Enterprises,Nagad,Dutch Bangla Bank,REF-5628-zXdK,82496.21,0.0,82496.21,Ever contain big true everything rich public.,Accounts Officer
+526,2024-09-25,VCH-000526,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,ABC Corporation,Nagad,Sonali Bank,REF-7314-XftA,29859.32,0.0,29859.32,High sign more actually media.,Admin
+527,2024-07-25,VCH-000527,Marketing & Sales Expenses,Expense,OPEX,Capital,Tech Solutions,Cheque,Sonali Bank,REF-8353-SQcA,61189.74,0.0,61189.74,Recent standard music mission stop.,Finance Manager
+528,2025-12-17,VCH-000528,Loan From Managing Director,Liability,Loan,Banking,ABC Corporation,Nagad,Dutch Bangla Bank,REF-5041-KMnO,97665.2,0.0,97665.2,Around control surface attorney day bank name relate.,Managing Director
+529,2025-12-25,VCH-000529,Loan From Managing Director,Liability,Loan,Sales,Prime Services,Bank Transfer,Nagad,REF-1290-FAOU,34749.29,0.0,34749.29,Student themselves treatment here task.,Accounts Officer
+530,2025-07-07,VCH-000530,Cashout Charge,Expense,Bank Charge,Sales,Green Energy Co.,Cash,Sonali Bank,REF-0095-QcJo,35797.26,0.0,35797.26,Culture seek near.,Admin
+531,2025-03-13,VCH-000531,Miscellaneous Expenses,Expense,Other,Expense,Tech Solutions,Bank Transfer,Dutch Bangla Bank,REF-1734-qKOz,31549.43,0.0,31549.43,All few serve next attack beyond hand would.,Managing Director
+532,2024-11-30,VCH-000532,Investment Payment,Equity,Capital,Operations,ABC Corporation,Cheque,Rupali Bank,REF-6201-nAAL,20353.93,0.0,20353.93,Environment evening future how deep ask.,Admin
+533,2025-02-20,VCH-000533,Managing Director Personal Expense,Equity,Drawings,Capital,Tech Solutions,Nagad,Rupali Bank,REF-7214-CMOm,13562.13,0.0,13562.13,Culture usually kind behind song east parent.,Managing Director
+534,2025-04-01,VCH-000534,Managing Director Personal Expense,Equity,Drawings,Capital,XYZ Ltd.,Cheque,Nagad,REF-4079-APUB,47161.4,0.0,47161.4,Gas official only particularly the.,Admin
+535,2025-08-11,VCH-000535,Product Sales,Revenue,Sales,COGS,Tech Solutions,Cheque,Bkash,REF-8022-SZGz,0.0,68760.24,68760.24,Yet four consider.,Admin
+536,2025-11-07,VCH-000536,Financial Expenses,Expense,Finance,Expense,Prime Services,Bank Transfer,Rupali Bank,REF-4830-TIzO,48666.31,0.0,48666.31,Various laugh then recent.,Admin
+537,2026-02-16,VCH-000537,Administrative Expenses,Expense,OPEX,Operations,Global Enterprises,Bank Transfer,Rupali Bank,REF-7703-nNiP,87975.42,0.0,87975.42,Choose western economy her.,Accounts Officer
+538,2025-05-28,VCH-000538,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,XYZ Ltd.,Bank Transfer,City Bank,REF-8874-TghD,72463.09,0.0,72463.09,Begin music news music why sit similar.,Finance Manager
+539,2025-12-25,VCH-000539,Marketing & Sales Expenses,Expense,OPEX,COGS,Prime Services,Nagad,Dutch Bangla Bank,REF-8530-ZKPM,97391.44,0.0,97391.44,Executive positive beautiful chance prepare.,Managing Director
+540,2026-01-27,VCH-000540,Loan From Managing Director,Liability,Loan,Operations,Prime Services,Bkash,BRAC Bank,REF-1430-SdhT,38412.5,0.0,38412.5,Past others identify none author measure.,Admin
+541,2025-04-01,VCH-000541,Marketing & Sales Expenses,Expense,OPEX,Operations,ABC Corporation,Cheque,Rupali Bank,REF-7550-grPg,92176.63,0.0,92176.63,For employee particular prove market.,Admin
+542,2024-11-12,VCH-000542,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Innovate Ltd.,Cheque,Bkash,REF-7856-VnjB,70527.56,0.0,70527.56,Political fund support history.,Accounts Officer
+543,2024-10-09,VCH-000543,Marketing & Sales Expenses,Expense,OPEX,Banking,Green Energy Co.,Bank Transfer,Janata Bank,REF-3820-LTEk,14231.46,0.0,14231.46,Bed strong democratic model back development side imagine.,Finance Manager
+544,2026-05-30,VCH-000544,Cashout Charge,Expense,Bank Charge,Sales,ABC Corporation,Cheque,Janata Bank,REF-3272-lCqv,90129.7,0.0,90129.7,Note instead practice team wear study.,Managing Director
+545,2026-04-14,VCH-000545,Marketing & Sales Expenses,Expense,OPEX,COGS,Global Enterprises,Cheque,Rupali Bank,REF-9872-PIlE,42732.46,0.0,42732.46,School hospital first rich child.,Finance Manager
+546,2024-12-12,VCH-000546,Managing Director Personal Expense,Equity,Drawings,Capital,Tech Solutions,Cheque,City Bank,REF-8543-YsJD,69415.53,0.0,69415.53,Shoulder hot identify night leave yard not manage.,Admin
+547,2025-11-06,VCH-000547,Administrative Expenses,Expense,OPEX,Expense,XYZ Ltd.,Bkash,Rupali Bank,REF-8819-sgKx,30987.26,0.0,30987.26,Into lose instead task.,Finance Manager
+548,2025-12-17,VCH-000548,Investment Payment,Equity,Capital,Capital,Tech Solutions,Cheque,Nagad,REF-8201-HsRm,2837.44,0.0,2837.44,Turn less door keep.,Finance Manager
+549,2024-07-14,VCH-000549,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Innovate Ltd.,Cheque,BRAC Bank,REF-3166-mntl,84766.95,0.0,84766.95,Game huge choice rest reduce soldier too.,Admin
+550,2024-07-02,VCH-000550,Administrative Expenses,Expense,OPEX,Operations,Innovate Ltd.,Bank Transfer,Rupali Bank,REF-7148-eVEx,80920.71,0.0,80920.71,Soldier price occur task guess.,Managing Director
+551,2025-05-02,VCH-000551,Marketing & Sales Expenses,Expense,OPEX,Sales,ABC Corporation,Nagad,City Bank,REF-9018-BoqS,39871.79,0.0,39871.79,Organization clear person resource because PM federal.,Accounts Officer
+552,2026-01-07,VCH-000552,Selling & Distribution Expenses,Expense,OPEX,Operations,Innovate Ltd.,Bkash,Bkash,REF-8932-cyEw,53175.73,0.0,53175.73,Argue father hope above also.,Accounts Officer
+553,2024-11-19,VCH-000553,Administrative Expenses,Expense,OPEX,Expense,Innovate Ltd.,Bkash,City Bank,REF-1350-NpHt,16235.47,0.0,16235.47,Month pay your police rich upon there simply.,Accounts Officer
+554,2024-07-02,VCH-000554,Salaries & Employee Benefits,Expense,OPEX,Banking,Innovate Ltd.,Cheque,City Bank,REF-5486-rFFt,51639.44,0.0,51639.44,Story tough type candidate.,Admin
+555,2025-03-05,VCH-000555,Salaries & Employee Benefits,Expense,OPEX,Sales,Innovate Ltd.,Cash,Nagad,REF-7782-piMt,89294.47,0.0,89294.47,Not mother campaign table smile serious face trade.,Finance Manager
+556,2024-11-26,VCH-000556,Marketing & Sales Expenses,Expense,OPEX,COGS,XYZ Ltd.,Cash,Janata Bank,REF-9117-NPSa,63930.87,0.0,63930.87,Exactly reveal and despite.,Managing Director
+557,2024-06-20,VCH-000557,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Prime Services,Cheque,BRAC Bank,REF-3737-bQtV,44391.17,0.0,44391.17,Realize serious phone.,Finance Manager
+558,2024-08-27,VCH-000558,Investment Payment,Equity,Capital,Capital,Prime Services,Nagad,Bkash,REF-2356-WsaU,73302.23,0.0,73302.23,Laugh Republican camera sell consider job later.,Admin
+559,2024-12-21,VCH-000559,Cashout Charge,Expense,Bank Charge,COGS,Green Energy Co.,Bank Transfer,BRAC Bank,REF-2581-QFrd,15954.96,0.0,15954.96,Phone identify reveal.,Managing Director
+560,2024-09-16,VCH-000560,Product Sales,Revenue,Sales,COGS,XYZ Ltd.,Bkash,Sonali Bank,REF-5916-WwkG,0.0,4019.62,4019.62,Put present strategy live public red everything life.,Accounts Officer
+561,2026-02-25,VCH-000561,Selling & Distribution Expenses,Expense,OPEX,Capital,XYZ Ltd.,Cash,BRAC Bank,REF-5223-hORg,92800.35,0.0,92800.35,Part reach outside.,Managing Director
+562,2024-09-05,VCH-000562,Administrative Expenses,Expense,OPEX,Sales,Prime Services,Bkash,Dutch Bangla Bank,REF-1870-FLsC,67174.19,0.0,67174.19,Mind particular sit behind still bar follow.,Managing Director
+563,2025-05-07,VCH-000563,Investment Payment,Equity,Capital,COGS,Green Energy Co.,Bkash,City Bank,REF-2634-sAad,57120.21,0.0,57120.21,Visit generation region choice suffer.,Accounts Officer
+564,2026-02-03,VCH-000564,Managing Director Personal Expense,Equity,Drawings,Expense,XYZ Ltd.,Bank Transfer,Bkash,REF-1220-EnZl,53978.24,0.0,53978.24,Though fire class wait.,Accounts Officer
+565,2024-11-19,VCH-000565,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Green Energy Co.,Bkash,Bkash,REF-5135-Npic,70661.66,0.0,70661.66,Throughout argue house finish meeting story truth.,Admin
+566,2025-06-05,VCH-000566,Investment Payment,Equity,Capital,Sales,Tech Solutions,Bkash,BRAC Bank,REF-6876-wIIf,70770.9,0.0,70770.9,Move sign position who I guy issue.,Accounts Officer
+567,2026-02-17,VCH-000567,Depreciation & Amortization,Expense,Non-Cash,Banking,Innovate Ltd.,Nagad,Rupali Bank,REF-6759-ThAL,36492.8,0.0,36492.8,Film the police.,Admin
+568,2026-05-05,VCH-000568,Packing Materials,Expense,COGS,Expense,Tech Solutions,Bkash,Janata Bank,REF-7407-pvQT,77060.27,0.0,77060.27,Relationship hard effect less man action get.,Accounts Officer
+569,2025-08-04,VCH-000569,Loan From Managing Director,Liability,Loan,Capital,Tech Solutions,Cash,Nagad,REF-7060-KKmw,91206.68,0.0,91206.68,All property mother beautiful tough according.,Admin
+570,2025-10-22,VCH-000570,Financial Expenses,Expense,Finance,Operations,XYZ Ltd.,Nagad,City Bank,REF-3753-Tiry,25728.51,0.0,25728.51,Career without look.,Finance Manager
+571,2025-11-14,VCH-000571,Marketing & Sales Expenses,Expense,OPEX,Sales,Prime Services,Nagad,BRAC Bank,REF-2963-TDmO,62433.63,0.0,62433.63,Only region film.,Managing Director
+572,2025-02-01,VCH-000572,Selling & Distribution Expenses,Expense,OPEX,Banking,Tech Solutions,Cash,Dutch Bangla Bank,REF-3098-StIZ,90412.99,0.0,90412.99,Live executive focus operation fly.,Admin
+573,2026-02-08,VCH-000573,Selling & Distribution Expenses,Expense,OPEX,Expense,Prime Services,Nagad,Dutch Bangla Bank,REF-1120-cshW,95528.11,0.0,95528.11,Right effect cell lot meet question because.,Admin
+574,2024-11-17,VCH-000574,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Innovate Ltd.,Bkash,Rupali Bank,REF-0353-AFGw,23445.05,0.0,23445.05,Color himself body together should consider water edge.,Admin
+575,2024-10-13,VCH-000575,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Prime Services,Cheque,Rupali Bank,REF-8439-nTRD,15548.33,0.0,15548.33,Positive town meeting often avoid.,Admin
+576,2024-11-21,VCH-000576,Salaries & Employee Benefits,Expense,OPEX,COGS,XYZ Ltd.,Nagad,Nagad,REF-2805-mXsI,53366.3,0.0,53366.3,Chance long always meet.,Managing Director
+577,2024-06-08,VCH-000577,Depreciation & Amortization,Expense,Non-Cash,Banking,Green Energy Co.,Cash,Nagad,REF-9873-fEgA,62398.87,0.0,62398.87,As world than with central.,Finance Manager
+578,2025-01-04,VCH-000578,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Innovate Ltd.,Cheque,City Bank,REF-8512-iCbS,60024.74,0.0,60024.74,Turn thought education.,Managing Director
+579,2026-05-18,VCH-000579,Managing Director Personal Expense,Equity,Drawings,Sales,Green Energy Co.,Bkash,Janata Bank,REF-9263-QFga,49094.35,0.0,49094.35,Campaign see project.,Finance Manager
+580,2025-05-24,VCH-000580,Managing Director Personal Expense,Equity,Drawings,COGS,Tech Solutions,Cash,Rupali Bank,REF-2658-Mvjr,21487.15,0.0,21487.15,Want fund these learn behind.,Accounts Officer
+581,2025-04-17,VCH-000581,Managing Director Personal Expense,Equity,Drawings,Sales,XYZ Ltd.,Cheque,City Bank,REF-2207-FEid,73577.4,0.0,73577.4,Cover color book price box.,Accounts Officer
+582,2025-04-24,VCH-000582,Loan From Managing Director,Liability,Loan,COGS,Innovate Ltd.,Cash,Nagad,REF-8515-Fkcf,40418.21,0.0,40418.21,Land already student network tree try recently factor.,Admin
+583,2026-05-12,VCH-000583,Salaries & Employee Benefits,Expense,OPEX,Capital,Green Energy Co.,Bkash,Nagad,REF-2822-QLCY,55955.66,0.0,55955.66,Yes tell customer place.,Managing Director
+584,2025-02-06,VCH-000584,Selling & Distribution Expenses,Expense,OPEX,Capital,Green Energy Co.,Nagad,City Bank,REF-0295-ftGx,25037.36,0.0,25037.36,Go off far positive across.,Admin
+585,2024-06-09,VCH-000585,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,ABC Corporation,Nagad,Rupali Bank,REF-5498-AAzM,74173.63,0.0,74173.63,Direction safe consider sit bank manage entire.,Finance Manager
+586,2026-02-08,VCH-000586,Cashout Charge,Expense,Bank Charge,Sales,Innovate Ltd.,Cheque,Nagad,REF-3875-szMv,98558.61,0.0,98558.61,Add water letter already lawyer seek human activity.,Managing Director
+587,2026-03-20,VCH-000587,Selling & Distribution Expenses,Expense,OPEX,COGS,XYZ Ltd.,Cash,Janata Bank,REF-0450-gUPy,71439.26,0.0,71439.26,During never today game soldier.,Accounts Officer
+588,2024-07-06,VCH-000588,Administrative Expenses,Expense,OPEX,Banking,Global Enterprises,Nagad,Rupali Bank,REF-0052-hpbK,81675.78,0.0,81675.78,Tend special building.,Managing Director
+589,2024-08-23,VCH-000589,Cashout Charge,Expense,Bank Charge,Operations,Global Enterprises,Bkash,Rupali Bank,REF-7652-qeEB,65433.45,0.0,65433.45,Us it worker appear rich south PM.,Managing Director
+590,2025-03-19,VCH-000590,Cashout Charge,Expense,Bank Charge,Sales,Innovate Ltd.,Bank Transfer,Janata Bank,REF-3290-DJLL,66616.94,0.0,66616.94,Exactly day offer catch.,Accounts Officer
+591,2025-06-24,VCH-000591,Product Sales,Revenue,Sales,Capital,XYZ Ltd.,Nagad,Janata Bank,REF-6444-dvLi,0.0,18666.39,18666.39,Wind decision prevent build three.,Managing Director
+592,2024-09-06,VCH-000592,Investment Payment,Equity,Capital,Sales,Prime Services,Cash,City Bank,REF-0827-LWBO,5404.55,0.0,5404.55,Everything simple trade air.,Admin
+593,2025-04-21,VCH-000593,Product Sales,Revenue,Sales,Sales,Green Energy Co.,Cash,Janata Bank,REF-5074-Ycif,0.0,32638.04,32638.04,Above generation between little hour author girl family.,Admin
+594,2025-05-24,VCH-000594,Selling & Distribution Expenses,Expense,OPEX,COGS,ABC Corporation,Cash,Dutch Bangla Bank,REF-8451-YsUg,71902.65,0.0,71902.65,Congress course actually.,Managing Director
+595,2025-03-02,VCH-000595,Miscellaneous Expenses,Expense,Other,Banking,Innovate Ltd.,Bank Transfer,Bkash,REF-1458-DigI,89829.69,0.0,89829.69,Must with natural happy certain.,Admin
+596,2026-05-24,VCH-000596,Marketing & Sales Expenses,Expense,OPEX,Sales,Green Energy Co.,Bkash,Bkash,REF-9791-Ajvf,55741.68,0.0,55741.68,Future level control store she produce.,Admin
+597,2024-11-27,VCH-000597,Loan From Managing Director,Liability,Loan,Operations,XYZ Ltd.,Nagad,Sonali Bank,REF-6158-NTae,57884.94,0.0,57884.94,Hear side soon inside.,Finance Manager
+598,2025-07-04,VCH-000598,Cashout Charge,Expense,Bank Charge,Operations,ABC Corporation,Nagad,Bkash,REF-1050-zpkO,31176.12,0.0,31176.12,Might member color result group.,Admin
+599,2025-09-11,VCH-000599,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Prime Services,Bkash,Nagad,REF-2945-GRQg,91951.83,0.0,91951.83,Throughout open form.,Finance Manager
+600,2024-09-10,VCH-000600,Salaries & Employee Benefits,Expense,OPEX,Capital,XYZ Ltd.,Bkash,Nagad,REF-0366-wbCi,54414.8,0.0,54414.8,General meeting message successful.,Managing Director
+601,2024-07-05,VCH-000601,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Tech Solutions,Nagad,Janata Bank,REF-4965-SlKp,44891.34,0.0,44891.34,Heart bring game writer.,Finance Manager
+602,2026-02-09,VCH-000602,Managing Director Personal Expense,Equity,Drawings,Sales,Innovate Ltd.,Cheque,Rupali Bank,REF-4730-zYeQ,63162.51,0.0,63162.51,Peace will develop wide admit if training company.,Accounts Officer
+603,2024-10-28,VCH-000603,Miscellaneous Expenses,Expense,Other,Expense,ABC Corporation,Bkash,Nagad,REF-3243-JoQR,68229.95,0.0,68229.95,Likely among help toward machine piece card.,Managing Director
+604,2025-09-03,VCH-000604,Loan From Managing Director,Liability,Loan,Banking,ABC Corporation,Cash,Dutch Bangla Bank,REF-4745-zfTo,89481.79,0.0,89481.79,Forward send relationship.,Admin
+605,2026-01-02,VCH-000605,Miscellaneous Expenses,Expense,Other,Expense,ABC Corporation,Bkash,Rupali Bank,REF-3340-gUaL,75051.64,0.0,75051.64,Thought act third improve attack best physical near.,Accounts Officer
+606,2025-02-06,VCH-000606,Loan From Managing Director,Liability,Loan,Sales,Innovate Ltd.,Nagad,BRAC Bank,REF-1416-VrNs,50542.26,0.0,50542.26,Pattern structure control agency morning.,Accounts Officer
+607,2025-11-22,VCH-000607,Loan From Managing Director,Liability,Loan,Operations,Innovate Ltd.,Bkash,Nagad,REF-2319-WMQc,33148.11,0.0,33148.11,Significant director support base us ahead.,Admin
+608,2025-11-14,VCH-000608,Selling & Distribution Expenses,Expense,OPEX,Banking,XYZ Ltd.,Nagad,Nagad,REF-6510-dBZS,31288.89,0.0,31288.89,Inside one dark never gas interest.,Accounts Officer
+609,2024-07-29,VCH-000609,Marketing & Sales Expenses,Expense,OPEX,Expense,Prime Services,Cheque,Dutch Bangla Bank,REF-4504-RVkU,54716.45,0.0,54716.45,Accept wide more detail contain.,Accounts Officer
+610,2025-11-03,VCH-000610,Cashout Charge,Expense,Bank Charge,Banking,Green Energy Co.,Bank Transfer,City Bank,REF-2298-XDog,78614.68,0.0,78614.68,Guess yet responsibility information.,Accounts Officer
+611,2025-05-12,VCH-000611,Managing Director Personal Expense,Equity,Drawings,Banking,Innovate Ltd.,Bkash,BRAC Bank,REF-5931-KggI,48306.51,0.0,48306.51,Entire treat policy friend sort environmental city.,Accounts Officer
+612,2025-11-04,VCH-000612,Product Sales,Revenue,Sales,Sales,Global Enterprises,Cash,Nagad,REF-6517-SFZp,0.0,29190.74,29190.74,Crime never prevent claim whatever may poor.,Finance Manager
+613,2025-05-10,VCH-000613,Managing Director Personal Expense,Equity,Drawings,Banking,Innovate Ltd.,Bkash,Rupali Bank,REF-0036-obkC,82029.0,0.0,82029.0,Drug here agree street him memory.,Accounts Officer
+614,2026-04-17,VCH-000614,Financial Expenses,Expense,Finance,Capital,Innovate Ltd.,Bkash,Nagad,REF-6844-yQBV,77927.19,0.0,77927.19,Case rule both social.,Finance Manager
+615,2025-03-09,VCH-000615,Marketing & Sales Expenses,Expense,OPEX,Capital,Global Enterprises,Bkash,City Bank,REF-7674-kcKt,46179.85,0.0,46179.85,Only together part serious enjoy bed prevent risk.,Managing Director
+616,2024-12-04,VCH-000616,Cashout Charge,Expense,Bank Charge,Capital,XYZ Ltd.,Nagad,Bkash,REF-2998-XIDM,45244.25,0.0,45244.25,Least several body available.,Finance Manager
+617,2024-06-12,VCH-000617,Managing Director Personal Expense,Equity,Drawings,Expense,Prime Services,Cheque,BRAC Bank,REF-6374-CbUa,72695.89,0.0,72695.89,Science person decision.,Finance Manager
+618,2025-09-13,VCH-000618,Cashout Charge,Expense,Bank Charge,Expense,Green Energy Co.,Cheque,Dutch Bangla Bank,REF-1476-TOHV,11173.37,0.0,11173.37,Experience nothing management receive.,Managing Director
+619,2024-12-10,VCH-000619,Product Sales,Revenue,Sales,COGS,Global Enterprises,Bank Transfer,Dutch Bangla Bank,REF-3668-HyZA,0.0,36025.62,36025.62,Detail cause itself explain into never.,Accounts Officer
+620,2025-05-27,VCH-000620,Managing Director Personal Expense,Equity,Drawings,COGS,Green Energy Co.,Cheque,Sonali Bank,REF-1717-sZCJ,63917.35,0.0,63917.35,Knowledge strong her dinner above he.,Accounts Officer
+621,2026-04-20,VCH-000621,Selling & Distribution Expenses,Expense,OPEX,COGS,Global Enterprises,Bkash,Rupali Bank,REF-4920-pMVA,12551.22,0.0,12551.22,Claim matter none school.,Admin
+622,2024-10-10,VCH-000622,Managing Director Personal Expense,Equity,Drawings,Sales,Prime Services,Nagad,Rupali Bank,REF-5288-Zozy,986.2,0.0,986.2,Leg international hope response house feeling father enjoy.,Admin
+623,2026-06-03,VCH-000623,Loan From Managing Director,Liability,Loan,COGS,XYZ Ltd.,Bkash,Janata Bank,REF-8724-nnvC,12239.03,0.0,12239.03,Stay feeling upon new.,Accounts Officer
+624,2025-06-17,VCH-000624,Cashout Charge,Expense,Bank Charge,Capital,XYZ Ltd.,Bank Transfer,Rupali Bank,REF-3660-GIkX,10827.23,0.0,10827.23,Better bad science when into explain somebody.,Admin
+625,2025-12-28,VCH-000625,Administrative Expenses,Expense,OPEX,Sales,Green Energy Co.,Bank Transfer,Sonali Bank,REF-9722-NexC,27404.75,0.0,27404.75,Blood rest also just believe air walk statement.,Admin
+626,2024-06-29,VCH-000626,Miscellaneous Expenses,Expense,Other,Operations,Global Enterprises,Bank Transfer,Sonali Bank,REF-3106-oWQW,85899.94,0.0,85899.94,Recognize create effort study.,Managing Director
+627,2025-10-22,VCH-000627,Packing Materials,Expense,COGS,Expense,ABC Corporation,Bank Transfer,Bkash,REF-5147-wbVT,46717.67,0.0,46717.67,Quickly population age back surface street trial.,Managing Director
+628,2024-10-18,VCH-000628,Managing Director Personal Expense,Equity,Drawings,Operations,XYZ Ltd.,Nagad,Sonali Bank,REF-4356-CraO,23455.79,0.0,23455.79,Entire support animal floor statement card certainly.,Managing Director
+629,2025-01-13,VCH-000629,Financial Expenses,Expense,Finance,Banking,Innovate Ltd.,Bkash,Nagad,REF-8096-avnd,45851.41,0.0,45851.41,Tough international for close sort recent shoulder.,Finance Manager
+630,2025-09-03,VCH-000630,Miscellaneous Expenses,Expense,Other,Expense,Green Energy Co.,Nagad,Dutch Bangla Bank,REF-3597-AMbh,39874.23,0.0,39874.23,Fly site woman bed such.,Accounts Officer
+631,2024-08-23,VCH-000631,Salaries & Employee Benefits,Expense,OPEX,Banking,ABC Corporation,Nagad,BRAC Bank,REF-0013-phPn,79793.53,0.0,79793.53,Quickly according try.,Finance Manager
+632,2024-12-21,VCH-000632,Packing Materials,Expense,COGS,COGS,XYZ Ltd.,Bkash,City Bank,REF-4800-mDYd,27881.77,0.0,27881.77,Learn quickly rest cover great.,Accounts Officer
+633,2025-11-20,VCH-000633,Managing Director Personal Expense,Equity,Drawings,Sales,Innovate Ltd.,Bank Transfer,Nagad,REF-3736-HBVm,95989.15,0.0,95989.15,Crime cell however month.,Finance Manager
+634,2025-02-15,VCH-000634,Investment Payment,Equity,Capital,Sales,Tech Solutions,Cheque,Sonali Bank,REF-9249-xeOn,29928.68,0.0,29928.68,Yard customer away whom movie cell picture.,Admin
+635,2026-01-19,VCH-000635,Marketing & Sales Expenses,Expense,OPEX,Sales,Innovate Ltd.,Nagad,Dutch Bangla Bank,REF-8393-LIRc,89125.06,0.0,89125.06,Individual training list black say interesting truth music.,Admin
+636,2025-12-25,VCH-000636,Cashout Charge,Expense,Bank Charge,Sales,Green Energy Co.,Cheque,Bkash,REF-3194-uEVA,86566.81,0.0,86566.81,Happy sit six car marriage step.,Finance Manager
+637,2024-06-11,VCH-000637,Marketing & Sales Expenses,Expense,OPEX,Capital,ABC Corporation,Bank Transfer,Rupali Bank,REF-6468-nPPF,22616.25,0.0,22616.25,Now nature while explain.,Accounts Officer
+638,2026-01-19,VCH-000638,Depreciation & Amortization,Expense,Non-Cash,Banking,Innovate Ltd.,Cash,Janata Bank,REF-4437-qeBo,24821.52,0.0,24821.52,Late case trial home nearly group.,Accounts Officer
+639,2025-04-29,VCH-000639,Investment Payment,Equity,Capital,Capital,Green Energy Co.,Cash,Dutch Bangla Bank,REF-3750-JTyB,7087.1,0.0,7087.1,Across her hospital huge right.,Finance Manager
+640,2024-06-21,VCH-000640,Salaries & Employee Benefits,Expense,OPEX,Operations,Green Energy Co.,Cheque,Rupali Bank,REF-1191-qqaw,78789.98,0.0,78789.98,Media agent college.,Accounts Officer
+641,2025-08-09,VCH-000641,Packing Materials,Expense,COGS,Operations,Prime Services,Bank Transfer,Sonali Bank,REF-0600-HnmW,42408.48,0.0,42408.48,Suffer blood fall camera ask travel.,Managing Director
+642,2025-09-14,VCH-000642,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,XYZ Ltd.,Bank Transfer,Bkash,REF-3108-wmEn,9957.76,0.0,9957.76,Be agreement once various.,Finance Manager
+643,2025-05-23,VCH-000643,Managing Director Personal Expense,Equity,Drawings,Capital,Innovate Ltd.,Cheque,Sonali Bank,REF-4101-UoRo,75217.84,0.0,75217.84,Step half country face well everything military.,Admin
+644,2024-07-26,VCH-000644,Financial Expenses,Expense,Finance,Sales,ABC Corporation,Cheque,Rupali Bank,REF-8588-FgOr,79403.75,0.0,79403.75,Yet data one order.,Managing Director
+645,2025-03-23,VCH-000645,Administrative Expenses,Expense,OPEX,Capital,Tech Solutions,Bank Transfer,Nagad,REF-4319-Xcno,95446.7,0.0,95446.7,Build whether senior thank affect let task.,Accounts Officer
+646,2025-11-04,VCH-000646,Miscellaneous Expenses,Expense,Other,Capital,Tech Solutions,Nagad,Bkash,REF-3753-tEiW,82190.86,0.0,82190.86,Just measure figure person.,Accounts Officer
+647,2024-12-25,VCH-000647,Investment Payment,Equity,Capital,COGS,XYZ Ltd.,Bank Transfer,Sonali Bank,REF-4245-DXiW,16611.45,0.0,16611.45,Easy rate vote education sea former present.,Accounts Officer
+648,2024-10-14,VCH-000648,Product Sales,Revenue,Sales,Expense,XYZ Ltd.,Cash,City Bank,REF-7640-tFlw,0.0,7099.95,7099.95,Low foreign American local.,Accounts Officer
+649,2026-01-04,VCH-000649,Selling & Distribution Expenses,Expense,OPEX,Capital,Tech Solutions,Bkash,Nagad,REF-9869-KQwS,73393.24,0.0,73393.24,Price peace be.,Accounts Officer
+650,2025-02-02,VCH-000650,Miscellaneous Expenses,Expense,Other,Operations,Prime Services,Cheque,City Bank,REF-1007-XabV,77424.85,0.0,77424.85,Administration strong station special.,Finance Manager
+651,2026-04-03,VCH-000651,Salaries & Employee Benefits,Expense,OPEX,Capital,ABC Corporation,Cash,BRAC Bank,REF-4905-QGfE,25159.91,0.0,25159.91,Test life walk especially.,Finance Manager
+652,2025-09-12,VCH-000652,Packing Materials,Expense,COGS,Operations,XYZ Ltd.,Cheque,Janata Bank,REF-2619-cLQC,9237.14,0.0,9237.14,Center white hand job.,Finance Manager
+653,2025-04-27,VCH-000653,Financial Expenses,Expense,Finance,Operations,ABC Corporation,Cash,Janata Bank,REF-9416-EPzU,88846.65,0.0,88846.65,Indeed I shake age recent yourself explain.,Managing Director
+654,2025-01-05,VCH-000654,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,ABC Corporation,Nagad,Janata Bank,REF-9720-yxix,96744.62,0.0,96744.62,Agree face money use understand kind.,Managing Director
+655,2025-07-26,VCH-000655,Depreciation & Amortization,Expense,Non-Cash,Banking,Innovate Ltd.,Cheque,Nagad,REF-7291-jowW,28928.29,0.0,28928.29,Hand phone back poor opportunity run.,Finance Manager
+656,2025-08-19,VCH-000656,Miscellaneous Expenses,Expense,Other,Expense,XYZ Ltd.,Nagad,Bkash,REF-4185-MKRV,93066.87,0.0,93066.87,Name continue live likely theory.,Finance Manager
+657,2025-07-27,VCH-000657,Product Sales,Revenue,Sales,COGS,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-8803-ZbTJ,0.0,99277.3,99277.3,Imagine range bar special live.,Admin
+658,2024-12-01,VCH-000658,Product Sales,Revenue,Sales,Capital,ABC Corporation,Cheque,Rupali Bank,REF-1262-Woov,0.0,39934.09,39934.09,His difference book animal.,Accounts Officer
+659,2024-07-06,VCH-000659,Packing Materials,Expense,COGS,Capital,Innovate Ltd.,Cheque,City Bank,REF-2958-UyVc,29705.99,0.0,29705.99,Prevent Republican chair front.,Accounts Officer
+660,2025-09-08,VCH-000660,Marketing & Sales Expenses,Expense,OPEX,Banking,Prime Services,Cash,BRAC Bank,REF-0760-CdlM,94968.71,0.0,94968.71,Television media power country popular.,Finance Manager
+661,2025-11-28,VCH-000661,Loan From Managing Director,Liability,Loan,COGS,Green Energy Co.,Cash,Janata Bank,REF-0108-iXWB,54753.02,0.0,54753.02,Capital change serve sort cultural oil dark.,Managing Director
+662,2024-10-02,VCH-000662,Investment Payment,Equity,Capital,COGS,ABC Corporation,Cheque,Rupali Bank,REF-5826-LAGv,23688.9,0.0,23688.9,Tree scene first participant culture.,Managing Director
+663,2025-11-13,VCH-000663,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Global Enterprises,Bank Transfer,City Bank,REF-3874-acKV,20756.1,0.0,20756.1,Knowledge tax play reach success realize thought.,Admin
+664,2025-03-31,VCH-000664,Product Sales,Revenue,Sales,Sales,Innovate Ltd.,Bank Transfer,Nagad,REF-8380-eBpA,0.0,94790.75,94790.75,Loss put service case organization.,Managing Director
+665,2024-09-16,VCH-000665,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Prime Services,Cash,Bkash,REF-4534-qcEl,7309.16,0.0,7309.16,Level explain particular fill agree huge back arrive.,Admin
+666,2024-09-21,VCH-000666,Managing Director Personal Expense,Equity,Drawings,Sales,Innovate Ltd.,Nagad,Janata Bank,REF-7551-qJQO,96954.65,0.0,96954.65,Interview civil detail each respond him.,Accounts Officer
+667,2026-04-25,VCH-000667,Selling & Distribution Expenses,Expense,OPEX,Operations,Green Energy Co.,Cheque,Rupali Bank,REF-8679-TbaS,93442.59,0.0,93442.59,Former song truth provide executive travel response fact.,Managing Director
+668,2026-02-20,VCH-000668,Administrative Expenses,Expense,OPEX,Capital,ABC Corporation,Cheque,City Bank,REF-4968-iomI,91489.3,0.0,91489.3,Floor dinner all somebody hand.,Accounts Officer
+669,2025-01-31,VCH-000669,Cashout Charge,Expense,Bank Charge,COGS,Innovate Ltd.,Bank Transfer,BRAC Bank,REF-4420-akKG,34825.6,0.0,34825.6,Hair friend realize development safe.,Finance Manager
+670,2026-04-12,VCH-000670,Miscellaneous Expenses,Expense,Other,COGS,ABC Corporation,Nagad,Sonali Bank,REF-2130-JzAV,59275.52,0.0,59275.52,Themselves person admit anything music difference.,Managing Director
+671,2026-05-10,VCH-000671,Salaries & Employee Benefits,Expense,OPEX,Sales,Green Energy Co.,Bank Transfer,City Bank,REF-4944-iEOw,76444.29,0.0,76444.29,Far those across blue inside.,Managing Director
+672,2024-08-07,VCH-000672,Financial Expenses,Expense,Finance,COGS,ABC Corporation,Bkash,Dutch Bangla Bank,REF-7944-eUgE,14292.67,0.0,14292.67,I space board book themselves campaign wife.,Managing Director
+673,2026-03-13,VCH-000673,Packing Materials,Expense,COGS,Sales,Tech Solutions,Cheque,Dutch Bangla Bank,REF-2502-yZff,5910.92,0.0,5910.92,Evening adult that second.,Accounts Officer
+674,2026-01-20,VCH-000674,Product Sales,Revenue,Sales,Capital,Tech Solutions,Bkash,BRAC Bank,REF-1646-HDcF,0.0,24742.87,24742.87,Old win worry.,Admin
+675,2026-05-31,VCH-000675,Managing Director Personal Expense,Equity,Drawings,COGS,ABC Corporation,Bank Transfer,Rupali Bank,REF-5453-XTsE,17100.91,0.0,17100.91,Dinner trouble before soldier account school wrong.,Accounts Officer
+676,2024-06-30,VCH-000676,Salaries & Employee Benefits,Expense,OPEX,Capital,Green Energy Co.,Bkash,Bkash,REF-7493-VlWn,21560.8,0.0,21560.8,Time hot age of focus.,Accounts Officer
+677,2025-11-02,VCH-000677,Financial Expenses,Expense,Finance,Capital,Prime Services,Cheque,Rupali Bank,REF-4593-hYbU,71500.03,0.0,71500.03,Far hot board health way site issue.,Accounts Officer
+678,2026-05-24,VCH-000678,Packing Materials,Expense,COGS,Sales,Prime Services,Cheque,City Bank,REF-1706-Nrwa,75608.16,0.0,75608.16,Candidate receive trip history.,Admin
+679,2026-01-13,VCH-000679,Depreciation & Amortization,Expense,Non-Cash,Capital,XYZ Ltd.,Bank Transfer,City Bank,REF-4507-NSEA,19297.77,0.0,19297.77,His purpose grow poor prove beat.,Finance Manager
+680,2025-12-11,VCH-000680,Managing Director Personal Expense,Equity,Drawings,COGS,ABC Corporation,Bkash,Janata Bank,REF-1964-tBao,92839.24,0.0,92839.24,Inside hand reality the probably human former.,Admin
+681,2025-12-06,VCH-000681,Loan From Managing Director,Liability,Loan,Sales,Global Enterprises,Bkash,Nagad,REF-3552-ymUr,88759.26,0.0,88759.26,Across must many small much next care.,Managing Director
+682,2024-12-06,VCH-000682,Managing Director Personal Expense,Equity,Drawings,Sales,XYZ Ltd.,Bkash,Sonali Bank,REF-0041-sseq,75512.73,0.0,75512.73,Collection wear system scene minute.,Managing Director
+683,2025-03-16,VCH-000683,Managing Director Personal Expense,Equity,Drawings,Operations,Green Energy Co.,Bank Transfer,Rupali Bank,REF-9862-vvHq,63688.65,0.0,63688.65,Wind investment else exist benefit increase able.,Accounts Officer
+684,2025-04-29,VCH-000684,Cashout Charge,Expense,Bank Charge,COGS,ABC Corporation,Cheque,BRAC Bank,REF-5423-CXYP,13510.98,0.0,13510.98,Fast capital season which.,Finance Manager
+685,2025-02-24,VCH-000685,Managing Director Personal Expense,Equity,Drawings,Expense,Green Energy Co.,Bkash,Dutch Bangla Bank,REF-2219-pwfv,56136.47,0.0,56136.47,Race forget study look shoulder tree.,Finance Manager
+686,2026-01-17,VCH-000686,Marketing & Sales Expenses,Expense,OPEX,Banking,ABC Corporation,Cash,Janata Bank,REF-5222-KEil,29619.07,0.0,29619.07,Ask drop matter new.,Finance Manager
+687,2025-05-09,VCH-000687,Miscellaneous Expenses,Expense,Other,Capital,Innovate Ltd.,Bkash,BRAC Bank,REF-2888-UcRP,29489.74,0.0,29489.74,Fine fight community business democratic artist.,Managing Director
+688,2024-09-02,VCH-000688,Financial Expenses,Expense,Finance,Banking,Tech Solutions,Bkash,Janata Bank,REF-8839-bdko,32098.57,0.0,32098.57,Doctor vote more serve increase media.,Managing Director
+689,2025-02-12,VCH-000689,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,Prime Services,Cheque,Rupali Bank,REF-0481-Floi,85537.62,0.0,85537.62,Tonight unit maintain poor avoid imagine.,Admin
+690,2024-09-13,VCH-000690,Selling & Distribution Expenses,Expense,OPEX,COGS,ABC Corporation,Nagad,BRAC Bank,REF-8586-ZiSs,87279.65,0.0,87279.65,Pay give serve can.,Admin
+691,2025-01-13,VCH-000691,Salaries & Employee Benefits,Expense,OPEX,Sales,XYZ Ltd.,Cheque,Sonali Bank,REF-7784-pHsz,58611.82,0.0,58611.82,Religious tree member evidence animal star.,Finance Manager
+692,2025-07-06,VCH-000692,Salaries & Employee Benefits,Expense,OPEX,Operations,Prime Services,Bank Transfer,Nagad,REF-1198-zZkN,8478.8,0.0,8478.8,Game the admit TV trouble no.,Admin
+693,2026-05-15,VCH-000693,Marketing & Sales Expenses,Expense,OPEX,COGS,ABC Corporation,Bkash,BRAC Bank,REF-2834-CGfZ,82050.82,0.0,82050.82,Interesting car respond lose land.,Managing Director
+694,2025-09-11,VCH-000694,Cashout Charge,Expense,Bank Charge,Banking,Prime Services,Bkash,Rupali Bank,REF-3459-GDDt,59551.17,0.0,59551.17,Prove after stage support life realize.,Managing Director
+695,2025-03-25,VCH-000695,Financial Expenses,Expense,Finance,Sales,Green Energy Co.,Cash,Rupali Bank,REF-0487-AHsc,26676.06,0.0,26676.06,Real career green under itself.,Finance Manager
+696,2024-07-01,VCH-000696,Investment Payment,Equity,Capital,Capital,Tech Solutions,Bkash,Nagad,REF-9561-XpAJ,60143.61,0.0,60143.61,Upon article total necessary.,Admin
+697,2025-10-05,VCH-000697,Selling & Distribution Expenses,Expense,OPEX,Banking,Innovate Ltd.,Bkash,Janata Bank,REF-3201-GfNs,20371.59,0.0,20371.59,Seat policy large serve.,Accounts Officer
+698,2025-03-11,VCH-000698,Selling & Distribution Expenses,Expense,OPEX,Capital,ABC Corporation,Bkash,City Bank,REF-3262-aryH,49762.66,0.0,49762.66,Tax local police too decision.,Admin
+699,2026-05-11,VCH-000699,Loan From Managing Director,Liability,Loan,Capital,Green Energy Co.,Cash,Nagad,REF-8338-tQVY,98763.52,0.0,98763.52,Development marriage attention customer.,Managing Director
+700,2025-09-07,VCH-000700,Financial Expenses,Expense,Finance,Sales,Prime Services,Bank Transfer,Sonali Bank,REF-3697-zecq,17543.05,0.0,17543.05,Analysis want state since seem.,Admin
+701,2025-11-14,VCH-000701,Financial Expenses,Expense,Finance,Sales,Prime Services,Nagad,Nagad,REF-5131-EiSs,78252.24,0.0,78252.24,Project series success need approach.,Admin
+702,2025-02-17,VCH-000702,Packing Materials,Expense,COGS,Sales,Global Enterprises,Bkash,City Bank,REF-1688-Uzzk,94307.24,0.0,94307.24,Suffer fast join guess rock make.,Finance Manager
+703,2025-05-07,VCH-000703,Miscellaneous Expenses,Expense,Other,COGS,Tech Solutions,Bkash,Dutch Bangla Bank,REF-9484-nyWh,32126.98,0.0,32126.98,Team entire seven station food six.,Admin
+704,2024-11-28,VCH-000704,Loan From Managing Director,Liability,Loan,COGS,XYZ Ltd.,Bkash,Nagad,REF-2372-HLTX,32174.03,0.0,32174.03,Fund candidate scene none military author.,Finance Manager
+705,2025-08-20,VCH-000705,Depreciation & Amortization,Expense,Non-Cash,Expense,XYZ Ltd.,Cash,Nagad,REF-7010-bhac,32832.57,0.0,32832.57,Along environmental evening before.,Managing Director
+706,2026-02-26,VCH-000706,Marketing & Sales Expenses,Expense,OPEX,Operations,XYZ Ltd.,Cheque,Janata Bank,REF-9934-xKGl,31798.86,0.0,31798.86,Movie important whose card.,Admin
+707,2026-05-31,VCH-000707,Financial Expenses,Expense,Finance,Banking,ABC Corporation,Bank Transfer,Bkash,REF-0221-FrDk,67991.35,0.0,67991.35,Next factor policy prove.,Accounts Officer
+708,2026-05-18,VCH-000708,Administrative Expenses,Expense,OPEX,Sales,Innovate Ltd.,Bank Transfer,Rupali Bank,REF-1867-NWXW,24557.31,0.0,24557.31,Reflect draw college recently.,Finance Manager
+709,2025-04-17,VCH-000709,Miscellaneous Expenses,Expense,Other,Capital,Global Enterprises,Cheque,Janata Bank,REF-1376-UoWE,93792.1,0.0,93792.1,Somebody measure reduce nearly.,Managing Director
+710,2025-04-05,VCH-000710,Marketing & Sales Expenses,Expense,OPEX,Banking,Green Energy Co.,Bank Transfer,Nagad,REF-0244-HjjT,45854.14,0.0,45854.14,Husband exactly again million laugh million.,Admin
+711,2025-06-15,VCH-000711,Miscellaneous Expenses,Expense,Other,Operations,ABC Corporation,Cheque,Nagad,REF-4340-SKsF,24674.02,0.0,24674.02,Share production while onto.,Admin
+712,2024-12-14,VCH-000712,Managing Director Personal Expense,Equity,Drawings,Operations,Tech Solutions,Cash,BRAC Bank,REF-8666-qgXp,47483.52,0.0,47483.52,Into that why happen live create east.,Admin
+713,2025-08-12,VCH-000713,Investment Payment,Equity,Capital,Capital,Green Energy Co.,Bank Transfer,Nagad,REF-2037-tyhN,38946.18,0.0,38946.18,Radio imagine decision campaign.,Managing Director
+714,2024-07-02,VCH-000714,Salaries & Employee Benefits,Expense,OPEX,Operations,ABC Corporation,Nagad,Dutch Bangla Bank,REF-3173-BFha,78135.39,0.0,78135.39,Political television without simply both red.,Finance Manager
+715,2026-04-03,VCH-000715,Depreciation & Amortization,Expense,Non-Cash,Operations,Green Energy Co.,Nagad,Janata Bank,REF-2808-BHLG,27176.86,0.0,27176.86,Upon president house name.,Accounts Officer
+716,2025-03-25,VCH-000716,Miscellaneous Expenses,Expense,Other,Sales,Tech Solutions,Bkash,Bkash,REF-2491-ZZdE,48267.82,0.0,48267.82,Individual attention gas fire establish range.,Admin
+717,2024-10-14,VCH-000717,Product Sales,Revenue,Sales,Operations,Tech Solutions,Bank Transfer,Bkash,REF-6997-IPWS,0.0,41446.66,41446.66,Little court civil its.,Finance Manager
+718,2025-06-08,VCH-000718,Loan From Managing Director,Liability,Loan,Banking,Green Energy Co.,Cheque,Bkash,REF-4087-cZdx,68111.67,0.0,68111.67,Generation room article war wish.,Finance Manager
+719,2026-05-20,VCH-000719,Salaries & Employee Benefits,Expense,OPEX,Expense,Innovate Ltd.,Bkash,BRAC Bank,REF-4781-QmIb,43335.4,0.0,43335.4,When at top leg rate top beat.,Managing Director
+720,2025-09-17,VCH-000720,Cashout Charge,Expense,Bank Charge,COGS,XYZ Ltd.,Bkash,City Bank,REF-4522-tmfC,98920.5,0.0,98920.5,Pm garden read positive expect involve against.,Accounts Officer
+721,2024-08-23,VCH-000721,Administrative Expenses,Expense,OPEX,COGS,Tech Solutions,Bank Transfer,Nagad,REF-0792-wFAP,82885.09,0.0,82885.09,Full raise along style development two be.,Admin
+722,2024-08-16,VCH-000722,Financial Expenses,Expense,Finance,Expense,Tech Solutions,Cash,Bkash,REF-3892-wHJd,14748.26,0.0,14748.26,While environment organization get least prepare.,Finance Manager
+723,2025-01-21,VCH-000723,Managing Director Personal Expense,Equity,Drawings,Operations,Innovate Ltd.,Cash,Sonali Bank,REF-6019-ZUzn,47596.44,0.0,47596.44,Magazine peace network property election prevent.,Admin
+724,2024-12-10,VCH-000724,Packing Materials,Expense,COGS,Banking,Tech Solutions,Bkash,Dutch Bangla Bank,REF-9933-kmUR,30604.44,0.0,30604.44,Build push record listen.,Accounts Officer
+725,2025-11-13,VCH-000725,Administrative Expenses,Expense,OPEX,COGS,Prime Services,Bkash,Rupali Bank,REF-6476-msfp,69621.4,0.0,69621.4,Buy sometimes product decide a tree.,Finance Manager
+726,2025-11-22,VCH-000726,Administrative Expenses,Expense,OPEX,Sales,Tech Solutions,Bank Transfer,Janata Bank,REF-8559-uOcy,51210.69,0.0,51210.69,Great plant performance get give exactly.,Finance Manager
+727,2026-02-24,VCH-000727,Product Sales,Revenue,Sales,Banking,ABC Corporation,Bank Transfer,Rupali Bank,REF-2374-TWCG,0.0,47058.31,47058.31,Best one direction industry establish day.,Managing Director
+728,2026-03-15,VCH-000728,Financial Expenses,Expense,Finance,Sales,Tech Solutions,Cash,Dutch Bangla Bank,REF-8722-TJro,28417.93,0.0,28417.93,State including east inside nor.,Managing Director
+729,2025-05-19,VCH-000729,Cashout Charge,Expense,Bank Charge,Expense,Innovate Ltd.,Bank Transfer,Bkash,REF-3705-gIEq,92029.49,0.0,92029.49,Morning several whose laugh.,Accounts Officer
+730,2024-07-20,VCH-000730,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Tech Solutions,Bkash,BRAC Bank,REF-7438-ZqNz,54334.64,0.0,54334.64,Father morning significant.,Accounts Officer
+731,2025-09-13,VCH-000731,Managing Director Personal Expense,Equity,Drawings,Capital,Green Energy Co.,Bkash,Dutch Bangla Bank,REF-3615-bBaS,79099.46,0.0,79099.46,Compare finish born.,Finance Manager
+732,2025-08-28,VCH-000732,Cashout Charge,Expense,Bank Charge,Expense,Innovate Ltd.,Bank Transfer,Rupali Bank,REF-0150-yoar,71637.02,0.0,71637.02,Exactly serve recognize model south continue.,Accounts Officer
+733,2026-04-13,VCH-000733,Managing Director Personal Expense,Equity,Drawings,Sales,Global Enterprises,Bkash,Sonali Bank,REF-7531-bXVo,38667.42,0.0,38667.42,Including husband amount dinner individual single near.,Accounts Officer
+734,2025-12-24,VCH-000734,Miscellaneous Expenses,Expense,Other,Capital,Prime Services,Cash,Sonali Bank,REF-4966-MlpD,60271.79,0.0,60271.79,Soon analysis ability look.,Finance Manager
+735,2025-07-25,VCH-000735,Selling & Distribution Expenses,Expense,OPEX,Sales,ABC Corporation,Bank Transfer,City Bank,REF-4503-LtzZ,73777.8,0.0,73777.8,Your night major than.,Managing Director
+736,2025-09-27,VCH-000736,Packing Materials,Expense,COGS,Banking,Innovate Ltd.,Cheque,Sonali Bank,REF-6784-prhS,7192.46,0.0,7192.46,Kitchen option couple ground we itself.,Accounts Officer
+737,2024-09-08,VCH-000737,Depreciation & Amortization,Expense,Non-Cash,COGS,Tech Solutions,Nagad,Rupali Bank,REF-1525-FXJG,87178.47,0.0,87178.47,Somebody final good teacher parent street.,Accounts Officer
+738,2026-01-01,VCH-000738,Salaries & Employee Benefits,Expense,OPEX,COGS,XYZ Ltd.,Bkash,Bkash,REF-1293-Vang,89530.7,0.0,89530.7,Responsibility cut character plan until.,Managing Director
+739,2024-11-02,VCH-000739,Depreciation & Amortization,Expense,Non-Cash,Banking,Global Enterprises,Cheque,BRAC Bank,REF-9613-ceSI,90885.92,0.0,90885.92,Tv method hour without recent there.,Managing Director
+740,2025-11-25,VCH-000740,Administrative Expenses,Expense,OPEX,Operations,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-9803-opZk,45213.76,0.0,45213.76,Nothing travel without.,Finance Manager
+741,2026-02-22,VCH-000741,Managing Director Personal Expense,Equity,Drawings,COGS,Innovate Ltd.,Cash,Dutch Bangla Bank,REF-5437-SaDN,70300.49,0.0,70300.49,Deep idea process name drop policy.,Finance Manager
+742,2025-02-05,VCH-000742,Salaries & Employee Benefits,Expense,OPEX,Capital,Innovate Ltd.,Bank Transfer,Sonali Bank,REF-2552-XLgz,6025.79,0.0,6025.79,Career either second seem billion throughout provide.,Finance Manager
+743,2026-05-27,VCH-000743,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Bank Transfer,Rupali Bank,REF-6912-rwvK,45596.28,0.0,45596.28,Challenge space gas begin condition situation fact maintain.,Finance Manager
+744,2026-05-13,VCH-000744,Salaries & Employee Benefits,Expense,OPEX,Capital,Innovate Ltd.,Nagad,Nagad,REF-1263-IOmn,20747.81,0.0,20747.81,Town reach impact.,Admin
+745,2025-07-02,VCH-000745,Loan From Managing Director,Liability,Loan,Operations,Green Energy Co.,Cash,City Bank,REF-8042-Nhbc,61550.53,0.0,61550.53,With kitchen effort daughter yet.,Accounts Officer
+746,2024-12-25,VCH-000746,Loan From Managing Director,Liability,Loan,Capital,Global Enterprises,Cash,Rupali Bank,REF-8206-KbUS,27657.37,0.0,27657.37,School newspaper drop smile plant student.,Finance Manager
+747,2025-09-07,VCH-000747,Product Sales,Revenue,Sales,Capital,Tech Solutions,Bank Transfer,Sonali Bank,REF-2111-RIJP,0.0,22939.19,22939.19,Design information present.,Managing Director
+748,2025-11-13,VCH-000748,Managing Director Personal Expense,Equity,Drawings,Capital,Prime Services,Cash,Rupali Bank,REF-5038-zdJQ,82395.01,0.0,82395.01,Hot who more across forget.,Admin
+749,2024-10-20,VCH-000749,Administrative Expenses,Expense,OPEX,Operations,Prime Services,Bank Transfer,Bkash,REF-5820-exIT,67449.25,0.0,67449.25,Join director ok.,Managing Director
+750,2026-03-25,VCH-000750,Salaries & Employee Benefits,Expense,OPEX,Capital,Global Enterprises,Bank Transfer,Dutch Bangla Bank,REF-6257-tEjo,58286.1,0.0,58286.1,Get type crime usually current ground.,Managing Director
+751,2025-12-04,VCH-000751,Selling & Distribution Expenses,Expense,OPEX,COGS,Tech Solutions,Bkash,Rupali Bank,REF-7964-syFF,56877.76,0.0,56877.76,Until rate marriage treat rate including.,Managing Director
+752,2025-07-15,VCH-000752,Managing Director Personal Expense,Equity,Drawings,Banking,ABC Corporation,Cash,Janata Bank,REF-5739-Fxem,57969.11,0.0,57969.11,Someone forget enjoy arm change.,Accounts Officer
+753,2026-01-03,VCH-000753,Managing Director Personal Expense,Equity,Drawings,Sales,Tech Solutions,Bkash,Dutch Bangla Bank,REF-0389-jRKL,84645.53,0.0,84645.53,Week car hotel type wear try.,Finance Manager
+754,2024-06-19,VCH-000754,Miscellaneous Expenses,Expense,Other,Sales,Green Energy Co.,Cheque,Bkash,REF-7317-uqEi,44280.92,0.0,44280.92,Capital raise modern statement these way past.,Finance Manager
+755,2026-05-22,VCH-000755,Investment Payment,Equity,Capital,Capital,Green Energy Co.,Bkash,Dutch Bangla Bank,REF-0298-UjYQ,52074.14,0.0,52074.14,Through identify individual board later.,Admin
+756,2026-05-08,VCH-000756,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Innovate Ltd.,Nagad,BRAC Bank,REF-1548-EsWC,30446.97,0.0,30446.97,Out model law apply exactly.,Finance Manager
+757,2025-11-01,VCH-000757,Cashout Charge,Expense,Bank Charge,Sales,Global Enterprises,Nagad,Sonali Bank,REF-7299-TSMI,8334.09,0.0,8334.09,Campaign sell tell leg.,Accounts Officer
+758,2025-08-09,VCH-000758,Selling & Distribution Expenses,Expense,OPEX,Banking,Green Energy Co.,Nagad,Rupali Bank,REF-8893-bKhC,23289.84,0.0,23289.84,Lay behavior allow hour stage low environment former.,Admin
+759,2025-03-26,VCH-000759,Depreciation & Amortization,Expense,Non-Cash,COGS,Global Enterprises,Cash,Dutch Bangla Bank,REF-9024-QuMg,67525.88,0.0,67525.88,Establish fund kind actually government perhaps.,Finance Manager
+760,2026-04-18,VCH-000760,Managing Director Personal Expense,Equity,Drawings,COGS,Green Energy Co.,Nagad,Dutch Bangla Bank,REF-9778-ARdl,56520.72,0.0,56520.72,Myself paper piece of.,Admin
+761,2025-10-14,VCH-000761,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Prime Services,Cheque,Janata Bank,REF-4539-uVEQ,16520.08,0.0,16520.08,Guy project serious career condition officer young several.,Accounts Officer
+762,2024-11-21,VCH-000762,Investment Payment,Equity,Capital,Banking,Global Enterprises,Bank Transfer,Rupali Bank,REF-1601-MldB,93276.39,0.0,93276.39,Yard family imagine with.,Managing Director
+763,2025-11-07,VCH-000763,Packing Materials,Expense,COGS,Operations,Green Energy Co.,Bank Transfer,Rupali Bank,REF-4338-zpkM,67889.32,0.0,67889.32,Mean billion picture particular best.,Admin
+764,2026-04-26,VCH-000764,Salaries & Employee Benefits,Expense,OPEX,Banking,XYZ Ltd.,Cash,City Bank,REF-1684-aNKC,65467.59,0.0,65467.59,Police poor recent cultural state should.,Managing Director
+765,2024-08-15,VCH-000765,Managing Director Personal Expense,Equity,Drawings,Operations,Tech Solutions,Cash,BRAC Bank,REF-3157-KZta,54205.75,0.0,54205.75,Scientist move audience much card school near serve.,Finance Manager
+766,2024-07-24,VCH-000766,Packing Materials,Expense,COGS,Banking,XYZ Ltd.,Bkash,Dutch Bangla Bank,REF-8152-BExt,91565.79,0.0,91565.79,Within political clear dark open drug high.,Managing Director
+767,2025-05-11,VCH-000767,Salaries & Employee Benefits,Expense,OPEX,Sales,ABC Corporation,Bank Transfer,Janata Bank,REF-3732-IiYI,64914.43,0.0,64914.43,Begin career large rest significant someone.,Admin
+768,2024-10-16,VCH-000768,Salaries & Employee Benefits,Expense,OPEX,Banking,Innovate Ltd.,Bkash,Janata Bank,REF-8235-JRYt,97966.08,0.0,97966.08,Woman list where concern threat election.,Accounts Officer
+769,2024-07-11,VCH-000769,Cashout Charge,Expense,Bank Charge,Capital,XYZ Ltd.,Bank Transfer,City Bank,REF-8567-SGxs,65803.62,0.0,65803.62,Carry sport year analysis cover send.,Finance Manager
+770,2025-01-05,VCH-000770,Managing Director Personal Expense,Equity,Drawings,Operations,Tech Solutions,Cash,City Bank,REF-6178-ImnM,41588.99,0.0,41588.99,Relationship job notice other opportunity director brother.,Managing Director
+771,2026-01-31,VCH-000771,Packing Materials,Expense,COGS,Operations,Innovate Ltd.,Nagad,Nagad,REF-5898-ijIg,58893.23,0.0,58893.23,Company serve process information week.,Managing Director
+772,2025-10-03,VCH-000772,Miscellaneous Expenses,Expense,Other,Operations,XYZ Ltd.,Cash,Sonali Bank,REF-2563-cnCb,12567.95,0.0,12567.95,Professional window wish window career.,Admin
+773,2026-05-16,VCH-000773,Marketing & Sales Expenses,Expense,OPEX,Expense,Global Enterprises,Bkash,Janata Bank,REF-8300-QxGE,91528.87,0.0,91528.87,Tv base region even.,Managing Director
+774,2025-03-19,VCH-000774,Administrative Expenses,Expense,OPEX,Sales,ABC Corporation,Bank Transfer,Nagad,REF-3618-OWPO,90594.3,0.0,90594.3,Apply yourself relationship for responsibility home.,Accounts Officer
+775,2025-03-29,VCH-000775,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Tech Solutions,Nagad,Nagad,REF-5725-dUXw,89994.13,0.0,89994.13,Old environmental they yourself can month plant.,Admin
+776,2025-02-08,VCH-000776,Loan From Managing Director,Liability,Loan,Capital,Green Energy Co.,Bkash,Nagad,REF-5556-RBMi,59934.28,0.0,59934.28,Nor cup western indicate vote purpose.,Managing Director
+777,2025-04-01,VCH-000777,Administrative Expenses,Expense,OPEX,Banking,Tech Solutions,Cheque,City Bank,REF-2197-GmGL,34227.96,0.0,34227.96,It fund physical central plant artist.,Admin
+778,2024-07-06,VCH-000778,Marketing & Sales Expenses,Expense,OPEX,Expense,Global Enterprises,Bank Transfer,BRAC Bank,REF-5486-eabs,8078.68,0.0,8078.68,Successful source leave street government be.,Managing Director
+779,2025-02-25,VCH-000779,Selling & Distribution Expenses,Expense,OPEX,Banking,XYZ Ltd.,Cheque,Sonali Bank,REF-6896-OjOI,4981.26,0.0,4981.26,Yourself white fill him study financial similar sound.,Admin
+780,2024-12-13,VCH-000780,Loan From Managing Director,Liability,Loan,COGS,XYZ Ltd.,Cash,Nagad,REF-8366-oMim,18724.05,0.0,18724.05,Professor try moment hot present left fine.,Finance Manager
+781,2026-02-18,VCH-000781,Financial Expenses,Expense,Finance,Banking,Innovate Ltd.,Nagad,BRAC Bank,REF-0454-SzNk,95394.26,0.0,95394.26,Standard state walk.,Admin
+782,2024-08-15,VCH-000782,Investment Payment,Equity,Capital,Expense,Prime Services,Cash,Bkash,REF-9407-peEU,2263.92,0.0,2263.92,Dream quickly more out science product.,Accounts Officer
+783,2025-05-04,VCH-000783,Miscellaneous Expenses,Expense,Other,Capital,Green Energy Co.,Cash,Bkash,REF-2920-gHDy,64027.12,0.0,64027.12,This network institution plant.,Finance Manager
+784,2025-03-02,VCH-000784,Marketing & Sales Expenses,Expense,OPEX,Banking,Innovate Ltd.,Nagad,City Bank,REF-0390-xEAv,43610.94,0.0,43610.94,American occur up time ahead glass head.,Managing Director
+785,2024-11-12,VCH-000785,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Tech Solutions,Bkash,Janata Bank,REF-0117-nlFx,33506.22,0.0,33506.22,Suffer tend clear whatever young.,Managing Director
+786,2025-11-01,VCH-000786,Selling & Distribution Expenses,Expense,OPEX,Operations,XYZ Ltd.,Cheque,City Bank,REF-8101-gfTG,99693.82,0.0,99693.82,Kid share smile.,Managing Director
+787,2026-02-19,VCH-000787,Miscellaneous Expenses,Expense,Other,Banking,Global Enterprises,Bkash,City Bank,REF-3520-yiKu,26093.66,0.0,26093.66,Kind country executive.,Managing Director
+788,2025-06-01,VCH-000788,Loan From Managing Director,Liability,Loan,Capital,Global Enterprises,Cash,Bkash,REF-3886-Pydq,59904.07,0.0,59904.07,Administration fine level film benefit foot.,Admin
+789,2025-04-12,VCH-000789,Investment Payment,Equity,Capital,Operations,Innovate Ltd.,Bkash,City Bank,REF-0924-dLJX,92089.94,0.0,92089.94,Remember reveal democratic cup.,Admin
+790,2024-08-04,VCH-000790,Administrative Expenses,Expense,OPEX,Banking,Innovate Ltd.,Nagad,Nagad,REF-7312-uGGM,19599.19,0.0,19599.19,Behavior test heart church year half.,Accounts Officer
+791,2025-10-09,VCH-000791,Selling & Distribution Expenses,Expense,OPEX,Sales,XYZ Ltd.,Cash,Nagad,REF-4334-atEH,45642.26,0.0,45642.26,Step rock page dog church majority.,Admin
+792,2026-05-16,VCH-000792,Loan From Managing Director,Liability,Loan,COGS,Global Enterprises,Nagad,City Bank,REF-2037-kNWu,95684.95,0.0,95684.95,Social chance sell.,Finance Manager
+793,2025-07-20,VCH-000793,Product Sales,Revenue,Sales,Operations,Green Energy Co.,Nagad,City Bank,REF-3735-ECkb,0.0,63630.49,63630.49,No goal key leave beautiful improve training upon.,Admin
+794,2025-02-11,VCH-000794,Product Sales,Revenue,Sales,Operations,ABC Corporation,Nagad,Janata Bank,REF-4221-dtBD,0.0,28991.39,28991.39,Bit scene attorney wonder green.,Managing Director
+795,2024-12-07,VCH-000795,Cashout Charge,Expense,Bank Charge,COGS,Prime Services,Nagad,Rupali Bank,REF-8809-reKl,47704.04,0.0,47704.04,Perform choice film why debate.,Finance Manager
+796,2025-07-20,VCH-000796,Marketing & Sales Expenses,Expense,OPEX,Capital,Prime Services,Cash,Sonali Bank,REF-1773-ZBaB,85429.04,0.0,85429.04,Charge six material easy real society military care.,Admin
+797,2026-01-14,VCH-000797,Miscellaneous Expenses,Expense,Other,Sales,Global Enterprises,Cash,Janata Bank,REF-8595-dkJM,84099.86,0.0,84099.86,Seem nature always effort.,Finance Manager
+798,2025-07-24,VCH-000798,Product Sales,Revenue,Sales,COGS,Global Enterprises,Cheque,BRAC Bank,REF-9310-zlKg,0.0,74055.89,74055.89,This none off.,Accounts Officer
+799,2025-11-07,VCH-000799,Product Sales,Revenue,Sales,Capital,ABC Corporation,Cheque,Janata Bank,REF-7879-mhHp,0.0,55374.04,55374.04,Later success clearly democratic run since.,Finance Manager
+800,2024-11-25,VCH-000800,Depreciation & Amortization,Expense,Non-Cash,Capital,Global Enterprises,Bkash,Janata Bank,REF-5808-OXuC,4609.32,0.0,4609.32,Look rich despite fine fire more series less.,Finance Manager
+801,2026-02-21,VCH-000801,Depreciation & Amortization,Expense,Non-Cash,Capital,Green Energy Co.,Cheque,Nagad,REF-1172-BXwH,49576.82,0.0,49576.82,Film manager ten.,Admin
+802,2026-03-25,VCH-000802,Product Sales,Revenue,Sales,Expense,Tech Solutions,Cheque,Dutch Bangla Bank,REF-2440-uJli,0.0,39757.96,39757.96,Decade none hotel themselves fly.,Managing Director
+803,2025-07-07,VCH-000803,Production or Cost of Goods Sold (COGS),Expense,COGS,COGS,Global Enterprises,Cheque,Sonali Bank,REF-8340-MBPH,2280.31,0.0,2280.31,Finish group daughter near cause.,Admin
+804,2024-12-16,VCH-000804,Salaries & Employee Benefits,Expense,OPEX,Sales,Prime Services,Cash,Janata Bank,REF-1148-FNqC,52008.38,0.0,52008.38,Child story store each.,Managing Director
+805,2025-03-09,VCH-000805,Cashout Charge,Expense,Bank Charge,Expense,Green Energy Co.,Cheque,City Bank,REF-2670-QxCM,42364.03,0.0,42364.03,Beautiful or television month article finally and.,Finance Manager
+806,2024-10-31,VCH-000806,Administrative Expenses,Expense,OPEX,Expense,Green Energy Co.,Bank Transfer,Dutch Bangla Bank,REF-4955-wewH,1244.63,0.0,1244.63,Part act glass structure to certainly see.,Accounts Officer
+807,2025-03-20,VCH-000807,Loan From Managing Director,Liability,Loan,Sales,Green Energy Co.,Cash,Dutch Bangla Bank,REF-9291-PMJM,43442.78,0.0,43442.78,Somebody else until should.,Finance Manager
+808,2025-07-29,VCH-000808,Marketing & Sales Expenses,Expense,OPEX,Banking,XYZ Ltd.,Bkash,BRAC Bank,REF-0110-LnZQ,60085.36,0.0,60085.36,Series fly back produce.,Managing Director
+809,2024-12-15,VCH-000809,Investment Payment,Equity,Capital,Sales,ABC Corporation,Bkash,Dutch Bangla Bank,REF-3330-XiYI,6680.06,0.0,6680.06,Treat term point black because another decision.,Accounts Officer
+810,2025-07-11,VCH-000810,Marketing & Sales Expenses,Expense,OPEX,Expense,Tech Solutions,Cash,City Bank,REF-8480-dZQT,88586.16,0.0,88586.16,Manage change network scientist information use serve.,Accounts Officer
+811,2026-03-22,VCH-000811,Marketing & Sales Expenses,Expense,OPEX,Capital,Tech Solutions,Nagad,Sonali Bank,REF-7370-SfcW,69653.13,0.0,69653.13,Want single wrong on never.,Managing Director
+812,2024-10-14,VCH-000812,Cashout Charge,Expense,Bank Charge,Banking,Tech Solutions,Cheque,Bkash,REF-9811-ATPj,28431.3,0.0,28431.3,Person measure others fly.,Admin
+813,2025-10-04,VCH-000813,Cashout Charge,Expense,Bank Charge,Operations,Prime Services,Bkash,Rupali Bank,REF-8357-DihU,76401.82,0.0,76401.82,Employee cover raise college.,Finance Manager
+814,2025-05-25,VCH-000814,Miscellaneous Expenses,Expense,Other,Capital,XYZ Ltd.,Bkash,Rupali Bank,REF-7966-UbKe,79405.68,0.0,79405.68,Speech ask as growth too discover maybe north.,Accounts Officer
+815,2025-06-18,VCH-000815,Investment Payment,Equity,Capital,Banking,Prime Services,Bkash,Rupali Bank,REF-1540-hdOy,81071.44,0.0,81071.44,Marriage pretty officer something wonder.,Finance Manager
+816,2025-02-01,VCH-000816,Cashout Charge,Expense,Bank Charge,COGS,Prime Services,Nagad,Janata Bank,REF-2845-dWGn,1075.68,0.0,1075.68,Would sit although here green.,Finance Manager
+817,2026-01-08,VCH-000817,Investment Payment,Equity,Capital,Banking,Tech Solutions,Bkash,BRAC Bank,REF-6732-liIK,6433.83,0.0,6433.83,Human including half instead door but century dog.,Admin
+818,2024-12-16,VCH-000818,Product Sales,Revenue,Sales,COGS,XYZ Ltd.,Nagad,Rupali Bank,REF-9929-OTyb,0.0,1084.15,1084.15,Look party nor computer Mr miss.,Admin
+819,2025-06-10,VCH-000819,Cashout Charge,Expense,Bank Charge,Sales,Tech Solutions,Bkash,Dutch Bangla Bank,REF-8288-Gefl,11407.69,0.0,11407.69,National international word few poor college.,Admin
+820,2024-09-16,VCH-000820,Cashout Charge,Expense,Bank Charge,COGS,Innovate Ltd.,Cheque,Nagad,REF-3255-VAsy,28899.45,0.0,28899.45,Cover star role conference operation culture yourself fight.,Managing Director
+821,2026-04-08,VCH-000821,Miscellaneous Expenses,Expense,Other,Sales,Tech Solutions,Cheque,Bkash,REF-4605-saXA,97607.64,0.0,97607.64,Here animal realize eight speech.,Admin
+822,2024-10-16,VCH-000822,Administrative Expenses,Expense,OPEX,Banking,XYZ Ltd.,Bank Transfer,Rupali Bank,REF-7728-yrHO,29620.7,0.0,29620.7,Ever among owner throw yard.,Admin
+823,2025-12-25,VCH-000823,Product Sales,Revenue,Sales,Expense,XYZ Ltd.,Nagad,Sonali Bank,REF-3120-ftAu,0.0,4099.3,4099.3,Song cell father fire.,Accounts Officer
+824,2025-07-09,VCH-000824,Depreciation & Amortization,Expense,Non-Cash,Sales,Innovate Ltd.,Nagad,BRAC Bank,REF-5130-TNKI,52470.3,0.0,52470.3,Guy meet expect.,Managing Director
+825,2025-12-27,VCH-000825,Selling & Distribution Expenses,Expense,OPEX,COGS,ABC Corporation,Nagad,City Bank,REF-8147-MVqc,71150.35,0.0,71150.35,Soldier water according.,Finance Manager
+826,2026-03-25,VCH-000826,Financial Expenses,Expense,Finance,Sales,Innovate Ltd.,Nagad,Dutch Bangla Bank,REF-0649-VZqi,46816.84,0.0,46816.84,Name successful happy sign space indicate.,Managing Director
+827,2025-03-25,VCH-000827,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Bkash,City Bank,REF-5023-NHRs,28701.04,0.0,28701.04,Better for good smile.,Finance Manager
+828,2026-01-02,VCH-000828,Selling & Distribution Expenses,Expense,OPEX,Banking,Tech Solutions,Bkash,Dutch Bangla Bank,REF-5265-uDCS,46904.05,0.0,46904.05,Five think drive.,Admin
+829,2026-04-19,VCH-000829,Investment Payment,Equity,Capital,Operations,Innovate Ltd.,Nagad,Janata Bank,REF-8834-kUeU,10724.12,0.0,10724.12,Eat rule how what door leave question.,Finance Manager
+830,2025-04-24,VCH-000830,Loan From Managing Director,Liability,Loan,Operations,Tech Solutions,Cheque,Nagad,REF-6408-KWjR,80316.98,0.0,80316.98,Heavy we draw result treat thing.,Managing Director
+831,2025-05-14,VCH-000831,Managing Director Personal Expense,Equity,Drawings,Operations,Global Enterprises,Bank Transfer,BRAC Bank,REF-0190-msWe,22092.37,0.0,22092.37,Care grow around tough there which.,Accounts Officer
+832,2025-07-04,VCH-000832,Loan From Managing Director,Liability,Loan,Capital,Tech Solutions,Cash,BRAC Bank,REF-8107-FUPh,71027.56,0.0,71027.56,Education executive loss exactly life.,Managing Director
+833,2025-09-17,VCH-000833,Administrative Expenses,Expense,OPEX,Sales,Innovate Ltd.,Cash,Rupali Bank,REF-1357-BmTl,55174.24,0.0,55174.24,Same method spend light usually.,Finance Manager
+834,2025-02-16,VCH-000834,Marketing & Sales Expenses,Expense,OPEX,Banking,Prime Services,Cheque,Sonali Bank,REF-3900-IKTR,85963.25,0.0,85963.25,Benefit market exist into father guess indeed customer.,Accounts Officer
+835,2026-01-24,VCH-000835,Packing Materials,Expense,COGS,Expense,XYZ Ltd.,Cash,City Bank,REF-3826-IIQo,1541.96,0.0,1541.96,During their maintain machine.,Accounts Officer
+836,2026-05-11,VCH-000836,Cashout Charge,Expense,Bank Charge,Operations,XYZ Ltd.,Nagad,Dutch Bangla Bank,REF-4021-PhBN,58213.86,0.0,58213.86,Adult character surface.,Finance Manager
+837,2026-06-05,VCH-000837,Investment Payment,Equity,Capital,COGS,ABC Corporation,Cash,BRAC Bank,REF-7542-AYas,14467.88,0.0,14467.88,There this maintain explain.,Finance Manager
+838,2025-01-28,VCH-000838,Packing Materials,Expense,COGS,Sales,Prime Services,Nagad,Rupali Bank,REF-2401-apRl,22574.68,0.0,22574.68,Size doctor include provide morning concern magazine.,Managing Director
+839,2025-01-02,VCH-000839,Miscellaneous Expenses,Expense,Other,COGS,Global Enterprises,Bank Transfer,BRAC Bank,REF-0189-OgTc,7564.98,0.0,7564.98,Wide hot inside.,Accounts Officer
+840,2025-01-29,VCH-000840,Cashout Charge,Expense,Bank Charge,Expense,Tech Solutions,Cheque,Nagad,REF-5917-HGjs,18781.54,0.0,18781.54,Happy exist cut.,Accounts Officer
+841,2026-04-29,VCH-000841,Depreciation & Amortization,Expense,Non-Cash,COGS,Tech Solutions,Cheque,Nagad,REF-5107-PPOW,3509.79,0.0,3509.79,Country green man customer do full.,Admin
+842,2025-01-21,VCH-000842,Packing Materials,Expense,COGS,COGS,Prime Services,Cash,City Bank,REF-1924-BHlU,20903.13,0.0,20903.13,Paper pressure hear ball yard development.,Accounts Officer
+843,2024-08-22,VCH-000843,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Tech Solutions,Cheque,Rupali Bank,REF-7667-HDMv,98489.02,0.0,98489.02,Arm assume become beat.,Accounts Officer
+844,2025-02-23,VCH-000844,Salaries & Employee Benefits,Expense,OPEX,Expense,Global Enterprises,Cheque,Sonali Bank,REF-4611-hIpx,10735.63,0.0,10735.63,List wide fall two best whom.,Admin
+845,2025-08-07,VCH-000845,Cashout Charge,Expense,Bank Charge,Banking,Global Enterprises,Bkash,Bkash,REF-5325-adBz,69414.07,0.0,69414.07,Apply career door behind.,Accounts Officer
+846,2025-03-29,VCH-000846,Managing Director Personal Expense,Equity,Drawings,Operations,Tech Solutions,Cheque,Rupali Bank,REF-0438-bXJZ,31960.26,0.0,31960.26,Audience late decision.,Admin
+847,2024-09-21,VCH-000847,Investment Payment,Equity,Capital,Capital,Tech Solutions,Nagad,Bkash,REF-0829-QzNp,53066.49,0.0,53066.49,Professor commercial movie plant our world cut.,Admin
+848,2024-12-15,VCH-000848,Managing Director Personal Expense,Equity,Drawings,COGS,Global Enterprises,Nagad,Janata Bank,REF-8229-alwc,93560.38,0.0,93560.38,Law edge also start.,Finance Manager
+849,2025-08-05,VCH-000849,Loan From Managing Director,Liability,Loan,COGS,Tech Solutions,Cash,BRAC Bank,REF-5044-RbkC,78278.11,0.0,78278.11,Nor involve mouth system live find.,Managing Director
+850,2025-06-19,VCH-000850,Packing Materials,Expense,COGS,Operations,Prime Services,Bank Transfer,Rupali Bank,REF-2310-DXjR,31023.35,0.0,31023.35,Now more cut.,Admin
+851,2024-08-12,VCH-000851,Investment Payment,Equity,Capital,Operations,ABC Corporation,Cheque,Janata Bank,REF-7550-xmnG,68507.1,0.0,68507.1,Executive certain room.,Managing Director
+852,2024-07-25,VCH-000852,Managing Director Personal Expense,Equity,Drawings,Expense,XYZ Ltd.,Nagad,City Bank,REF-2994-enaJ,77131.42,0.0,77131.42,Sense story way agency.,Admin
+853,2025-02-14,VCH-000853,Packing Materials,Expense,COGS,Banking,Tech Solutions,Bkash,Sonali Bank,REF-7321-gWJS,66320.09,0.0,66320.09,Hundred week away religious choice say heavy.,Finance Manager
+854,2025-12-28,VCH-000854,Managing Director Personal Expense,Equity,Drawings,COGS,Prime Services,Cash,Rupali Bank,REF-9567-kbRs,44287.1,0.0,44287.1,Effect order less book thought.,Accounts Officer
+855,2024-12-26,VCH-000855,Managing Director Personal Expense,Equity,Drawings,Expense,Green Energy Co.,Cheque,Janata Bank,REF-4999-KUOd,70478.21,0.0,70478.21,Long those sell where early you happy.,Admin
+856,2025-04-17,VCH-000856,Selling & Distribution Expenses,Expense,OPEX,Capital,Global Enterprises,Cash,Dutch Bangla Bank,REF-9290-cnMA,46259.64,0.0,46259.64,Message size turn hundred people people soon.,Managing Director
+857,2025-09-30,VCH-000857,Salaries & Employee Benefits,Expense,OPEX,Sales,Innovate Ltd.,Bank Transfer,BRAC Bank,REF-5901-tcsd,71091.4,0.0,71091.4,Scientist matter past still pay.,Finance Manager
+858,2024-10-05,VCH-000858,Miscellaneous Expenses,Expense,Other,Capital,Tech Solutions,Bank Transfer,Sonali Bank,REF-2674-jNhD,25505.65,0.0,25505.65,Hundred along child thought start remain scientist.,Managing Director
+859,2024-11-08,VCH-000859,Product Sales,Revenue,Sales,Expense,Green Energy Co.,Bank Transfer,Nagad,REF-1164-jTSQ,0.0,77276.5,77276.5,General term also do form where all.,Admin
+860,2024-09-04,VCH-000860,Salaries & Employee Benefits,Expense,OPEX,COGS,Innovate Ltd.,Bkash,Sonali Bank,REF-2029-deEk,52325.17,0.0,52325.17,My religious store probably relate.,Finance Manager
+861,2024-08-31,VCH-000861,Investment Payment,Equity,Capital,Banking,Tech Solutions,Cheque,Rupali Bank,REF-2601-rUKH,19325.43,0.0,19325.43,Billion important hour source.,Accounts Officer
+862,2025-11-14,VCH-000862,Cashout Charge,Expense,Bank Charge,Banking,Green Energy Co.,Nagad,Sonali Bank,REF-9099-PIhf,46126.24,0.0,46126.24,Young particularly rather general president develop.,Accounts Officer
+863,2025-02-12,VCH-000863,Investment Payment,Equity,Capital,Banking,Green Energy Co.,Cheque,Dutch Bangla Bank,REF-8733-HwEU,76655.82,0.0,76655.82,List when technology character people say mouth.,Finance Manager
+864,2024-07-09,VCH-000864,Salaries & Employee Benefits,Expense,OPEX,Operations,Tech Solutions,Cheque,BRAC Bank,REF-9359-bhCR,93008.76,0.0,93008.76,Pay born account machine animal.,Accounts Officer
+865,2025-03-15,VCH-000865,Administrative Expenses,Expense,OPEX,Operations,Global Enterprises,Cheque,Sonali Bank,REF-8759-kIaR,23621.35,0.0,23621.35,Develop generation group family actually back measure.,Accounts Officer
+866,2025-08-17,VCH-000866,Cashout Charge,Expense,Bank Charge,Expense,Innovate Ltd.,Bkash,Bkash,REF-6796-fiuT,96055.6,0.0,96055.6,Letter lot black choose main property suddenly.,Managing Director
+867,2025-10-06,VCH-000867,Packing Materials,Expense,COGS,Sales,Prime Services,Cheque,Janata Bank,REF-0474-XJwf,87998.5,0.0,87998.5,Continue billion claim peace choice anything.,Accounts Officer
+868,2026-04-21,VCH-000868,Cashout Charge,Expense,Bank Charge,COGS,ABC Corporation,Cash,Sonali Bank,REF-2394-sFuu,80693.89,0.0,80693.89,Fly arm carry offer provide ready.,Finance Manager
+869,2025-06-28,VCH-000869,Cashout Charge,Expense,Bank Charge,COGS,ABC Corporation,Bank Transfer,BRAC Bank,REF-5009-oylN,40756.66,0.0,40756.66,Case low defense know arm middle meet.,Accounts Officer
+870,2025-07-28,VCH-000870,Selling & Distribution Expenses,Expense,OPEX,Banking,ABC Corporation,Nagad,BRAC Bank,REF-4861-yZGY,85789.44,0.0,85789.44,Season news where try.,Finance Manager
+871,2024-07-02,VCH-000871,Administrative Expenses,Expense,OPEX,Banking,XYZ Ltd.,Bkash,BRAC Bank,REF-4922-cAKR,63442.23,0.0,63442.23,Foot play relationship.,Admin
+872,2024-09-23,VCH-000872,Selling & Distribution Expenses,Expense,OPEX,Expense,XYZ Ltd.,Bkash,BRAC Bank,REF-7214-LrYX,96627.68,0.0,96627.68,Top system government produce worry fire exist.,Finance Manager
+873,2026-02-14,VCH-000873,Financial Expenses,Expense,Finance,Sales,Global Enterprises,Cash,City Bank,REF-2394-ZLum,94398.95,0.0,94398.95,Modern age may phone do.,Finance Manager
+874,2025-09-28,VCH-000874,Depreciation & Amortization,Expense,Non-Cash,Capital,ABC Corporation,Bank Transfer,City Bank,REF-5509-rzBw,51713.78,0.0,51713.78,Foreign body consider according lose building safe.,Accounts Officer
+875,2024-12-15,VCH-000875,Miscellaneous Expenses,Expense,Other,Banking,Green Energy Co.,Cash,Nagad,REF-4013-ZTgV,52852.24,0.0,52852.24,Know everyone lot hour old likely positive set.,Managing Director
+876,2025-08-16,VCH-000876,Financial Expenses,Expense,Finance,Banking,Prime Services,Bkash,Nagad,REF-5553-pGYu,37645.07,0.0,37645.07,Day pressure should time drive.,Managing Director
+877,2025-09-17,VCH-000877,Loan From Managing Director,Liability,Loan,Banking,Innovate Ltd.,Cheque,Bkash,REF-2074-pRXj,59696.91,0.0,59696.91,Threat somebody pull offer size child perform.,Accounts Officer
+878,2026-04-05,VCH-000878,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Prime Services,Cheque,BRAC Bank,REF-6021-sMrZ,12860.97,0.0,12860.97,Weight beautiful media.,Admin
+879,2025-12-16,VCH-000879,Depreciation & Amortization,Expense,Non-Cash,COGS,ABC Corporation,Nagad,Janata Bank,REF-1002-EBmo,5050.4,0.0,5050.4,Building thing star sister.,Managing Director
+880,2025-01-24,VCH-000880,Financial Expenses,Expense,Finance,Sales,ABC Corporation,Cash,Bkash,REF-1155-CBsN,43071.25,0.0,43071.25,Marriage energy success morning everybody.,Finance Manager
+881,2026-01-06,VCH-000881,Selling & Distribution Expenses,Expense,OPEX,Banking,Tech Solutions,Bkash,Nagad,REF-9150-EBqc,71670.48,0.0,71670.48,Recently wind chair training collection whose that.,Accounts Officer
+882,2026-01-16,VCH-000882,Depreciation & Amortization,Expense,Non-Cash,Operations,Prime Services,Nagad,Dutch Bangla Bank,REF-4298-JLCz,46911.11,0.0,46911.11,Center but movie current evening available do method.,Admin
+883,2026-01-06,VCH-000883,Selling & Distribution Expenses,Expense,OPEX,Operations,XYZ Ltd.,Bkash,Nagad,REF-8189-IpxP,23706.3,0.0,23706.3,Guess west choice true.,Accounts Officer
+884,2026-01-31,VCH-000884,Cashout Charge,Expense,Bank Charge,Capital,XYZ Ltd.,Cheque,City Bank,REF-7924-iDtA,591.88,0.0,591.88,Country effort where source fire performance available.,Accounts Officer
+885,2024-07-04,VCH-000885,Miscellaneous Expenses,Expense,Other,Expense,Tech Solutions,Nagad,Rupali Bank,REF-3566-oBpF,82852.3,0.0,82852.3,Enjoy eye personal stand stand defense for marriage.,Admin
+886,2025-04-17,VCH-000886,Financial Expenses,Expense,Finance,Sales,XYZ Ltd.,Bank Transfer,City Bank,REF-9973-YwUy,14498.14,0.0,14498.14,Baby low leg early story.,Managing Director
+887,2025-01-26,VCH-000887,Packing Materials,Expense,COGS,COGS,Global Enterprises,Cheque,Sonali Bank,REF-1872-qDpn,79417.93,0.0,79417.93,Rich never several then though series.,Accounts Officer
+888,2024-07-15,VCH-000888,Product Sales,Revenue,Sales,Banking,Innovate Ltd.,Bank Transfer,Nagad,REF-0797-IyxO,0.0,96192.26,96192.26,Environment everybody church research budget activity.,Accounts Officer
+889,2025-01-04,VCH-000889,Administrative Expenses,Expense,OPEX,Expense,Prime Services,Bkash,Bkash,REF-9272-lxka,33987.6,0.0,33987.6,Contain development time.,Managing Director
+890,2025-09-30,VCH-000890,Loan From Managing Director,Liability,Loan,Expense,Global Enterprises,Bkash,BRAC Bank,REF-1956-FyJT,76063.15,0.0,76063.15,Add create consumer beautiful.,Accounts Officer
+891,2025-10-23,VCH-000891,Packing Materials,Expense,COGS,Banking,ABC Corporation,Nagad,City Bank,REF-0511-zVdu,24421.35,0.0,24421.35,Election whom clearly pattern.,Accounts Officer
+892,2026-02-08,VCH-000892,Financial Expenses,Expense,Finance,Expense,Innovate Ltd.,Cheque,Nagad,REF-0135-DEfd,25205.35,0.0,25205.35,Manager production senior inside peace whether.,Managing Director
+893,2024-08-03,VCH-000893,Depreciation & Amortization,Expense,Non-Cash,Capital,Prime Services,Cash,Dutch Bangla Bank,REF-2690-miMR,52810.2,0.0,52810.2,Teach grow dog hot reflect board enter.,Admin
+894,2025-12-06,VCH-000894,Salaries & Employee Benefits,Expense,OPEX,Expense,Global Enterprises,Nagad,Sonali Bank,REF-8289-hjAj,21719.03,0.0,21719.03,Think whether head thank large.,Finance Manager
+895,2025-09-04,VCH-000895,Packing Materials,Expense,COGS,Sales,ABC Corporation,Cheque,Janata Bank,REF-9343-NHVA,4806.55,0.0,4806.55,Today address just window.,Finance Manager
+896,2025-01-31,VCH-000896,Marketing & Sales Expenses,Expense,OPEX,Sales,Tech Solutions,Bkash,Nagad,REF-8100-wslp,98249.25,0.0,98249.25,Central daughter area phone may.,Finance Manager
+897,2024-06-11,VCH-000897,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Tech Solutions,Bank Transfer,Sonali Bank,REF-1980-ljNu,32532.48,0.0,32532.48,Beat language paper of choose campaign phone.,Admin
+898,2026-02-25,VCH-000898,Product Sales,Revenue,Sales,Sales,Innovate Ltd.,Cheque,City Bank,REF-5310-BCLk,0.0,46374.72,46374.72,Moment table research least.,Finance Manager
+899,2025-08-24,VCH-000899,Packing Materials,Expense,COGS,Capital,Prime Services,Cash,Dutch Bangla Bank,REF-2294-Sdhu,57382.13,0.0,57382.13,Exist water difference ball majority use number than.,Accounts Officer
+900,2026-04-11,VCH-000900,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Tech Solutions,Cheque,Bkash,REF-5536-wUGp,32599.91,0.0,32599.91,President crime box some popular.,Managing Director
+901,2024-11-10,VCH-000901,Depreciation & Amortization,Expense,Non-Cash,Expense,Prime Services,Nagad,City Bank,REF-8202-ujHL,50273.75,0.0,50273.75,Drug effort pretty whose.,Managing Director
+902,2024-11-09,VCH-000902,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,XYZ Ltd.,Bank Transfer,Sonali Bank,REF-3031-ABiX,78820.05,0.0,78820.05,Dog receive down meet party reality mean.,Managing Director
+903,2025-08-08,VCH-000903,Packing Materials,Expense,COGS,COGS,ABC Corporation,Cheque,City Bank,REF-7381-ijyk,29902.34,0.0,29902.34,Relationship bar American else.,Managing Director
+904,2026-03-21,VCH-000904,Salaries & Employee Benefits,Expense,OPEX,Expense,XYZ Ltd.,Cash,BRAC Bank,REF-7485-urvU,93178.12,0.0,93178.12,Bar should vote type responsibility maybe this.,Managing Director
+905,2025-01-17,VCH-000905,Marketing & Sales Expenses,Expense,OPEX,Capital,Prime Services,Bank Transfer,Janata Bank,REF-2993-rigH,16199.79,0.0,16199.79,My guess like level interview international interview whole.,Finance Manager
+906,2026-01-04,VCH-000906,Cashout Charge,Expense,Bank Charge,Banking,Tech Solutions,Bkash,Dutch Bangla Bank,REF-1700-kOYn,8948.44,0.0,8948.44,Control interview quickly party season care away.,Admin
+907,2025-02-17,VCH-000907,Salaries & Employee Benefits,Expense,OPEX,Operations,Green Energy Co.,Nagad,Janata Bank,REF-6312-ejkP,46625.22,0.0,46625.22,Avoid five art let pick answer another.,Accounts Officer
+908,2025-03-03,VCH-000908,Packing Materials,Expense,COGS,COGS,Global Enterprises,Cheque,Sonali Bank,REF-0548-edSf,14248.11,0.0,14248.11,Particularly along somebody base.,Admin
+909,2024-06-17,VCH-000909,Investment Payment,Equity,Capital,COGS,Innovate Ltd.,Cash,Sonali Bank,REF-3367-bPZY,22394.74,0.0,22394.74,Mother heavy whole.,Finance Manager
+910,2025-12-17,VCH-000910,Miscellaneous Expenses,Expense,Other,COGS,Innovate Ltd.,Cheque,Dutch Bangla Bank,REF-8356-YLgZ,71449.83,0.0,71449.83,Girl record board produce.,Managing Director
+911,2025-04-20,VCH-000911,Financial Expenses,Expense,Finance,Operations,ABC Corporation,Cash,City Bank,REF-4620-iVaq,66489.39,0.0,66489.39,Appear much forget beat energy bank assume nothing.,Admin
+912,2026-05-18,VCH-000912,Selling & Distribution Expenses,Expense,OPEX,Capital,Green Energy Co.,Bank Transfer,Janata Bank,REF-3454-Apch,73339.31,0.0,73339.31,Billion move you.,Managing Director
+913,2024-08-13,VCH-000913,Depreciation & Amortization,Expense,Non-Cash,COGS,XYZ Ltd.,Cheque,City Bank,REF-5244-tJtz,88114.8,0.0,88114.8,Security threat state event bit.,Finance Manager
+914,2025-11-28,VCH-000914,Marketing & Sales Expenses,Expense,OPEX,COGS,Global Enterprises,Cash,Sonali Bank,REF-2559-weLS,46809.77,0.0,46809.77,Meet cover now your mean.,Admin
+915,2026-02-03,VCH-000915,Packing Materials,Expense,COGS,Expense,Tech Solutions,Bank Transfer,Nagad,REF-9209-cNoD,7546.98,0.0,7546.98,Opportunity important bad capital.,Accounts Officer
+916,2025-08-17,VCH-000916,Investment Payment,Equity,Capital,COGS,Prime Services,Bank Transfer,Dutch Bangla Bank,REF-4065-NayI,84009.85,0.0,84009.85,Many account admit reveal gun stay.,Finance Manager
+917,2025-02-07,VCH-000917,Selling & Distribution Expenses,Expense,OPEX,Banking,XYZ Ltd.,Cheque,BRAC Bank,REF-1774-AUbt,88984.16,0.0,88984.16,Realize weight lose.,Managing Director
+918,2025-09-25,VCH-000918,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,XYZ Ltd.,Cash,Dutch Bangla Bank,REF-8757-adxe,47168.2,0.0,47168.2,Particular leave deal bank skin good thought.,Managing Director
+919,2024-11-12,VCH-000919,Loan From Managing Director,Liability,Loan,Expense,Global Enterprises,Cheque,BRAC Bank,REF-7756-sChE,37155.94,0.0,37155.94,Once too across assume sometimes structure know.,Admin
+920,2026-04-17,VCH-000920,Cashout Charge,Expense,Bank Charge,Capital,Global Enterprises,Cash,Dutch Bangla Bank,REF-2572-rXvh,18396.37,0.0,18396.37,Or second visit become list.,Accounts Officer
+921,2025-07-18,VCH-000921,Loan From Managing Director,Liability,Loan,Operations,Prime Services,Bkash,BRAC Bank,REF-6384-oeiL,38423.62,0.0,38423.62,Nearly step begin ready more deal.,Accounts Officer
+922,2025-03-02,VCH-000922,Administrative Expenses,Expense,OPEX,Expense,Tech Solutions,Bank Transfer,Sonali Bank,REF-1144-JzUO,44700.76,0.0,44700.76,Though camera card accept run drop sound.,Admin
+923,2024-08-17,VCH-000923,Production or Cost of Goods Sold (COGS),Expense,COGS,Expense,Green Energy Co.,Bkash,BRAC Bank,REF-2691-lvTf,67124.22,0.0,67124.22,Moment different along guy over establish trip.,Finance Manager
+924,2025-08-13,VCH-000924,Managing Director Personal Expense,Equity,Drawings,Banking,Green Energy Co.,Nagad,Janata Bank,REF-4965-cWxq,19485.61,0.0,19485.61,New public anyone.,Managing Director
+925,2025-01-17,VCH-000925,Managing Director Personal Expense,Equity,Drawings,Capital,Innovate Ltd.,Cheque,BRAC Bank,REF-6571-acld,28045.99,0.0,28045.99,Former skill theory Congress future simple business amount.,Admin
+926,2024-06-20,VCH-000926,Loan From Managing Director,Liability,Loan,Capital,Innovate Ltd.,Bank Transfer,City Bank,REF-4837-ZpKW,42074.79,0.0,42074.79,Look after guess drive.,Finance Manager
+927,2025-11-30,VCH-000927,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Prime Services,Cash,Janata Bank,REF-4204-KLBt,7349.63,0.0,7349.63,Yeah maybe particular shoulder.,Managing Director
+928,2025-05-30,VCH-000928,Loan From Managing Director,Liability,Loan,Banking,Prime Services,Bank Transfer,Janata Bank,REF-3636-tRGE,48719.15,0.0,48719.15,Car claim report environmental.,Admin
+929,2025-03-16,VCH-000929,Salaries & Employee Benefits,Expense,OPEX,Sales,Tech Solutions,Bank Transfer,Sonali Bank,REF-9649-kFdp,35452.11,0.0,35452.11,Set understand sit smile modern about.,Admin
+930,2025-10-31,VCH-000930,Financial Expenses,Expense,Finance,Capital,Prime Services,Bkash,Dutch Bangla Bank,REF-5696-MeOo,82662.92,0.0,82662.92,Few huge indicate time.,Accounts Officer
+931,2025-05-09,VCH-000931,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,ABC Corporation,Nagad,Bkash,REF-1808-IBNR,32567.13,0.0,32567.13,Later alone rich each plant century local.,Accounts Officer
+932,2026-06-08,VCH-000932,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,Innovate Ltd.,Cash,BRAC Bank,REF-0126-kXov,51846.37,0.0,51846.37,Party officer know industry charge child.,Managing Director
+933,2025-12-05,VCH-000933,Cashout Charge,Expense,Bank Charge,Operations,ABC Corporation,Nagad,BRAC Bank,REF-3054-pIpe,95979.72,0.0,95979.72,Leg store challenge material want evening purpose.,Finance Manager
+934,2024-10-13,VCH-000934,Packing Materials,Expense,COGS,Sales,Global Enterprises,Bank Transfer,Bkash,REF-5741-QJQS,41781.62,0.0,41781.62,Appear sometimes until lose others.,Managing Director
+935,2025-08-30,VCH-000935,Managing Director Personal Expense,Equity,Drawings,COGS,Prime Services,Bank Transfer,City Bank,REF-4353-tque,43136.08,0.0,43136.08,Guess democratic artist time listen.,Accounts Officer
+936,2025-02-21,VCH-000936,Salaries & Employee Benefits,Expense,OPEX,Operations,ABC Corporation,Bkash,Bkash,REF-6724-izem,57234.89,0.0,57234.89,Action inside opportunity within than.,Admin
+937,2025-06-14,VCH-000937,Miscellaneous Expenses,Expense,Other,Expense,XYZ Ltd.,Cheque,City Bank,REF-2279-vknE,46793.03,0.0,46793.03,Improve herself pay establish.,Accounts Officer
+938,2025-05-21,VCH-000938,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,Green Energy Co.,Cash,Rupali Bank,REF-8282-zlMJ,50602.44,0.0,50602.44,Trip find card game plant.,Managing Director
+939,2024-09-10,VCH-000939,Investment Payment,Equity,Capital,Capital,ABC Corporation,Bkash,Nagad,REF-4502-KBFG,82837.85,0.0,82837.85,Sense have because now.,Admin
+940,2025-03-12,VCH-000940,Administrative Expenses,Expense,OPEX,COGS,Innovate Ltd.,Bkash,Janata Bank,REF-9449-oraO,94914.5,0.0,94914.5,Thing last happen act.,Admin
+941,2024-11-11,VCH-000941,Selling & Distribution Expenses,Expense,OPEX,Operations,Green Energy Co.,Cheque,Rupali Bank,REF-4877-sfHD,90133.52,0.0,90133.52,Detail main walk artist.,Admin
+942,2024-10-26,VCH-000942,Administrative Expenses,Expense,OPEX,Banking,Prime Services,Cheque,Janata Bank,REF-2945-kmYk,43191.32,0.0,43191.32,Compare investment item item.,Managing Director
+943,2025-01-27,VCH-000943,Loan From Managing Director,Liability,Loan,Banking,Innovate Ltd.,Bkash,Rupali Bank,REF-3750-SkLk,12291.37,0.0,12291.37,Congress position bring image later throw such.,Accounts Officer
+944,2025-01-23,VCH-000944,Managing Director Personal Expense,Equity,Drawings,COGS,Global Enterprises,Cheque,Dutch Bangla Bank,REF-4210-LdOH,59742.61,0.0,59742.61,Peace per with clearly walk open.,Accounts Officer
+945,2024-09-13,VCH-000945,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Nagad,City Bank,REF-2472-NpCL,99187.69,0.0,99187.69,Such PM cost western kitchen miss.,Managing Director
+946,2026-05-04,VCH-000946,Administrative Expenses,Expense,OPEX,Banking,Tech Solutions,Bkash,Nagad,REF-0155-dCuk,51907.76,0.0,51907.76,Dog reflect cold senior image policy research.,Managing Director
+947,2026-03-25,VCH-000947,Financial Expenses,Expense,Finance,Expense,Global Enterprises,Bank Transfer,BRAC Bank,REF-8301-SeQG,77467.12,0.0,77467.12,Factor be eat play design southern my choice.,Managing Director
+948,2025-08-11,VCH-000948,Financial Expenses,Expense,Finance,Expense,XYZ Ltd.,Cash,Dutch Bangla Bank,REF-2188-xnyv,21244.93,0.0,21244.93,Successful career set cell TV one hundred.,Admin
+949,2024-07-16,VCH-000949,Marketing & Sales Expenses,Expense,OPEX,COGS,Global Enterprises,Cheque,Dutch Bangla Bank,REF-7291-FFvo,97564.44,0.0,97564.44,Pull management future my heavy arrive follow bank.,Finance Manager
+950,2026-04-02,VCH-000950,Marketing & Sales Expenses,Expense,OPEX,Operations,Global Enterprises,Bkash,Nagad,REF-7181-eDbP,90101.18,0.0,90101.18,Rather man finish.,Admin
+951,2026-02-23,VCH-000951,Financial Expenses,Expense,Finance,Banking,Innovate Ltd.,Cheque,BRAC Bank,REF-9348-ZXrG,63975.84,0.0,63975.84,Method surface why.,Finance Manager
+952,2026-01-13,VCH-000952,Loan From Managing Director,Liability,Loan,Banking,Green Energy Co.,Bkash,Rupali Bank,REF-7003-laXQ,95741.97,0.0,95741.97,Hear we try control wall difference.,Accounts Officer
+953,2024-08-26,VCH-000953,Production or Cost of Goods Sold (COGS),Expense,COGS,Sales,ABC Corporation,Bkash,Nagad,REF-4373-pBtp,28176.89,0.0,28176.89,Notice impact type run board in interesting.,Finance Manager
+954,2024-07-20,VCH-000954,Investment Payment,Equity,Capital,Operations,Prime Services,Cash,Rupali Bank,REF-7160-EGqL,99549.92,0.0,99549.92,Congress him hot indeed.,Admin
+955,2024-10-18,VCH-000955,Marketing & Sales Expenses,Expense,OPEX,Expense,Innovate Ltd.,Bkash,City Bank,REF-0300-Ppri,6347.25,0.0,6347.25,Account rise agree fly anything.,Managing Director
+956,2024-11-26,VCH-000956,Marketing & Sales Expenses,Expense,OPEX,Capital,Innovate Ltd.,Nagad,Sonali Bank,REF-0582-qXFk,86974.69,0.0,86974.69,Major mother three recent family under increase.,Finance Manager
+957,2025-08-10,VCH-000957,Production or Cost of Goods Sold (COGS),Expense,COGS,Banking,Green Energy Co.,Nagad,City Bank,REF-1740-HYXW,51270.42,0.0,51270.42,Happen relate push total many season.,Managing Director
+958,2025-04-03,VCH-000958,Financial Expenses,Expense,Finance,Banking,Tech Solutions,Bkash,BRAC Bank,REF-7669-rBdk,3338.08,0.0,3338.08,Short military buy herself.,Managing Director
+959,2025-02-10,VCH-000959,Salaries & Employee Benefits,Expense,OPEX,Banking,Innovate Ltd.,Bank Transfer,Dutch Bangla Bank,REF-9078-dhmA,23314.07,0.0,23314.07,Production job everything activity election.,Accounts Officer
+960,2026-02-23,VCH-000960,Product Sales,Revenue,Sales,Sales,Tech Solutions,Cash,Bkash,REF-7674-fvzc,0.0,62604.81,62604.81,Wish state consumer later during wait.,Managing Director
+961,2025-11-15,VCH-000961,Salaries & Employee Benefits,Expense,OPEX,Operations,Global Enterprises,Bank Transfer,Rupali Bank,REF-8085-DcPu,42106.99,0.0,42106.99,Moment she forget public ago issue.,Admin
+962,2024-12-04,VCH-000962,Product Sales,Revenue,Sales,Operations,Global Enterprises,Cash,Rupali Bank,REF-0746-dBeF,0.0,99550.3,99550.3,Agency each need person smile him school.,Admin
+963,2026-04-07,VCH-000963,Salaries & Employee Benefits,Expense,OPEX,Operations,Prime Services,Bank Transfer,Janata Bank,REF-5540-zWwa,4647.25,0.0,4647.25,Bring listen program car score together hit.,Admin
+964,2024-06-11,VCH-000964,Investment Payment,Equity,Capital,COGS,Prime Services,Cash,Bkash,REF-0343-oUTl,15290.32,0.0,15290.32,Positive win recognize necessary feel save most.,Managing Director
+965,2025-01-31,VCH-000965,Administrative Expenses,Expense,OPEX,Operations,Prime Services,Cash,Rupali Bank,REF-1882-ixgS,22263.01,0.0,22263.01,Yeah contain well someone conference buy.,Finance Manager
+966,2024-08-13,VCH-000966,Depreciation & Amortization,Expense,Non-Cash,COGS,XYZ Ltd.,Bank Transfer,Janata Bank,REF-8729-sKEe,21301.67,0.0,21301.67,Along music fly.,Accounts Officer
+967,2025-02-09,VCH-000967,Selling & Distribution Expenses,Expense,OPEX,Expense,ABC Corporation,Bank Transfer,Rupali Bank,REF-4393-zqwh,3071.36,0.0,3071.36,Gas significant reality memory.,Admin
+968,2025-06-09,VCH-000968,Investment Payment,Equity,Capital,Banking,ABC Corporation,Nagad,City Bank,REF-3684-oXKQ,17201.37,0.0,17201.37,Memory medical personal claim his.,Admin
+969,2025-07-19,VCH-000969,Loan From Managing Director,Liability,Loan,Banking,Innovate Ltd.,Cheque,Nagad,REF-9129-eNhb,49670.42,0.0,49670.42,Visit business world medical big choice.,Finance Manager
+970,2026-02-18,VCH-000970,Investment Payment,Equity,Capital,Expense,Green Energy Co.,Cash,Nagad,REF-4799-kMFn,80018.55,0.0,80018.55,Name care measure.,Finance Manager
+971,2025-02-28,VCH-000971,Production or Cost of Goods Sold (COGS),Expense,COGS,Operations,XYZ Ltd.,Nagad,Bkash,REF-0923-JkYH,36580.69,0.0,36580.69,Debate security Mrs Mrs PM.,Finance Manager
+972,2025-11-07,VCH-000972,Salaries & Employee Benefits,Expense,OPEX,Banking,ABC Corporation,Cheque,Rupali Bank,REF-6973-gamb,81937.64,0.0,81937.64,Yet coach whether society.,Accounts Officer
+973,2026-05-12,VCH-000973,Loan From Managing Director,Liability,Loan,Operations,ABC Corporation,Nagad,Dutch Bangla Bank,REF-1962-MdCY,95554.69,0.0,95554.69,Body scene up hospital up there return.,Accounts Officer
+974,2026-02-24,VCH-000974,Investment Payment,Equity,Capital,Expense,Green Energy Co.,Cash,Bkash,REF-1234-juPy,2022.69,0.0,2022.69,Arm discuss room senior nature.,Managing Director
+975,2026-04-08,VCH-000975,Investment Payment,Equity,Capital,COGS,Global Enterprises,Bkash,Rupali Bank,REF-0881-zjJN,61088.98,0.0,61088.98,Program town class Mrs fact save trade clear.,Accounts Officer
+976,2025-06-24,VCH-000976,Loan From Managing Director,Liability,Loan,Operations,ABC Corporation,Cash,Dutch Bangla Bank,REF-3567-fXpv,84014.03,0.0,84014.03,Writer paper rate color range.,Accounts Officer
+977,2025-12-13,VCH-000977,Packing Materials,Expense,COGS,Capital,ABC Corporation,Bank Transfer,Sonali Bank,REF-1145-Noeh,90507.41,0.0,90507.41,Position month skin image picture.,Finance Manager
+978,2025-07-31,VCH-000978,Managing Director Personal Expense,Equity,Drawings,Banking,XYZ Ltd.,Bkash,Rupali Bank,REF-5988-UqIM,36320.88,0.0,36320.88,Should page carry full describe firm.,Finance Manager
+979,2024-10-07,VCH-000979,Selling & Distribution Expenses,Expense,OPEX,Banking,Green Energy Co.,Cash,City Bank,REF-3423-EyEN,75245.16,0.0,75245.16,Baby science stage.,Accounts Officer
+980,2025-10-23,VCH-000980,Investment Payment,Equity,Capital,Banking,Prime Services,Cheque,Janata Bank,REF-4539-IikV,28501.06,0.0,28501.06,Religious fine least itself home enough.,Admin
+981,2026-04-02,VCH-000981,Miscellaneous Expenses,Expense,Other,Capital,Innovate Ltd.,Bkash,Sonali Bank,REF-5305-zVhD,75725.14,0.0,75725.14,Business worry rule ready.,Finance Manager
+982,2024-12-27,VCH-000982,Investment Payment,Equity,Capital,Capital,Innovate Ltd.,Cheque,City Bank,REF-7503-GGRK,80942.14,0.0,80942.14,Official Democrat else.,Finance Manager
+983,2025-09-25,VCH-000983,Depreciation & Amortization,Expense,Non-Cash,Capital,Global Enterprises,Cash,BRAC Bank,REF-4235-bQfO,13265.57,0.0,13265.57,Whom plan apply.,Accounts Officer
+984,2026-05-12,VCH-000984,Product Sales,Revenue,Sales,Sales,Global Enterprises,Cash,Rupali Bank,REF-3537-FgbG,0.0,46441.8,46441.8,Majority several type pattern cell identify.,Managing Director
+985,2024-11-11,VCH-000985,Financial Expenses,Expense,Finance,Capital,Innovate Ltd.,Cheque,Janata Bank,REF-7047-xUwh,30510.88,0.0,30510.88,Back her pressure up.,Finance Manager
+986,2025-07-11,VCH-000986,Financial Expenses,Expense,Finance,Capital,XYZ Ltd.,Bkash,Dutch Bangla Bank,REF-7706-Knbt,36287.4,0.0,36287.4,Every example room.,Accounts Officer
+987,2025-05-31,VCH-000987,Selling & Distribution Expenses,Expense,OPEX,Banking,Global Enterprises,Nagad,BRAC Bank,REF-2151-JaSH,87460.77,0.0,87460.77,I get throughout tax.,Finance Manager
+988,2025-08-30,VCH-000988,Production or Cost of Goods Sold (COGS),Expense,COGS,Capital,ABC Corporation,Bkash,BRAC Bank,REF-0711-glZe,45878.51,0.0,45878.51,Cold officer final have argue.,Accounts Officer
+989,2025-11-01,VCH-000989,Packing Materials,Expense,COGS,Operations,Green Energy Co.,Bank Transfer,City Bank,REF-5896-Hudi,65270.23,0.0,65270.23,Job happen citizen hot bed attorney political.,Finance Manager
+990,2026-04-26,VCH-000990,Depreciation & Amortization,Expense,Non-Cash,Capital,ABC Corporation,Nagad,Nagad,REF-7427-HIRo,45159.6,0.0,45159.6,At our ahead into test serious ready.,Admin
+991,2026-02-16,VCH-000991,Salaries & Employee Benefits,Expense,OPEX,Expense,Green Energy Co.,Nagad,City Bank,REF-6352-ZOWJ,91095.13,0.0,91095.13,Forward serious those day education his relate.,Finance Manager
+992,2025-03-13,VCH-000992,Salaries & Employee Benefits,Expense,OPEX,Capital,ABC Corporation,Cheque,BRAC Bank,REF-6898-xsux,14012.54,0.0,14012.54,Politics food still onto future imagine summer.,Managing Director
+993,2024-12-03,VCH-000993,Depreciation & Amortization,Expense,Non-Cash,Capital,Global Enterprises,Cheque,Sonali Bank,REF-9273-cgrB,14680.27,0.0,14680.27,Film likely individual fall plant.,Managing Director
+994,2025-11-09,VCH-000994,Administrative Expenses,Expense,OPEX,Banking,Tech Solutions,Nagad,Rupali Bank,REF-8909-Vwaf,73626.35,0.0,73626.35,Like for strong cover book.,Accounts Officer
+995,2026-04-28,VCH-000995,Miscellaneous Expenses,Expense,Other,Sales,Global Enterprises,Bkash,Rupali Bank,REF-7115-VBis,28117.05,0.0,28117.05,Board listen listen box beyond usually.,Accounts Officer
+996,2026-02-01,VCH-000996,Administrative Expenses,Expense,OPEX,Sales,Innovate Ltd.,Nagad,Nagad,REF-8404-Xcol,29422.12,0.0,29422.12,Nor how attorney score.,Finance Manager
+997,2026-05-03,VCH-000997,Investment Payment,Equity,Capital,COGS,Global Enterprises,Bkash,Dutch Bangla Bank,REF-9412-kBCz,49859.88,0.0,49859.88,Raise subject heavy generation cut lose value.,Accounts Officer
+998,2025-07-28,VCH-000998,Financial Expenses,Expense,Finance,COGS,Prime Services,Bkash,City Bank,REF-6537-OGmE,82766.65,0.0,82766.65,Report teach form star think.,Finance Manager
+999,2024-08-19,VCH-000999,Investment Payment,Equity,Capital,Operations,Green Energy Co.,Cheque,BRAC Bank,REF-0965-NpKs,16853.86,0.0,16853.86,Charge discussion share these store level quality.,Admin
+1000,2025-03-17,VCH-001000,Miscellaneous Expenses,Expense,Other,COGS,XYZ Ltd.,Nagad,Nagad,REF-7652-oMIF,42725.35,0.0,42725.35,Win if all project.,Finance Manager
